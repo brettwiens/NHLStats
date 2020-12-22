@@ -1,0 +1,767 @@
+,ID,FullName,Link,PosCode,PosName,PosType,PosAbbreviation,Team
+0,8470645,Corey Crawford,/api/v1/people/8470645,G,Goalie,Goalie,G,New Jersey Devils
+1,8471233,Travis Zajac,/api/v1/people/8471233,C,Center,Forward,C,New Jersey Devils
+2,8474056,P.K. Subban,/api/v1/people/8474056,D,Defenseman,Defenseman,D,New Jersey Devils
+3,8475151,Kyle Palmieri,/api/v1/people/8475151,R,Right Wing,Forward,RW,New Jersey Devils
+4,8475179,Dmitry Kulikov,/api/v1/people/8475179,D,Defenseman,Defenseman,D,New Jersey Devils
+5,8476850,Ryan Murray,/api/v1/people/8476850,D,Defenseman,Defenseman,D,New Jersey Devils
+6,8476923,Damon Severson,/api/v1/people/8476923,D,Defenseman,Defenseman,D,New Jersey Devils
+7,8476941,Connor Carrick,/api/v1/people/8476941,D,Defenseman,Defenseman,D,New Jersey Devils
+8,8477038,Nikita Gusev,/api/v1/people/8477038,L,Left Wing,Forward,LW,New Jersey Devils
+9,8477341,Andreas Johnsson,/api/v1/people/8477341,L,Left Wing,Forward,LW,New Jersey Devils
+10,8477355,Will Butcher,/api/v1/people/8477355,D,Defenseman,Defenseman,D,New Jersey Devils
+11,8477425,Miles Wood,/api/v1/people/8477425,L,Left Wing,Forward,LW,New Jersey Devils
+12,8478401,Pavel Zacha,/api/v1/people/8478401,C,Center,Forward,C,New Jersey Devils
+13,8478406,Mackenzie Blackwood,/api/v1/people/8478406,G,Goalie,Goalie,G,New Jersey Devils
+14,8479407,Jesper Bratt,/api/v1/people/8479407,L,Left Wing,Forward,LW,New Jersey Devils
+15,8479415,Michael McLeod,/api/v1/people/8479415,C,Center,Forward,C,New Jersey Devils
+16,8480002,Nico Hischier,/api/v1/people/8480002,C,Center,Forward,C,New Jersey Devils
+17,8481559,Jack Hughes,/api/v1/people/8481559,C,Center,Forward,C,New Jersey Devils
+18,8477506,Ryan Pulock,/api/v1/people/8477506,D,Defenseman,Defenseman,D,New York Islanders
+19,8470187,Johnny Boychuk,/api/v1/people/8470187,D,Defenseman,Defenseman,D,New York Islanders
+20,8471217,Andrew Ladd,/api/v1/people/8471217,L,Left Wing,Forward,LW,New York Islanders
+21,8473463,Leo Komarov,/api/v1/people/8473463,R,Right Wing,Forward,RW,New York Islanders
+22,8473504,Cal Clutterbuck,/api/v1/people/8473504,R,Right Wing,Forward,RW,New York Islanders
+23,8473575,Semyon Varlamov,/api/v1/people/8473575,G,Goalie,Goalie,G,New York Islanders
+24,8474066,Thomas Hickey,/api/v1/people/8474066,D,Defenseman,Defenseman,D,New York Islanders
+25,8474573,Josh Bailey,/api/v1/people/8474573,R,Right Wing,Forward,RW,New York Islanders
+26,8474586,Jordan Eberle,/api/v1/people/8474586,R,Right Wing,Forward,RW,New York Islanders
+27,8475181,Nick Leddy,/api/v1/people/8475181,D,Defenseman,Defenseman,D,New York Islanders
+28,8475231,Casey Cizikas,/api/v1/people/8475231,C,Center,Forward,C,New York Islanders
+29,8475314,Anders Lee,/api/v1/people/8475314,L,Left Wing,Forward,LW,New York Islanders
+30,8475754,Brock Nelson,/api/v1/people/8475754,C,Center,Forward,C,New York Islanders
+31,8476419,Jean-Gabriel Pageau,/api/v1/people/8476419,C,Center,Forward,C,New York Islanders
+32,8476429,Scott Mayfield,/api/v1/people/8476429,D,Defenseman,Defenseman,D,New York Islanders
+33,8476917,Adam Pelech,/api/v1/people/8476917,D,Defenseman,Defenseman,D,New York Islanders
+34,8477527,Ross Johnston,/api/v1/people/8477527,L,Left Wing,Forward,LW,New York Islanders
+35,8477936,Michael Dal Colle,/api/v1/people/8477936,L,Left Wing,Forward,LW,New York Islanders
+36,8478445,Mathew Barzal,/api/v1/people/8478445,C,Center,Forward,C,New York Islanders
+37,8478463,Anthony Beauvillier,/api/v1/people/8478463,L,Left Wing,Forward,LW,New York Islanders
+38,8478512,Austin Czarnik,/api/v1/people/8478512,C,Center,Forward,C,New York Islanders
+39,8480222,Sebastian Aho,/api/v1/people/8480222,D,Defenseman,Defenseman,D,New York Islanders
+40,8480865,Noah Dobson,/api/v1/people/8480865,D,Defenseman,Defenseman,D,New York Islanders
+41,8471677,Jack Johnson,/api/v1/people/8471677,D,Defenseman,Defenseman,D,New York Rangers
+42,8476458,Ryan Strome,/api/v1/people/8476458,C,Center,Forward,C,New York Rangers
+43,8476858,Phillip Di Giuseppe,/api/v1/people/8476858,L,Left Wing,Forward,LW,New York Rangers
+44,8477950,Tony DeAngelo,/api/v1/people/8477950,D,Defenseman,Defenseman,D,New York Rangers
+45,8477962,Brendan Lemieux,/api/v1/people/8477962,L,Left Wing,Forward,LW,New York Rangers
+46,8480382,Alexandar Georgiev,/api/v1/people/8480382,G,Goalie,Goalie,G,New York Rangers
+47,8474090,Brendan Smith,/api/v1/people/8474090,D,Defenseman,Defenseman,D,New York Rangers
+48,8475184,Chris Kreider,/api/v1/people/8475184,L,Left Wing,Forward,LW,New York Rangers
+49,8475868,Anthony Bitetto,/api/v1/people/8475868,D,Defenseman,Defenseman,D,New York Rangers
+50,8476278,Colin Blackwell,/api/v1/people/8476278,C,Center,Forward,C,New York Rangers
+51,8476459,Mika Zibanejad,/api/v1/people/8476459,C,Center,Forward,C,New York Rangers
+52,8476885,Jacob Trouba,/api/v1/people/8476885,D,Defenseman,Defenseman,D,New York Rangers
+53,8477402,Pavel Buchnevich,/api/v1/people/8477402,R,Right Wing,Forward,RW,New York Rangers
+54,8478048,Igor Shesterkin,/api/v1/people/8478048,G,Goalie,Goalie,G,New York Rangers
+55,8478550,Artemi Panarin,/api/v1/people/8478550,L,Left Wing,Forward,LW,New York Rangers
+56,8479291,Kevin Rooney,/api/v1/people/8479291,C,Center,Forward,C,New York Rangers
+57,8479323,Adam Fox,/api/v1/people/8479323,D,Defenseman,Defenseman,D,New York Rangers
+58,8479324,Ryan Lindgren,/api/v1/people/8479324,D,Defenseman,Defenseman,D,New York Rangers
+59,8479328,Julien Gauthier,/api/v1/people/8479328,R,Right Wing,Forward,RW,New York Rangers
+60,8479353,Brett Howden,/api/v1/people/8479353,C,Center,Forward,C,New York Rangers
+61,8480078,Filip Chytil,/api/v1/people/8480078,C,Center,Forward,C,New York Rangers
+62,8481554,Kaapo Kakko,/api/v1/people/8481554,R,Right Wing,Forward,RW,New York Rangers
+63,8477502,Samuel Morin,/api/v1/people/8477502,D,Defenseman,Defenseman,D,Philadelphia Flyers
+64,8470880,Brian Elliott,/api/v1/people/8470880,G,Goalie,Goalie,G,Philadelphia Flyers
+65,8471702,Matt Niskanen,/api/v1/people/8471702,D,Defenseman,Defenseman,D,Philadelphia Flyers
+66,8473512,Claude Giroux,/api/v1/people/8473512,C,Center,Forward,C,Philadelphia Flyers
+67,8474027,Justin Braun,/api/v1/people/8474027,D,Defenseman,Defenseman,D,Philadelphia Flyers
+68,8474037,James van Riemsdyk,/api/v1/people/8474037,L,Left Wing,Forward,LW,Philadelphia Flyers
+69,8474161,Jakub Voracek,/api/v1/people/8474161,R,Right Wing,Forward,RW,Philadelphia Flyers
+70,8475763,Kevin Hayes,/api/v1/people/8475763,C,Center,Forward,C,Philadelphia Flyers
+71,8476404,Andy Andreoff,/api/v1/people/8476404,C,Center,Forward,C,Philadelphia Flyers
+72,8476461,Sean Couturier,/api/v1/people/8476461,C,Center,Forward,C,Philadelphia Flyers
+73,8476872,Scott Laughton,/api/v1/people/8476872,C,Center,Forward,C,Philadelphia Flyers
+74,8476884,Derrick Pouliot,/api/v1/people/8476884,D,Defenseman,Defenseman,D,Philadelphia Flyers
+75,8476906,Shayne Gostisbehere,/api/v1/people/8476906,D,Defenseman,Defenseman,D,Philadelphia Flyers
+76,8476979,Erik Gustafsson,/api/v1/people/8476979,D,Defenseman,Defenseman,D,Philadelphia Flyers
+77,8477462,Robert Hagg,/api/v1/people/8477462,D,Defenseman,Defenseman,D,Philadelphia Flyers
+78,8477948,Travis Sanheim,/api/v1/people/8477948,D,Defenseman,Defenseman,D,Philadelphia Flyers
+79,8477979,Nicolas Aube-Kubel,/api/v1/people/8477979,R,Right Wing,Forward,RW,Philadelphia Flyers
+80,8478017,Mark Friedman,/api/v1/people/8478017,D,Defenseman,Defenseman,D,Philadelphia Flyers
+81,8478067,Oskar Lindblom,/api/v1/people/8478067,L,Left Wing,Forward,LW,Philadelphia Flyers
+82,8478439,Travis Konecny,/api/v1/people/8478439,R,Right Wing,Forward,RW,Philadelphia Flyers
+83,8478500,Ivan Provorov,/api/v1/people/8478500,D,Defenseman,Defenseman,D,Philadelphia Flyers
+84,8479312,Alex Lyon,/api/v1/people/8479312,G,Goalie,Goalie,G,Philadelphia Flyers
+85,8479382,Connor Bunnaman,/api/v1/people/8479382,C,Center,Forward,C,Philadelphia Flyers
+86,8479394,Carter Hart,/api/v1/people/8479394,G,Goalie,Goalie,G,Philadelphia Flyers
+87,8480028,Morgan Frost,/api/v1/people/8480028,C,Center,Forward,C,Philadelphia Flyers
+88,8480797,Joel Farabee,/api/v1/people/8480797,L,Left Wing,Forward,LW,Philadelphia Flyers
+89,8481178,Egor Zamula,/api/v1/people/8481178,D,Defenseman,Defenseman,D,Philadelphia Flyers
+90,8478043,Sam Lafferty,/api/v1/people/8478043,C,Center,Forward,C,Pittsburgh Penguins
+91,8478074,Anthony Angello,/api/v1/people/8478074,C,Center,Forward,C,Pittsburgh Penguins
+92,8471215,Evgeni Malkin,/api/v1/people/8471215,C,Center,Forward,C,Pittsburgh Penguins
+93,8471675,Sidney Crosby,/api/v1/people/8471675,C,Center,Forward,C,Pittsburgh Penguins
+94,8471724,Kris Letang,/api/v1/people/8471724,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+95,8474098,Colton Sceviour,/api/v1/people/8474098,C,Center,Forward,C,Pittsburgh Penguins
+96,8475208,Brian Dumoulin,/api/v1/people/8475208,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+97,8475722,Jason Zucker,/api/v1/people/8475722,L,Left Wing,Forward,LW,Pittsburgh Penguins
+98,8475810,Bryan Rust,/api/v1/people/8475810,R,Right Wing,Forward,RW,Pittsburgh Penguins
+99,8476873,Mark Jankowski,/api/v1/people/8476873,C,Center,Forward,C,Pittsburgh Penguins
+100,8476875,Mike Matheson,/api/v1/people/8476875,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+101,8476879,Cody Ceci,/api/v1/people/8476879,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+102,8476927,Teddy Blueger,/api/v1/people/8476927,C,Center,Forward,C,Pittsburgh Penguins
+103,8477244,Chad Ruhwedel,/api/v1/people/8477244,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+104,8477404,Jake Guentzel,/api/v1/people/8477404,L,Left Wing,Forward,LW,Pittsburgh Penguins
+105,8477465,Tristan Jarry,/api/v1/people/8477465,G,Goalie,Goalie,G,Pittsburgh Penguins
+106,8477953,Kasperi Kapanen,/api/v1/people/8477953,R,Right Wing,Forward,RW,Pittsburgh Penguins
+107,8477955,Jared McCann,/api/v1/people/8477955,C,Center,Forward,C,Pittsburgh Penguins
+108,8477969,Marcus Pettersson,/api/v1/people/8477969,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+109,8478507,John Marino,/api/v1/people/8478507,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+110,8478542,Evan Rodrigues,/api/v1/people/8478542,C,Center,Forward,C,Pittsburgh Penguins
+111,8479293,Brandon Tanev,/api/v1/people/8479293,L,Left Wing,Forward,LW,Pittsburgh Penguins
+112,8479944,Zach Aston-Reese,/api/v1/people/8479944,C,Center,Forward,C,Pittsburgh Penguins
+113,8480945,Juuso Riikola,/api/v1/people/8480945,D,Defenseman,Defenseman,D,Pittsburgh Penguins
+114,8476191,Kevan Miller,/api/v1/people/8476191,D,Defenseman,Defenseman,D,Boston Bruins
+115,8470638,Patrice Bergeron,/api/v1/people/8470638,C,Center,Forward,C,Boston Bruins
+116,8470860,Jaroslav Halak,/api/v1/people/8470860,G,Goalie,Goalie,G,Boston Bruins
+117,8471276,David Krejci,/api/v1/people/8471276,C,Center,Forward,C,Boston Bruins
+118,8471695,Tuukka Rask,/api/v1/people/8471695,G,Goalie,Goalie,G,Boston Bruins
+119,8473419,Brad Marchand,/api/v1/people/8473419,L,Left Wing,Forward,LW,Boston Bruins
+120,8475186,John Moore,/api/v1/people/8475186,D,Defenseman,Defenseman,D,Boston Bruins
+121,8475225,Craig Smith,/api/v1/people/8475225,R,Right Wing,Forward,RW,Boston Bruins
+122,8475735,Greg McKegg,/api/v1/people/8475735,C,Center,Forward,C,Boston Bruins
+123,8475745,Charlie Coyle,/api/v1/people/8475745,C,Center,Forward,C,Boston Bruins
+124,8475780,Chris Wagner,/api/v1/people/8475780,R,Right Wing,Forward,RW,Boston Bruins
+125,8476374,Sean Kuraly,/api/v1/people/8476374,C,Center,Forward,C,Boston Bruins
+126,8477365,Connor Clifton,/api/v1/people/8477365,D,Defenseman,Defenseman,D,Boston Bruins
+127,8477941,Nick Ritchie,/api/v1/people/8477941,L,Left Wing,Forward,LW,Boston Bruins
+128,8477956,David Pastrnak,/api/v1/people/8477956,R,Right Wing,Forward,RW,Boston Bruins
+129,8478075,Anders Bjork,/api/v1/people/8478075,L,Left Wing,Forward,LW,Boston Bruins
+130,8478131,Ondrej Kase,/api/v1/people/8478131,R,Right Wing,Forward,RW,Boston Bruins
+131,8478443,Brandon Carlo,/api/v1/people/8478443,D,Defenseman,Defenseman,D,Boston Bruins
+132,8478468,Jeremy Lauzon,/api/v1/people/8478468,D,Defenseman,Defenseman,D,Boston Bruins
+133,8479325,Charlie McAvoy,/api/v1/people/8479325,D,Defenseman,Defenseman,D,Boston Bruins
+134,8479365,Trent Frederic,/api/v1/people/8479365,C,Center,Forward,C,Boston Bruins
+135,8480021,Jack Studnicka,/api/v1/people/8480021,C,Center,Forward,C,Boston Bruins
+136,8480944,Par Lindholm,/api/v1/people/8480944,C,Center,Forward,C,Boston Bruins
+137,8479420,Tage Thompson,/api/v1/people/8479420,R,Right Wing,Forward,RW,Buffalo Sabres
+138,8476999,Linus Ullmark,/api/v1/people/8476999,G,Goalie,Goalie,G,Buffalo Sabres
+139,8477933,Sam Reinhart,/api/v1/people/8477933,C,Center,Forward,C,Buffalo Sabres
+140,8477986,Brandon Montour,/api/v1/people/8477986,D,Defenseman,Defenseman,D,Buffalo Sabres
+141,8478109,Victor Olofsson,/api/v1/people/8478109,L,Left Wing,Forward,LW,Buffalo Sabres
+142,8470595,Eric Staal,/api/v1/people/8470595,C,Center,Forward,C,Buffalo Sabres
+143,8473449,Kyle Okposo,/api/v1/people/8473449,R,Right Wing,Forward,RW,Buffalo Sabres
+144,8475236,Cody Eakin,/api/v1/people/8475236,C,Center,Forward,C,Buffalo Sabres
+145,8475622,Carter Hutton,/api/v1/people/8475622,G,Goalie,Goalie,G,Buffalo Sabres
+146,8475625,Matt Irwin,/api/v1/people/8475625,D,Defenseman,Defenseman,D,Buffalo Sabres
+147,8475784,Jeff Skinner,/api/v1/people/8475784,L,Left Wing,Forward,LW,Buffalo Sabres
+148,8475791,Taylor Hall,/api/v1/people/8475791,L,Left Wing,Forward,LW,Buffalo Sabres
+149,8475869,Brandon Davidson,/api/v1/people/8475869,D,Defenseman,Defenseman,D,Buffalo Sabres
+150,8476356,Tobias Rieder,/api/v1/people/8476356,C,Center,Forward,C,Buffalo Sabres
+151,8476396,Steven Fogarty,/api/v1/people/8476396,C,Center,Forward,C,Buffalo Sabres
+152,8476525,Colin Miller,/api/v1/people/8476525,D,Defenseman,Defenseman,D,Buffalo Sabres
+153,8476878,Zemgus Girgensons,/api/v1/people/8476878,C,Center,Forward,C,Buffalo Sabres
+154,8476931,Jake McCabe,/api/v1/people/8476931,D,Defenseman,Defenseman,D,Buffalo Sabres
+155,8477499,Rasmus Ristolainen,/api/v1/people/8477499,D,Defenseman,Defenseman,D,Buffalo Sabres
+156,8477508,Curtis Lazar,/api/v1/people/8477508,C,Center,Forward,C,Buffalo Sabres
+157,8478403,Jack Eichel,/api/v1/people/8478403,C,Center,Forward,C,Buffalo Sabres
+158,8480035,Henri Jokiharju,/api/v1/people/8480035,D,Defenseman,Defenseman,D,Buffalo Sabres
+159,8480839,Rasmus Dahlin,/api/v1/people/8480839,D,Defenseman,Defenseman,D,Buffalo Sabres
+160,8476981,Josh Anderson,/api/v1/people/8476981,R,Right Wing,Forward,RW,Montréal Canadiens
+161,8476443,Xavier Ouellet,/api/v1/people/8476443,D,Defenseman,Defenseman,D,Montréal Canadiens
+162,8477460,Laurent Dauphin,/api/v1/people/8477460,C,Center,Forward,C,Montréal Canadiens
+163,8479990,Josh Brook,/api/v1/people/8479990,D,Defenseman,Defenseman,D,Montréal Canadiens
+164,8480829,Jesperi Kotkaniemi,/api/v1/people/8480829,C,Center,Forward,C,Montréal Canadiens
+165,8470642,Shea Weber,/api/v1/people/8470642,D,Defenseman,Defenseman,D,Montréal Canadiens
+166,8471679,Carey Price,/api/v1/people/8471679,G,Goalie,Goalie,G,Montréal Canadiens
+167,8473507,Jeff Petry,/api/v1/people/8473507,D,Defenseman,Defenseman,D,Montréal Canadiens
+168,8474038,Paul Byron,/api/v1/people/8474038,L,Left Wing,Forward,LW,Montréal Canadiens
+169,8474596,Jake Allen,/api/v1/people/8474596,G,Goalie,Goalie,G,Montréal Canadiens
+170,8475193,Tomas Tatar,/api/v1/people/8475193,L,Left Wing,Forward,LW,Montréal Canadiens
+171,8475279,Ben Chiarot,/api/v1/people/8475279,D,Defenseman,Defenseman,D,Montréal Canadiens
+172,8475726,Tyler Toffoli,/api/v1/people/8475726,R,Right Wing,Forward,RW,Montréal Canadiens
+173,8475738,Jordan Weal,/api/v1/people/8475738,C,Center,Forward,C,Montréal Canadiens
+174,8475848,Brendan Gallagher,/api/v1/people/8475848,R,Right Wing,Forward,RW,Montréal Canadiens
+175,8475968,Alex Belzile,/api/v1/people/8475968,R,Right Wing,Forward,RW,Montréal Canadiens
+176,8476441,Joel Edmundson,/api/v1/people/8476441,D,Defenseman,Defenseman,D,Montréal Canadiens
+177,8476469,Joel Armia,/api/v1/people/8476469,R,Right Wing,Forward,RW,Montréal Canadiens
+178,8476479,Phillip Danault,/api/v1/people/8476479,C,Center,Forward,C,Montréal Canadiens
+179,8476948,Charles Hudon,/api/v1/people/8476948,L,Left Wing,Forward,LW,Montréal Canadiens
+180,8476967,Brett Kulak,/api/v1/people/8476967,D,Defenseman,Defenseman,D,Montréal Canadiens
+181,8477467,Gustav Olofsson,/api/v1/people/8477467,D,Defenseman,Defenseman,D,Montréal Canadiens
+182,8477476,Artturi Lehkonen,/api/v1/people/8477476,L,Left Wing,Forward,LW,Montréal Canadiens
+183,8477494,Jonathan Drouin,/api/v1/people/8477494,L,Left Wing,Forward,LW,Montréal Canadiens
+184,8478133,Jake Evans,/api/v1/people/8478133,C,Center,Forward,C,Montréal Canadiens
+185,8478454,Noah Juulsen,/api/v1/people/8478454,D,Defenseman,Defenseman,D,Montréal Canadiens
+186,8478933,Michael McNiven,/api/v1/people/8478933,G,Goalie,Goalie,G,Montréal Canadiens
+187,8479292,Charlie Lindgren,/api/v1/people/8479292,G,Goalie,Goalie,G,Montréal Canadiens
+188,8479376,Victor Mete,/api/v1/people/8479376,D,Defenseman,Defenseman,D,Montréal Canadiens
+189,8479985,Cale Fleury,/api/v1/people/8479985,D,Defenseman,Defenseman,D,Montréal Canadiens
+190,8480018,Nick Suzuki,/api/v1/people/8480018,C,Center,Forward,C,Montréal Canadiens
+191,8480051,Cayden Primeau,/api/v1/people/8480051,G,Goalie,Goalie,G,Montréal Canadiens
+192,8480068,Ryan Poehling,/api/v1/people/8480068,C,Center,Forward,C,Montréal Canadiens
+193,8474230,Micheal Haley,/api/v1/people/8474230,L,Left Wing,Forward,LW,Ottawa Senators
+194,8475195,Anders Nilsson,/api/v1/people/8475195,G,Goalie,Goalie,G,Ottawa Senators
+195,8476899,Matt Murray,/api/v1/people/8476899,G,Goalie,Goalie,G,Ottawa Senators
+196,8476919,Chris Tierney,/api/v1/people/8476919,C,Center,Forward,C,Ottawa Senators
+197,8477015,Connor Brown,/api/v1/people/8477015,R,Right Wing,Forward,RW,Ottawa Senators
+198,8477426,Nick Paul,/api/v1/people/8477426,L,Left Wing,Forward,LW,Ottawa Senators
+199,8473573,Artem Anisimov,/api/v1/people/8473573,C,Center,Forward,C,Ottawa Senators
+200,8474149,Evgenii Dadonov,/api/v1/people/8474149,R,Right Wing,Forward,RW,Ottawa Senators
+201,8475766,Austin Watson,/api/v1/people/8475766,L,Left Wing,Forward,LW,Ottawa Senators
+202,8475790,Erik Gudbranson,/api/v1/people/8475790,D,Defenseman,Defenseman,D,Ottawa Senators
+203,8476422,Mike Reilly,/api/v1/people/8476422,D,Defenseman,Defenseman,D,Ottawa Senators
+204,8476851,Alex Galchenyuk,/api/v1/people/8476851,L,Left Wing,Forward,LW,Ottawa Senators
+205,8477384,Josh Brown,/api/v1/people/8477384,D,Defenseman,Defenseman,D,Ottawa Senators
+206,8477405,Marcus Hogberg,/api/v1/people/8477405,G,Goalie,Goalie,G,Ottawa Senators
+207,8478400,Colin White,/api/v1/people/8478400,C,Center,Forward,C,Ottawa Senators
+208,8478469,Thomas Chabot,/api/v1/people/8478469,D,Defenseman,Defenseman,D,Ottawa Senators
+209,8478846,Christian Wolanin,/api/v1/people/8478846,D,Defenseman,Defenseman,D,Ottawa Senators
+210,8479458,Nikita Zaitsev,/api/v1/people/8479458,D,Defenseman,Defenseman,D,Ottawa Senators
+211,8480801,Brady Tkachuk,/api/v1/people/8480801,L,Left Wing,Forward,LW,Ottawa Senators
+212,8469455,Jason Spezza,/api/v1/people/8469455,C,Center,Forward,C,Toronto Maple Leafs
+213,8474162,Jake Muzzin,/api/v1/people/8474162,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+214,8474190,Wayne Simmonds,/api/v1/people/8474190,R,Right Wing,Forward,RW,Toronto Maple Leafs
+215,8474567,Zach Bogosian,/api/v1/people/8474567,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+216,8474636,Michael Hutchinson,/api/v1/people/8474636,G,Goalie,Goalie,G,Toronto Maple Leafs
+217,8474673,TJ Brodie,/api/v1/people/8474673,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+218,8475166,John Tavares,/api/v1/people/8475166,C,Center,Forward,C,Toronto Maple Leafs
+219,8475716,Martin Marincin,/api/v1/people/8475716,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+220,8475718,Justin Holl,/api/v1/people/8475718,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+221,8475786,Zach Hyman,/api/v1/people/8475786,L,Left Wing,Forward,LW,Toronto Maple Leafs
+222,8475789,Jack Campbell,/api/v1/people/8475789,G,Goalie,Goalie,G,Toronto Maple Leafs
+223,8475883,Frederik Andersen,/api/v1/people/8475883,G,Goalie,Goalie,G,Toronto Maple Leafs
+224,8476329,Travis Boyd,/api/v1/people/8476329,C,Center,Forward,C,Toronto Maple Leafs
+225,8476853,Morgan Rielly,/api/v1/people/8476853,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+226,8476918,Jimmy Vesey,/api/v1/people/8476918,L,Left Wing,Forward,LW,Toronto Maple Leafs
+227,8477021,Alexander Kerfoot,/api/v1/people/8477021,C,Center,Forward,C,Toronto Maple Leafs
+228,8477180,Aaron Dell,/api/v1/people/8477180,G,Goalie,Goalie,G,Toronto Maple Leafs
+229,8477464,Nic Petan,/api/v1/people/8477464,C,Center,Forward,C,Toronto Maple Leafs
+230,8477939,William Nylander,/api/v1/people/8477939,R,Right Wing,Forward,RW,Toronto Maple Leafs
+231,8478115,Pierre Engvall,/api/v1/people/8478115,L,Left Wing,Forward,LW,Toronto Maple Leafs
+232,8478483,Mitchell Marner,/api/v1/people/8478483,R,Right Wing,Forward,RW,Toronto Maple Leafs
+233,8479315,Joey Anderson,/api/v1/people/8479315,R,Right Wing,Forward,RW,Toronto Maple Leafs
+234,8479318,Auston Matthews,/api/v1/people/8479318,C,Center,Forward,C,Toronto Maple Leafs
+235,8479361,Joseph Woll,/api/v1/people/8479361,G,Goalie,Goalie,G,Toronto Maple Leafs
+236,8480157,Calle Rosen,/api/v1/people/8480157,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+237,8480873,Rasmus Sandin,/api/v1/people/8480873,D,Defenseman,Defenseman,D,Toronto Maple Leafs
+238,8481582,Nicholas Robertson,/api/v1/people/8481582,L,Left Wing,Forward,LW,Toronto Maple Leafs
+239,8477488,Brett Pesce,/api/v1/people/8477488,D,Defenseman,Defenseman,D,Carolina Hurricanes
+240,8477998,Warren Foegele,/api/v1/people/8477998,L,Left Wing,Forward,LW,Carolina Hurricanes
+241,8473503,James Reimer,/api/v1/people/8473503,G,Goalie,Goalie,G,Carolina Hurricanes
+242,8473533,Jordan Staal,/api/v1/people/8473533,C,Center,Forward,C,Carolina Hurricanes
+243,8474581,Jake Gardiner,/api/v1/people/8474581,D,Defenseman,Defenseman,D,Carolina Hurricanes
+244,8475799,Nino Niederreiter,/api/v1/people/8475799,R,Right Wing,Forward,RW,Carolina Hurricanes
+245,8475852,Petr Mrazek,/api/v1/people/8475852,G,Goalie,Goalie,G,Carolina Hurricanes
+246,8475855,Jesper Fast,/api/v1/people/8475855,R,Right Wing,Forward,RW,Carolina Hurricanes
+247,8476288,Ryan Dzingel,/api/v1/people/8476288,C,Center,Forward,C,Carolina Hurricanes
+248,8476323,Max McCormick,/api/v1/people/8476323,L,Left Wing,Forward,LW,Carolina Hurricanes
+249,8476389,Vincent Trocheck,/api/v1/people/8476389,C,Center,Forward,C,Carolina Hurricanes
+250,8476462,Dougie Hamilton,/api/v1/people/8476462,D,Defenseman,Defenseman,D,Carolina Hurricanes
+251,8476869,Brady Skjei,/api/v1/people/8476869,D,Defenseman,Defenseman,D,Carolina Hurricanes
+252,8476882,Teuvo Teravainen,/api/v1/people/8476882,L,Left Wing,Forward,LW,Carolina Hurricanes
+253,8476921,Jordan Martinook,/api/v1/people/8476921,L,Left Wing,Forward,LW,Carolina Hurricanes
+254,8476934,Brock McGinn,/api/v1/people/8476934,L,Left Wing,Forward,LW,Carolina Hurricanes
+255,8476958,Jaccob Slavin,/api/v1/people/8476958,D,Defenseman,Defenseman,D,Carolina Hurricanes
+256,8477046,Joakim Ryan,/api/v1/people/8477046,D,Defenseman,Defenseman,D,Carolina Hurricanes
+257,8477968,Alex Nedeljkovic,/api/v1/people/8477968,G,Goalie,Goalie,G,Carolina Hurricanes
+258,8477981,Roland McKeown,/api/v1/people/8477981,D,Defenseman,Defenseman,D,Carolina Hurricanes
+259,8478427,Sebastian Aho,/api/v1/people/8478427,C,Center,Forward,C,Carolina Hurricanes
+260,8479402,Jake Bean,/api/v1/people/8479402,D,Defenseman,Defenseman,D,Carolina Hurricanes
+261,8479987,Morgan Geekie,/api/v1/people/8479987,C,Center,Forward,C,Carolina Hurricanes
+262,8480039,Martin Necas,/api/v1/people/8480039,C,Center,Forward,C,Carolina Hurricanes
+263,8480830,Andrei Svechnikov,/api/v1/people/8480830,R,Right Wing,Forward,RW,Carolina Hurricanes
+264,8477505,Alex Wennberg,/api/v1/people/8477505,C,Center,Forward,C,Florida Panthers
+265,8479066,Ryan Lomberg,/api/v1/people/8479066,L,Left Wing,Forward,LW,Florida Panthers
+266,8480185,Eetu Luostarinen,/api/v1/people/8480185,C,Center,Forward,C,Florida Panthers
+267,8471735,Keith Yandle,/api/v1/people/8471735,D,Defenseman,Defenseman,D,Florida Panthers
+268,8471873,Anton Stralman,/api/v1/people/8471873,D,Defenseman,Defenseman,D,Florida Panthers
+269,8471887,Patric Hornqvist,/api/v1/people/8471887,R,Right Wing,Forward,RW,Florida Panthers
+270,8475462,Radko Gudas,/api/v1/people/8475462,D,Defenseman,Defenseman,D,Florida Panthers
+271,8475683,Sergei Bobrovsky,/api/v1/people/8475683,G,Goalie,Goalie,G,Florida Panthers
+272,8475792,Brett Connolly,/api/v1/people/8475792,R,Right Wing,Forward,RW,Florida Panthers
+273,8476456,Jonathan Huberdeau,/api/v1/people/8476456,L,Left Wing,Forward,LW,Florida Panthers
+274,8476904,Chris Driedger,/api/v1/people/8476904,G,Goalie,Goalie,G,Florida Panthers
+275,8476994,Vinnie Hinostroza,/api/v1/people/8476994,C,Center,Forward,C,Florida Panthers
+276,8477346,MacKenzie Weegar,/api/v1/people/8477346,D,Defenseman,Defenseman,D,Florida Panthers
+277,8477409,Carter Verhaeghe,/api/v1/people/8477409,C,Center,Forward,C,Florida Panthers
+278,8477475,Philippe Desrosiers,/api/v1/people/8477475,G,Goalie,Goalie,G,Florida Panthers
+279,8477493,Aleksander Barkov,/api/v1/people/8477493,C,Center,Forward,C,Florida Panthers
+280,8477932,Aaron Ekblad,/api/v1/people/8477932,D,Defenseman,Defenseman,D,Florida Panthers
+281,8478366,Frank Vatrano,/api/v1/people/8478366,C,Center,Forward,C,Florida Panthers
+282,8478470,Sam Montembeault,/api/v1/people/8478470,G,Goalie,Goalie,G,Florida Panthers
+283,8478569,Noel Acciari,/api/v1/people/8478569,C,Center,Forward,C,Florida Panthers
+284,8478839,Aleksi Saarela,/api/v1/people/8478839,C,Center,Forward,C,Florida Panthers
+285,8478906,Markus Nutivaara,/api/v1/people/8478906,D,Defenseman,Defenseman,D,Florida Panthers
+286,8479388,Riley Stillman,/api/v1/people/8479388,D,Defenseman,Defenseman,D,Florida Panthers
+287,8479597,Chase Priskie,/api/v1/people/8479597,D,Defenseman,Defenseman,D,Florida Panthers
+288,8480015,Owen Tippett,/api/v1/people/8480015,R,Right Wing,Forward,RW,Florida Panthers
+289,8481442,Brady Keeper,/api/v1/people/8481442,D,Defenseman,Defenseman,D,Florida Panthers
+290,8479410,Mikhail Sergachev,/api/v1/people/8479410,D,Defenseman,Defenseman,D,Tampa Bay Lightning
+291,8470147,Curtis McElhinney,/api/v1/people/8470147,G,Goalie,Goalie,G,Tampa Bay Lightning
+292,8470601,Braydon Coburn,/api/v1/people/8470601,D,Defenseman,Defenseman,D,Tampa Bay Lightning
+293,8473986,Alex Killorn,/api/v1/people/8473986,L,Left Wing,Forward,LW,Tampa Bay Lightning
+294,8474034,Pat Maroon,/api/v1/people/8474034,L,Left Wing,Forward,LW,Tampa Bay Lightning
+295,8474151,Ryan McDonagh,/api/v1/people/8474151,D,Defenseman,Defenseman,D,Tampa Bay Lightning
+296,8474564,Steven Stamkos,/api/v1/people/8474564,C,Center,Forward,C,Tampa Bay Lightning
+297,8474568,Luke Schenn,/api/v1/people/8474568,D,Defenseman,Defenseman,D,Tampa Bay Lightning
+298,8474870,Tyler Johnson,/api/v1/people/8474870,C,Center,Forward,C,Tampa Bay Lightning
+299,8475167,Victor Hedman,/api/v1/people/8475167,D,Defenseman,Defenseman,D,Tampa Bay Lightning
+300,8476292,Ondrej Palat,/api/v1/people/8476292,L,Left Wing,Forward,LW,Tampa Bay Lightning
+301,8476399,Blake Coleman,/api/v1/people/8476399,C,Center,Forward,C,Tampa Bay Lightning
+302,8476444,Christopher Gibson,/api/v1/people/8476444,G,Goalie,Goalie,G,Tampa Bay Lightning
+303,8476453,Nikita Kucherov,/api/v1/people/8476453,R,Right Wing,Forward,RW,Tampa Bay Lightning
+304,8476624,Barclay Goodrow,/api/v1/people/8476624,C,Center,Forward,C,Tampa Bay Lightning
+305,8476826,Yanni Gourde,/api/v1/people/8476826,C,Center,Forward,C,Tampa Bay Lightning
+306,8476883,Andrei Vasilevskiy,/api/v1/people/8476883,G,Goalie,Goalie,G,Tampa Bay Lightning
+307,8476975,Cedric Paquette,/api/v1/people/8476975,C,Center,Forward,C,Tampa Bay Lightning
+308,8478010,Brayden Point,/api/v1/people/8478010,C,Center,Forward,C,Tampa Bay Lightning
+309,8478416,Erik Cernak,/api/v1/people/8478416,D,Defenseman,Defenseman,D,Tampa Bay Lightning
+310,8478472,Mathieu Joseph,/api/v1/people/8478472,R,Right Wing,Forward,RW,Tampa Bay Lightning
+311,8478477,Mitchell Stephens,/api/v1/people/8478477,C,Center,Forward,C,Tampa Bay Lightning
+312,8478519,Anthony Cirelli,/api/v1/people/8478519,C,Center,Forward,C,Tampa Bay Lightning
+313,8480186,Alexander Volkov,/api/v1/people/8480186,R,Right Wing,Forward,RW,Tampa Bay Lightning
+314,8468685,Henrik Lundqvist,/api/v1/people/8468685,G,Goalie,Goalie,G,Washington Capitals
+315,8476983,Paul LaDue,/api/v1/people/8476983,D,Defenseman,Defenseman,D,Washington Capitals
+316,8478399,Jonas Siegenthaler,/api/v1/people/8478399,D,Defenseman,Defenseman,D,Washington Capitals
+317,8478492,Ilya Samsonov,/api/v1/people/8478492,G,Goalie,Goalie,G,Washington Capitals
+318,8471214,Alex Ovechkin,/api/v1/people/8471214,L,Left Wing,Forward,LW,Washington Capitals
+319,8471698,T.J. Oshie,/api/v1/people/8471698,R,Right Wing,Forward,RW,Washington Capitals
+320,8473563,Nicklas Backstrom,/api/v1/people/8473563,C,Center,Forward,C,Washington Capitals
+321,8474176,Carl Hagelin,/api/v1/people/8474176,L,Left Wing,Forward,LW,Washington Capitals
+322,8474189,Lars Eller,/api/v1/people/8474189,C,Center,Forward,C,Washington Capitals
+323,8474590,John Carlson,/api/v1/people/8474590,D,Defenseman,Defenseman,D,Washington Capitals
+324,8474602,Justin Schultz,/api/v1/people/8474602,D,Defenseman,Defenseman,D,Washington Capitals
+325,8475200,Dmitry Orlov,/api/v1/people/8475200,D,Defenseman,Defenseman,D,Washington Capitals
+326,8475209,Richard Panik,/api/v1/people/8475209,R,Right Wing,Forward,RW,Washington Capitals
+327,8475324,Nick Jensen,/api/v1/people/8475324,D,Defenseman,Defenseman,D,Washington Capitals
+328,8475343,Nic Dowd,/api/v1/people/8475343,C,Center,Forward,C,Washington Capitals
+329,8475455,Brenden Dillon,/api/v1/people/8475455,D,Defenseman,Defenseman,D,Washington Capitals
+330,8475744,Evgeny Kuznetsov,/api/v1/people/8475744,C,Center,Forward,C,Washington Capitals
+331,8476880,Tom Wilson,/api/v1/people/8476880,R,Right Wing,Forward,RW,Washington Capitals
+332,8477845,Trevor van Riemsdyk,/api/v1/people/8477845,D,Defenseman,Defenseman,D,Washington Capitals
+333,8477903,Garnet Hathaway,/api/v1/people/8477903,R,Right Wing,Forward,RW,Washington Capitals
+334,8477944,Jakub Vrana,/api/v1/people/8477944,L,Left Wing,Forward,LW,Washington Capitals
+335,8479482,Michal Kempny,/api/v1/people/8479482,D,Defenseman,Defenseman,D,Washington Capitals
+336,8470607,Brent Seabrook,/api/v1/people/8470607,D,Defenseman,Defenseman,D,Chicago Blackhawks
+337,8476381,Andrew Shaw,/api/v1/people/8476381,R,Right Wing,Forward,RW,Chicago Blackhawks
+338,8474250,Zack Smith,/api/v1/people/8474250,C,Center,Forward,C,Chicago Blackhawks
+339,8477330,Dominik Kubalik,/api/v1/people/8477330,L,Left Wing,Forward,LW,Chicago Blackhawks
+340,8477507,Nikita Zadorov,/api/v1/people/8477507,D,Defenseman,Defenseman,D,Chicago Blackhawks
+341,8470281,Duncan Keith,/api/v1/people/8470281,D,Defenseman,Defenseman,D,Chicago Blackhawks
+342,8473604,Jonathan Toews,/api/v1/people/8473604,C,Center,Forward,C,Chicago Blackhawks
+343,8474141,Patrick Kane,/api/v1/people/8474141,R,Right Wing,Forward,RW,Chicago Blackhawks
+344,8475177,Calvin de Haan,/api/v1/people/8475177,D,Defenseman,Defenseman,D,Chicago Blackhawks
+345,8476372,Nick Seeler,/api/v1/people/8476372,D,Defenseman,Defenseman,D,Chicago Blackhawks
+346,8476473,Connor Murphy,/api/v1/people/8476473,D,Defenseman,Defenseman,D,Chicago Blackhawks
+347,8476876,Malcolm Subban,/api/v1/people/8476876,G,Goalie,Goalie,G,Chicago Blackhawks
+348,8477406,Mattias Janmark,/api/v1/people/8477406,C,Center,Forward,C,Chicago Blackhawks
+349,8477846,Ryan Carpenter,/api/v1/people/8477846,C,Center,Forward,C,Chicago Blackhawks
+350,8477961,John Quenneville,/api/v1/people/8477961,C,Center,Forward,C,Chicago Blackhawks
+351,8478027,Lucas Wallmark,/api/v1/people/8478027,C,Center,Forward,C,Chicago Blackhawks
+352,8478073,Anton Lindholm,/api/v1/people/8478073,D,Defenseman,Defenseman,D,Chicago Blackhawks
+353,8478146,Matthew Highmore,/api/v1/people/8478146,C,Center,Forward,C,Chicago Blackhawks
+354,8478440,Dylan Strome,/api/v1/people/8478440,C,Center,Forward,C,Chicago Blackhawks
+355,8479337,Alex DeBrincat,/api/v1/people/8479337,L,Left Wing,Forward,LW,Chicago Blackhawks
+356,8479423,Alex Nylander,/api/v1/people/8479423,L,Left Wing,Forward,LW,Chicago Blackhawks
+357,8479523,Lucas Carlsson,/api/v1/people/8479523,D,Defenseman,Defenseman,D,Chicago Blackhawks
+358,8480025,MacKenzie Entwistle,/api/v1/people/8480025,R,Right Wing,Forward,RW,Chicago Blackhawks
+359,8480144,David Kampf,/api/v1/people/8480144,C,Center,Forward,C,Chicago Blackhawks
+360,8480420,Collin Delia,/api/v1/people/8480420,G,Goalie,Goalie,G,Chicago Blackhawks
+361,8480814,Nicolas Beaudin,/api/v1/people/8480814,D,Defenseman,Defenseman,D,Chicago Blackhawks
+362,8480831,Alec Regula,/api/v1/people/8480831,D,Defenseman,Defenseman,D,Chicago Blackhawks
+363,8480871,Adam Boqvist,/api/v1/people/8480871,D,Defenseman,Defenseman,D,Chicago Blackhawks
+364,8480947,Kevin Lankinen,/api/v1/people/8480947,G,Goalie,Goalie,G,Chicago Blackhawks
+365,8477215,Danny DeKeyser,/api/v1/people/8477215,D,Defenseman,Defenseman,D,Detroit Red Wings
+366,8471676,Bobby Ryan,/api/v1/people/8471676,R,Right Wing,Forward,RW,Detroit Red Wings
+367,8477479,Tyler Bertuzzi,/api/v1/people/8477479,L,Left Wing,Forward,LW,Detroit Red Wings
+368,8477511,Anthony Mantha,/api/v1/people/8477511,R,Right Wing,Forward,RW,Detroit Red Wings
+369,8479395,Dennis Cholowski,/api/v1/people/8479395,D,Defenseman,Defenseman,D,Detroit Red Wings
+370,8479425,Filip Hronek,/api/v1/people/8479425,D,Defenseman,Defenseman,D,Detroit Red Wings
+371,8480184,Gustav Lindstrom,/api/v1/people/8480184,D,Defenseman,Defenseman,D,Detroit Red Wings
+372,8470047,Valtteri Filppula,/api/v1/people/8470047,C,Center,Forward,C,Detroit Red Wings
+373,8470144,Frans Nielsen,/api/v1/people/8470144,C,Center,Forward,C,Detroit Red Wings
+374,8471306,Thomas Greiss,/api/v1/people/8471306,G,Goalie,Goalie,G,Detroit Red Wings
+375,8471686,Marc Staal,/api/v1/people/8471686,D,Defenseman,Defenseman,D,Detroit Red Wings
+376,8471794,Darren Helm,/api/v1/people/8471794,L,Left Wing,Forward,LW,Detroit Red Wings
+377,8473415,Alex Biega,/api/v1/people/8473415,D,Defenseman,Defenseman,D,Detroit Red Wings
+378,8473541,Jonathan Bernier,/api/v1/people/8473541,G,Goalie,Goalie,G,Detroit Red Wings
+379,8474040,Sam Gagner,/api/v1/people/8474040,C,Center,Forward,C,Detroit Red Wings
+380,8475747,Patrik Nemeth,/api/v1/people/8475747,D,Defenseman,Defenseman,D,Detroit Red Wings
+381,8475750,Jon Merrill,/api/v1/people/8475750,D,Defenseman,Defenseman,D,Detroit Red Wings
+382,8476480,Vladislav Namestnikov,/api/v1/people/8476480,C,Center,Forward,C,Detroit Red Wings
+383,8476822,Luke Glendening,/api/v1/people/8476822,C,Center,Forward,C,Detroit Red Wings
+384,8477454,Adam Erne,/api/v1/people/8477454,L,Left Wing,Forward,LW,Detroit Red Wings
+385,8477946,Dylan Larkin,/api/v1/people/8477946,C,Center,Forward,C,Detroit Red Wings
+386,8477952,Robby Fabbri,/api/v1/people/8477952,C,Center,Forward,C,Detroit Red Wings
+387,8479442,Troy Stecher,/api/v1/people/8479442,D,Defenseman,Defenseman,D,Detroit Red Wings
+388,8478508,Yakov Trenin,/api/v1/people/8478508,C,Center,Forward,C,Nashville Predators
+389,8478971,Connor Ingram,/api/v1/people/8478971,G,Goalie,Goalie,G,Nashville Predators
+390,8480009,Eeli Tolvanen,/api/v1/people/8480009,R,Right Wing,Forward,RW,Nashville Predators
+391,8481577,Philip Tomasino,/api/v1/people/8481577,C,Center,Forward,C,Nashville Predators
+392,8470755,Brad Richardson,/api/v1/people/8470755,R,Right Wing,Forward,RW,Nashville Predators
+393,8471469,Pekka Rinne,/api/v1/people/8471469,G,Goalie,Goalie,G,Nashville Predators
+394,8474600,Roman Josi,/api/v1/people/8474600,D,Defenseman,Defenseman,D,Nashville Predators
+395,8474697,Mark Borowiecki,/api/v1/people/8474697,D,Defenseman,Defenseman,D,Nashville Predators
+396,8475168,Matt Duchene,/api/v1/people/8475168,C,Center,Forward,C,Nashville Predators
+397,8475176,Ryan Ellis,/api/v1/people/8475176,D,Defenseman,Defenseman,D,Nashville Predators
+398,8475218,Mattias Ekholm,/api/v1/people/8475218,D,Defenseman,Defenseman,D,Nashville Predators
+399,8475714,Calle Jarnkrok,/api/v1/people/8475714,C,Center,Forward,C,Nashville Predators
+400,8475793,Ryan Johansen,/api/v1/people/8475793,C,Center,Forward,C,Nashville Predators
+401,8475797,Jarred Tinordi,/api/v1/people/8475797,D,Defenseman,Defenseman,D,Nashville Predators
+402,8476393,Nick Cousins,/api/v1/people/8476393,C,Center,Forward,C,Nashville Predators
+403,8476428,Rocco Grimaldi,/api/v1/people/8476428,R,Right Wing,Forward,RW,Nashville Predators
+404,8476887,Filip Forsberg,/api/v1/people/8476887,L,Left Wing,Forward,LW,Nashville Predators
+405,8476925,Colton Sissons,/api/v1/people/8476925,C,Center,Forward,C,Nashville Predators
+406,8476988,Matt Benning,/api/v1/people/8476988,D,Defenseman,Defenseman,D,Nashville Predators
+407,8477424,Juuse Saros,/api/v1/people/8477424,G,Goalie,Goalie,G,Nashville Predators
+408,8477446,Michael McCarron,/api/v1/people/8477446,R,Right Wing,Forward,RW,Nashville Predators
+409,8478042,Viktor Arvidsson,/api/v1/people/8478042,R,Right Wing,Forward,RW,Nashville Predators
+410,8478851,Alexandre Carrier,/api/v1/people/8478851,D,Defenseman,Defenseman,D,Nashville Predators
+411,8479316,Luke Kunin,/api/v1/people/8479316,C,Center,Forward,C,Nashville Predators
+412,8479371,Dante Fabbro,/api/v1/people/8479371,D,Defenseman,Defenseman,D,Nashville Predators
+413,8470257,Alexander Steen,/api/v1/people/8470257,L,Left Wing,Forward,LW,St. Louis Blues
+414,8474102,David Perron,/api/v1/people/8474102,L,Left Wing,Forward,LW,St. Louis Blues
+415,8474125,Carl Gunnarsson,/api/v1/people/8474125,D,Defenseman,Defenseman,D,St. Louis Blues
+416,8474145,Robert Bortuzzo,/api/v1/people/8474145,D,Defenseman,Defenseman,D,St. Louis Blues
+417,8474618,Marco Scandella,/api/v1/people/8474618,D,Defenseman,Defenseman,D,St. Louis Blues
+418,8475098,Tyler Bozak,/api/v1/people/8475098,C,Center,Forward,C,St. Louis Blues
+419,8475158,Ryan O'Reilly,/api/v1/people/8475158,C,Center,Forward,C,St. Louis Blues
+420,8475160,Kyle Clifford,/api/v1/people/8475160,L,Left Wing,Forward,LW,St. Louis Blues
+421,8475170,Brayden Schenn,/api/v1/people/8475170,C,Center,Forward,C,St. Louis Blues
+422,8475753,Justin Faulk,/api/v1/people/8475753,D,Defenseman,Defenseman,D,St. Louis Blues
+423,8475765,Vladimir Tarasenko,/api/v1/people/8475765,R,Right Wing,Forward,RW,St. Louis Blues
+424,8475768,Jaden Schwartz,/api/v1/people/8475768,L,Left Wing,Forward,LW,St. Louis Blues
+425,8476412,Jordan Binnington,/api/v1/people/8476412,G,Goalie,Goalie,G,St. Louis Blues
+426,8476792,Torey Krug,/api/v1/people/8476792,D,Defenseman,Defenseman,D,St. Louis Blues
+427,8476892,Colton Parayko,/api/v1/people/8476892,D,Defenseman,Defenseman,D,St. Louis Blues
+428,8476897,Oskar Sundqvist,/api/v1/people/8476897,C,Center,Forward,C,St. Louis Blues
+429,8476907,Mackenzie MacEachern,/api/v1/people/8476907,L,Left Wing,Forward,LW,St. Louis Blues
+430,8477455,Jacob de la Rose,/api/v1/people/8477455,L,Left Wing,Forward,LW,St. Louis Blues
+431,8477482,Zach Sanford,/api/v1/people/8477482,L,Left Wing,Forward,LW,St. Louis Blues
+432,8477964,Ivan Barbashev,/api/v1/people/8477964,C,Center,Forward,C,St. Louis Blues
+433,8478024,Ville Husso,/api/v1/people/8478024,G,Goalie,Goalie,G,St. Louis Blues
+434,8478104,Sammy Blais,/api/v1/people/8478104,L,Left Wing,Forward,LW,St. Louis Blues
+435,8478407,Vince Dunn,/api/v1/people/8478407,D,Defenseman,Defenseman,D,St. Louis Blues
+436,8479385,Jordan Kyrou,/api/v1/people/8479385,C,Center,Forward,C,St. Louis Blues
+437,8480023,Robert Thomas,/api/v1/people/8480023,C,Center,Forward,C,St. Louis Blues
+438,8476410,Josh Leivo,/api/v1/people/8476410,L,Left Wing,Forward,LW,Calgary Flames
+439,8478233,Andrew Mangiapane,/api/v1/people/8478233,L,Left Wing,Forward,LW,Calgary Flames
+440,8479976,Juuso Valimaki,/api/v1/people/8479976,D,Defenseman,Defenseman,D,Calgary Flames
+441,8481501,Artyom Zagidulin,/api/v1/people/8481501,G,Goalie,Goalie,G,Calgary Flames
+442,8481625,Carl-Johan Lerby,/api/v1/people/8481625,D,Defenseman,Defenseman,D,Calgary Flames
+443,8482244,Johannes Kinnvall,/api/v1/people/8482244,D,Defenseman,Defenseman,D,Calgary Flames
+444,8470966,Mark Giordano,/api/v1/people/8470966,D,Defenseman,Defenseman,D,Calgary Flames
+445,8473473,Milan Lucic,/api/v1/people/8473473,L,Left Wing,Forward,LW,Calgary Flames
+446,8474150,Mikael Backlund,/api/v1/people/8474150,C,Center,Forward,C,Calgary Flames
+447,8474593,Jacob Markstrom,/api/v1/people/8474593,G,Goalie,Goalie,G,Calgary Flames
+448,8474736,Zac Rinaldo,/api/v1/people/8474736,C,Center,Forward,C,Calgary Flames
+449,8475278,Byron Froese,/api/v1/people/8475278,C,Center,Forward,C,Calgary Flames
+450,8475690,Christopher Tanev,/api/v1/people/8475690,D,Defenseman,Defenseman,D,Calgary Flames
+451,8475807,Joakim Nordstrom,/api/v1/people/8475807,C,Center,Forward,C,Calgary Flames
+452,8475839,Louis Domingue,/api/v1/people/8475839,G,Goalie,Goalie,G,Calgary Flames
+453,8476300,Nikita Nesterov,/api/v1/people/8476300,D,Defenseman,Defenseman,D,Calgary Flames
+454,8476346,Johnny Gaudreau,/api/v1/people/8476346,L,Left Wing,Forward,LW,Calgary Flames
+455,8477210,Buddy Robinson,/api/v1/people/8477210,R,Right Wing,Forward,RW,Calgary Flames
+456,8477496,Elias Lindholm,/api/v1/people/8477496,C,Center,Forward,C,Calgary Flames
+457,8477497,Sean Monahan,/api/v1/people/8477497,C,Center,Forward,C,Calgary Flames
+458,8477935,Sam Bennett,/api/v1/people/8477935,C,Center,Forward,C,Calgary Flames
+459,8478396,Noah Hanifin,/api/v1/people/8478396,D,Defenseman,Defenseman,D,Calgary Flames
+460,8478397,Rasmus Andersson,/api/v1/people/8478397,D,Defenseman,Defenseman,D,Calgary Flames
+461,8478430,Oliver Kylington,/api/v1/people/8478430,D,Defenseman,Defenseman,D,Calgary Flames
+462,8478585,Derek Ryan,/api/v1/people/8478585,C,Center,Forward,C,Calgary Flames
+463,8479314,Matthew Tkachuk,/api/v1/people/8479314,L,Left Wing,Forward,LW,Calgary Flames
+464,8479346,Dillon Dube,/api/v1/people/8479346,C,Center,Forward,C,Calgary Flames
+465,8479496,David Rittich,/api/v1/people/8479496,G,Goalie,Goalie,G,Calgary Flames
+466,8481630,Alexander Yelesin,/api/v1/people/8481630,D,Defenseman,Defenseman,D,Calgary Flames
+467,8477435,Ryan Graves,/api/v1/people/8477435,D,Defenseman,Defenseman,D,Colorado Avalanche
+468,8477444,Andre Burakovsky,/api/v1/people/8477444,L,Left Wing,Forward,LW,Colorado Avalanche
+469,8477501,Valeri Nichushkin,/api/v1/people/8477501,R,Right Wing,Forward,RW,Colorado Avalanche
+470,8478038,Devon Toews,/api/v1/people/8478038,D,Defenseman,Defenseman,D,Colorado Avalanche
+471,8479370,Tyson Jost,/api/v1/people/8479370,C,Center,Forward,C,Colorado Avalanche
+472,8480112,Hunter Miska,/api/v1/people/8480112,G,Goalie,Goalie,G,Colorado Avalanche
+473,8480326,Sheldon Dries,/api/v1/people/8480326,C,Center,Forward,C,Colorado Avalanche
+474,8481524,Bowen Byram,/api/v1/people/8481524,D,Defenseman,Defenseman,D,Colorado Avalanche
+475,8473446,Erik Johnson,/api/v1/people/8473446,D,Defenseman,Defenseman,D,Colorado Avalanche
+476,8474013,Ian Cole,/api/v1/people/8474013,D,Defenseman,Defenseman,D,Colorado Avalanche
+477,8474685,Matt Calvert,/api/v1/people/8474685,L,Left Wing,Forward,LW,Colorado Avalanche
+478,8475172,Nazem Kadri,/api/v1/people/8475172,C,Center,Forward,C,Colorado Avalanche
+479,8475820,Joonas Donskoi,/api/v1/people/8475820,R,Right Wing,Forward,RW,Colorado Avalanche
+480,8475831,Philipp Grubauer,/api/v1/people/8475831,G,Goalie,Goalie,G,Colorado Avalanche
+481,8476391,T.J. Tynan,/api/v1/people/8476391,C,Center,Forward,C,Colorado Avalanche
+482,8476438,Brandon Saad,/api/v1/people/8476438,L,Left Wing,Forward,LW,Colorado Avalanche
+483,8476455,Gabriel Landeskog,/api/v1/people/8476455,L,Left Wing,Forward,LW,Colorado Avalanche
+484,8477456,J.T. Compher,/api/v1/people/8477456,C,Center,Forward,C,Colorado Avalanche
+485,8477492,Nathan MacKinnon,/api/v1/people/8477492,C,Center,Forward,C,Colorado Avalanche
+486,8477930,Pierre-Edouard Bellemare,/api/v1/people/8477930,C,Center,Forward,C,Colorado Avalanche
+487,8478420,Mikko Rantanen,/api/v1/people/8478420,R,Right Wing,Forward,RW,Colorado Avalanche
+488,8479398,Samuel Girard,/api/v1/people/8479398,D,Defenseman,Defenseman,D,Colorado Avalanche
+489,8479982,Conor Timmins,/api/v1/people/8479982,D,Defenseman,Defenseman,D,Colorado Avalanche
+490,8480032,Shane Bowers,/api/v1/people/8480032,C,Center,Forward,C,Colorado Avalanche
+491,8480069,Cale Makar,/api/v1/people/8480069,D,Defenseman,Defenseman,D,Colorado Avalanche
+492,8480925,Pavel Francouz,/api/v1/people/8480925,G,Goalie,Goalie,G,Colorado Avalanche
+493,8481186,Logan O'Connor,/api/v1/people/8481186,R,Right Wing,Forward,RW,Colorado Avalanche
+494,8471490,Adam Cracknell,/api/v1/people/8471490,R,Right Wing,Forward,RW,Edmonton Oilers
+495,8474068,Kyle Turris,/api/v1/people/8474068,C,Center,Forward,C,Edmonton Oilers
+496,8476495,Seth Griffith,/api/v1/people/8476495,C,Center,Forward,C,Edmonton Oilers
+497,8478021,William Lagesson,/api/v1/people/8478021,D,Defenseman,Defenseman,D,Edmonton Oilers
+498,8478442,Cooper Marody,/api/v1/people/8478442,C,Center,Forward,C,Edmonton Oilers
+499,8479344,Jesse Puljujarvi,/api/v1/people/8479344,R,Right Wing,Forward,RW,Edmonton Oilers
+500,8479347,Tyler Benson,/api/v1/people/8479347,L,Left Wing,Forward,LW,Edmonton Oilers
+501,8480802,Ryan McLeod,/api/v1/people/8480802,C,Center,Forward,C,Edmonton Oilers
+502,8480803,Evan Bouchard,/api/v1/people/8480803,D,Defenseman,Defenseman,D,Edmonton Oilers
+503,8480946,Dominik Kahun,/api/v1/people/8480946,C,Center,Forward,C,Edmonton Oilers
+504,8481598,Philip Broberg,/api/v1/people/8481598,D,Defenseman,Defenseman,D,Edmonton Oilers
+505,8481638,Joakim Nygard,/api/v1/people/8481638,L,Left Wing,Forward,LW,Edmonton Oilers
+506,8481813,Gaetan Haas,/api/v1/people/8481813,C,Center,Forward,C,Edmonton Oilers
+507,8469608,Mike Smith,/api/v1/people/8469608,G,Goalie,Goalie,G,Edmonton Oilers
+508,8471707,James Neal,/api/v1/people/8471707,L,Left Wing,Forward,LW,Edmonton Oilers
+509,8471729,Kris Russell,/api/v1/people/8471729,D,Defenseman,Defenseman,D,Edmonton Oilers
+510,8474589,Tyler Ennis,/api/v1/people/8474589,C,Center,Forward,C,Edmonton Oilers
+511,8475156,Mikko Koskinen,/api/v1/people/8475156,G,Goalie,Goalie,G,Edmonton Oilers
+512,8475163,Alex Chiasson,/api/v1/people/8475163,R,Right Wing,Forward,RW,Edmonton Oilers
+513,8475178,Zack Kassian,/api/v1/people/8475178,R,Right Wing,Forward,RW,Edmonton Oilers
+514,8475197,Tyson Barrie,/api/v1/people/8475197,D,Defenseman,Defenseman,D,Edmonton Oilers
+515,8476326,Josh Archibald,/api/v1/people/8476326,R,Right Wing,Forward,RW,Edmonton Oilers
+516,8476341,Anton Forsberg,/api/v1/people/8476341,G,Goalie,Goalie,G,Edmonton Oilers
+517,8476409,Alan Quine,/api/v1/people/8476409,C,Center,Forward,C,Edmonton Oilers
+518,8476454,Ryan Nugent-Hopkins,/api/v1/people/8476454,C,Center,Forward,C,Edmonton Oilers
+519,8476457,Adam Larsson,/api/v1/people/8476457,D,Defenseman,Defenseman,D,Edmonton Oilers
+520,8476472,Oscar Klefbom,/api/v1/people/8476472,D,Defenseman,Defenseman,D,Edmonton Oilers
+521,8476915,Jujhar Khaira,/api/v1/people/8476915,L,Left Wing,Forward,LW,Edmonton Oilers
+522,8477498,Darnell Nurse,/api/v1/people/8477498,D,Defenseman,Defenseman,D,Edmonton Oilers
+523,8477934,Leon Draisaitl,/api/v1/people/8477934,C,Center,Forward,C,Edmonton Oilers
+524,8478402,Connor McDavid,/api/v1/people/8478402,C,Center,Forward,C,Edmonton Oilers
+525,8478451,Ethan Bear,/api/v1/people/8478451,D,Defenseman,Defenseman,D,Edmonton Oilers
+526,8478452,Caleb Jones,/api/v1/people/8478452,D,Defenseman,Defenseman,D,Edmonton Oilers
+527,8479466,Patrick Russell,/api/v1/people/8479466,R,Right Wing,Forward,RW,Edmonton Oilers
+528,8479973,Stuart Skinner,/api/v1/people/8479973,G,Goalie,Goalie,G,Edmonton Oilers
+529,8479977,Kailer Yamamoto,/api/v1/people/8479977,R,Right Wing,Forward,RW,Edmonton Oilers
+530,8477353,Tyler Motte,/api/v1/people/8477353,C,Center,Forward,C,Vancouver Canucks
+531,8478970,Jalen Chatfield,/api/v1/people/8478970,D,Defenseman,Defenseman,D,Vancouver Canucks
+532,8470626,Loui Eriksson,/api/v1/people/8470626,L,Left Wing,Forward,LW,Vancouver Canucks
+533,8471303,Alexander Edler,/api/v1/people/8471303,D,Defenseman,Defenseman,D,Vancouver Canucks
+534,8474091,Brandon Sutter,/api/v1/people/8474091,C,Center,Forward,C,Vancouver Canucks
+535,8474291,Jay Beagle,/api/v1/people/8474291,C,Center,Forward,C,Vancouver Canucks
+536,8474574,Tyler Myers,/api/v1/people/8474574,D,Defenseman,Defenseman,D,Vancouver Canucks
+537,8474651,Braden Holtby,/api/v1/people/8474651,G,Goalie,Goalie,G,Vancouver Canucks
+538,8474818,Jordie Benn,/api/v1/people/8474818,D,Defenseman,Defenseman,D,Vancouver Canucks
+539,8474849,Antoine Roussel,/api/v1/people/8474849,L,Left Wing,Forward,LW,Vancouver Canucks
+540,8475907,Micheal Ferland,/api/v1/people/8475907,L,Left Wing,Forward,LW,Vancouver Canucks
+541,8476468,J.T. Miller,/api/v1/people/8476468,C,Center,Forward,C,Vancouver Canucks
+542,8476871,Tanner Pearson,/api/v1/people/8476871,L,Left Wing,Forward,LW,Vancouver Canucks
+543,8477220,Nate Schmidt,/api/v1/people/8477220,D,Defenseman,Defenseman,D,Vancouver Canucks
+544,8477473,Justin Bailey,/api/v1/people/8477473,R,Right Wing,Forward,RW,Vancouver Canucks
+545,8477500,Bo Horvat,/api/v1/people/8477500,C,Center,Forward,C,Vancouver Canucks
+546,8477937,Jake Virtanen,/api/v1/people/8477937,R,Right Wing,Forward,RW,Vancouver Canucks
+547,8477963,Jayce Hawryluk,/api/v1/people/8477963,C,Center,Forward,C,Vancouver Canucks
+548,8477967,Thatcher Demko,/api/v1/people/8477967,G,Goalie,Goalie,G,Vancouver Canucks
+549,8478444,Brock Boeser,/api/v1/people/8478444,R,Right Wing,Forward,RW,Vancouver Canucks
+550,8478874,Adam Gaudette,/api/v1/people/8478874,C,Center,Forward,C,Vancouver Canucks
+551,8479355,Olli Juolevi,/api/v1/people/8479355,D,Defenseman,Defenseman,D,Vancouver Canucks
+552,8479772,Zack MacEwen,/api/v1/people/8479772,C,Center,Forward,C,Vancouver Canucks
+553,8480012,Elias Pettersson,/api/v1/people/8480012,C,Center,Forward,C,Vancouver Canucks
+554,8480800,Quinn Hughes,/api/v1/people/8480800,D,Defenseman,Defenseman,D,Vancouver Canucks
+555,8481478,Jake Kielly,/api/v1/people/8481478,G,Goalie,Goalie,G,Vancouver Canucks
+556,8481479,Brogan Rafferty,/api/v1/people/8481479,D,Defenseman,Defenseman,D,Vancouver Canucks
+557,8470612,Ryan Getzlaf,/api/v1/people/8470612,C,Center,Forward,C,Anaheim Ducks
+558,8470655,David Backes,/api/v1/people/8470655,R,Right Wing,Forward,RW,Anaheim Ducks
+559,8474031,Kevin Shattenkirk,/api/v1/people/8474031,D,Defenseman,Defenseman,D,Anaheim Ducks
+560,8474641,Adam Henrique,/api/v1/people/8474641,C,Center,Forward,C,Anaheim Ducks
+561,8474683,Derek Grant,/api/v1/people/8474683,C,Center,Forward,C,Anaheim Ducks
+562,8475164,Jakob Silfverberg,/api/v1/people/8475164,R,Right Wing,Forward,RW,Anaheim Ducks
+563,8475235,Nicolas Deslauriers,/api/v1/people/8475235,L,Left Wing,Forward,LW,Anaheim Ducks
+564,8475461,Andrew Agozzino,/api/v1/people/8475461,L,Left Wing,Forward,LW,Anaheim Ducks
+565,8475764,Cam Fowler,/api/v1/people/8475764,D,Defenseman,Defenseman,D,Anaheim Ducks
+566,8476312,Josh Manson,/api/v1/people/8476312,D,Defenseman,Defenseman,D,Anaheim Ducks
+567,8476407,Andy Welinski,/api/v1/people/8476407,D,Defenseman,Defenseman,D,Anaheim Ducks
+568,8476434,John Gibson,/api/v1/people/8476434,G,Goalie,Goalie,G,Anaheim Ducks
+569,8476483,Rickard Rakell,/api/v1/people/8476483,L,Left Wing,Forward,LW,Anaheim Ducks
+570,8476854,Hampus Lindholm,/api/v1/people/8476854,D,Defenseman,Defenseman,D,Anaheim Ducks
+571,8477043,Christian Djoos,/api/v1/people/8477043,D,Defenseman,Defenseman,D,Anaheim Ducks
+572,8477240,Carter Rowney,/api/v1/people/8477240,C,Center,Forward,C,Anaheim Ducks
+573,8477947,Sonny Milano,/api/v1/people/8477947,L,Left Wing,Forward,LW,Anaheim Ducks
+574,8478046,Danton Heinen,/api/v1/people/8478046,L,Left Wing,Forward,LW,Anaheim Ducks
+575,8479351,Sam Steel,/api/v1/people/8479351,C,Center,Forward,C,Anaheim Ducks
+576,8479368,Max Jones,/api/v1/people/8479368,L,Left Wing,Forward,LW,Anaheim Ducks
+577,8479968,Vinni Lettieri,/api/v1/people/8479968,C,Center,Forward,C,Anaheim Ducks
+578,8476889,Radek Faksa,/api/v1/people/8476889,C,Center,Forward,C,Dallas Stars
+579,8478449,Roope Hintz,/api/v1/people/8478449,L,Left Wing,Forward,LW,Dallas Stars
+580,8478495,Denis Gurianov,/api/v1/people/8478495,R,Right Wing,Forward,RW,Dallas Stars
+581,8470794,Joe Pavelski,/api/v1/people/8470794,C,Center,Forward,C,Dallas Stars
+582,8471228,Alexander Radulov,/api/v1/people/8471228,R,Right Wing,Forward,RW,Dallas Stars
+583,8471260,Blake Comeau,/api/v1/people/8471260,L,Left Wing,Forward,LW,Dallas Stars
+584,8471284,Andrej Sekera,/api/v1/people/8471284,D,Defenseman,Defenseman,D,Dallas Stars
+585,8471418,Anton Khudobin,/api/v1/people/8471418,G,Goalie,Goalie,G,Dallas Stars
+586,8471699,Andrew Cogliano,/api/v1/people/8471699,C,Center,Forward,C,Dallas Stars
+587,8471750,Ben Bishop,/api/v1/people/8471750,G,Goalie,Goalie,G,Dallas Stars
+588,8473994,Jamie Benn,/api/v1/people/8473994,L,Left Wing,Forward,LW,Dallas Stars
+589,8475413,Justin Dowling,/api/v1/people/8475413,C,Center,Forward,C,Dallas Stars
+590,8475730,Stephen Johns,/api/v1/people/8475730,D,Defenseman,Defenseman,D,Dallas Stars
+591,8475794,Tyler Seguin,/api/v1/people/8475794,C,Center,Forward,C,Dallas Stars
+592,8475796,Mark Pysyk,/api/v1/people/8475796,D,Defenseman,Defenseman,D,Dallas Stars
+593,8475906,John Klingberg,/api/v1/people/8475906,D,Defenseman,Defenseman,D,Dallas Stars
+594,8476166,Taylor Fedun,/api/v1/people/8476166,D,Defenseman,Defenseman,D,Dallas Stars
+595,8476467,Jamie Oleksiak,/api/v1/people/8476467,D,Defenseman,Defenseman,D,Dallas Stars
+596,8476902,Esa Lindell,/api/v1/people/8476902,D,Defenseman,Defenseman,D,Dallas Stars
+597,8477450,Jason Dickinson,/api/v1/people/8477450,C,Center,Forward,C,Dallas Stars
+598,8477810,Joel Hanley,/api/v1/people/8477810,D,Defenseman,Defenseman,D,Dallas Stars
+599,8479979,Jake Oettinger,/api/v1/people/8479979,G,Goalie,Goalie,G,Dallas Stars
+600,8480036,Miro Heiskanen,/api/v1/people/8480036,D,Defenseman,Defenseman,D,Dallas Stars
+601,8480848,Ty Dellandrea,/api/v1/people/8480848,C,Center,Forward,C,Dallas Stars
+602,8481641,Joel Kiviranta,/api/v1/people/8481641,L,Left Wing,Forward,LW,Dallas Stars
+603,8470604,Jeff Carter,/api/v1/people/8470604,C,Center,Forward,C,Los Angeles Kings
+604,8470606,Dustin Brown,/api/v1/people/8470606,R,Right Wing,Forward,RW,Los Angeles Kings
+605,8471685,Anze Kopitar,/api/v1/people/8471685,C,Center,Forward,C,Los Angeles Kings
+606,8471734,Jonathan Quick,/api/v1/people/8471734,G,Goalie,Goalie,G,Los Angeles Kings
+607,8474563,Drew Doughty,/api/v1/people/8474563,D,Defenseman,Defenseman,D,Los Angeles Kings
+608,8476874,Olli Maatta,/api/v1/people/8476874,D,Defenseman,Defenseman,D,Los Angeles Kings
+609,8476924,Martin Frk,/api/v1/people/8476924,R,Right Wing,Forward,RW,Los Angeles Kings
+610,8477073,Kurtis MacDermid,/api/v1/people/8477073,D,Defenseman,Defenseman,D,Los Angeles Kings
+611,8477234,Troy Grosenick,/api/v1/people/8477234,G,Goalie,Goalie,G,Los Angeles Kings
+612,8477361,Calvin Petersen,/api/v1/people/8477361,G,Goalie,Goalie,G,Los Angeles Kings
+613,8477960,Adrian Kempe,/api/v1/people/8477960,C,Center,Forward,C,Los Angeles Kings
+614,8478020,Michael Amadio,/api/v1/people/8478020,C,Center,Forward,C,Los Angeles Kings
+615,8478455,Austin Wagner,/api/v1/people/8478455,L,Left Wing,Forward,LW,Los Angeles Kings
+616,8478911,Matt Roy,/api/v1/people/8478911,D,Defenseman,Defenseman,D,Los Angeles Kings
+617,8479675,Trevor Moore,/api/v1/people/8479675,C,Center,Forward,C,Los Angeles Kings
+618,8479998,Mikey Anderson,/api/v1/people/8479998,D,Defenseman,Defenseman,D,Los Angeles Kings
+619,8480014,Gabriel Vilardi,/api/v1/people/8480014,C,Center,Forward,C,Los Angeles Kings
+620,8480113,Alex Iafallo,/api/v1/people/8480113,L,Left Wing,Forward,LW,Los Angeles Kings
+621,8480336,Sean Walker,/api/v1/people/8480336,D,Defenseman,Defenseman,D,Los Angeles Kings
+622,8481481,Blake Lizotte,/api/v1/people/8481481,C,Center,Forward,C,Los Angeles Kings
+623,8474578,Erik Karlsson,/api/v1/people/8474578,D,Defenseman,Defenseman,D,San Jose Sharks
+624,8476881,Tomas Hertl,/api/v1/people/8476881,C,Center,Forward,C,San Jose Sharks
+625,8478099,Kevin Labanc,/api/v1/people/8478099,R,Right Wing,Forward,RW,San Jose Sharks
+626,8466139,Patrick Marleau,/api/v1/people/8466139,C,Center,Forward,C,San Jose Sharks
+627,8470613,Brent Burns,/api/v1/people/8470613,D,Defenseman,Defenseman,D,San Jose Sharks
+628,8471227,Devan Dubnyk,/api/v1/people/8471227,G,Goalie,Goalie,G,San Jose Sharks
+629,8471709,Marc-Edouard Vlasic,/api/v1/people/8471709,D,Defenseman,Defenseman,D,San Jose Sharks
+630,8474053,Logan Couture,/api/v1/people/8474053,C,Center,Forward,C,San Jose Sharks
+631,8474889,Martin Jones,/api/v1/people/8474889,G,Goalie,Goalie,G,San Jose Sharks
+632,8475169,Evander Kane,/api/v1/people/8475169,L,Left Wing,Forward,LW,San Jose Sharks
+633,8476442,Matt Nieto,/api/v1/people/8476442,L,Left Wing,Forward,LW,San Jose Sharks
+634,8476474,Stefan Noesen,/api/v1/people/8476474,R,Right Wing,Forward,RW,San Jose Sharks
+635,8477987,Ryan Donato,/api/v1/people/8477987,C,Center,Forward,C,San Jose Sharks
+636,8478136,Jacob Middleton,/api/v1/people/8478136,D,Defenseman,Defenseman,D,San Jose Sharks
+637,8478414,Timo Meier,/api/v1/people/8478414,R,Right Wing,Forward,RW,San Jose Sharks
+638,8479393,Noah Gregor,/api/v1/people/8479393,C,Center,Forward,C,San Jose Sharks
+639,8479580,Dylan Gambrell,/api/v1/people/8479580,C,Center,Forward,C,San Jose Sharks
+640,8479983,Mario Ferraro,/api/v1/people/8479983,D,Defenseman,Defenseman,D,San Jose Sharks
+641,8480160,Radim Simek,/api/v1/people/8480160,D,Defenseman,Defenseman,D,San Jose Sharks
+642,8471273,Brandon Dubinsky,/api/v1/people/8471273,C,Center,Forward,C,Columbus Blue Jackets
+643,8480074,Alexandre Texier,/api/v1/people/8480074,C,Center,Forward,C,Columbus Blue Jackets
+644,8469459,Mikko Koivu,/api/v1/people/8469459,C,Center,Forward,C,Columbus Blue Jackets
+645,8471804,Nathan Gerbe,/api/v1/people/8471804,C,Center,Forward,C,Columbus Blue Jackets
+646,8473422,Nick Foligno,/api/v1/people/8473422,L,Left Wing,Forward,LW,Columbus Blue Jackets
+647,8474062,Riley Nash,/api/v1/people/8474062,C,Center,Forward,C,Columbus Blue Jackets
+648,8474679,Gustav Nyquist,/api/v1/people/8474679,C,Center,Forward,C,Columbus Blue Jackets
+649,8474715,Cam Atkinson,/api/v1/people/8474715,R,Right Wing,Forward,RW,Columbus Blue Jackets
+650,8475233,David Savard,/api/v1/people/8475233,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+651,8476432,Boone Jenner,/api/v1/people/8476432,C,Center,Forward,C,Columbus Blue Jackets
+652,8476449,Scott Harrington,/api/v1/people/8476449,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+653,8476870,Stefan Matteau,/api/v1/people/8476870,C,Center,Forward,C,Columbus Blue Jackets
+654,8476914,Joonas Korpisalo,/api/v1/people/8476914,G,Goalie,Goalie,G,Columbus Blue Jackets
+655,8477416,Oliver Bjorkstrand,/api/v1/people/8477416,R,Right Wing,Forward,RW,Columbus Blue Jackets
+656,8477495,Seth Jones,/api/v1/people/8477495,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+657,8477503,Max Domi,/api/v1/people/8477503,C,Center,Forward,C,Columbus Blue Jackets
+658,8478007,Elvis Merzlikins,/api/v1/people/8478007,G,Goalie,Goalie,G,Columbus Blue Jackets
+659,8478460,Zach Werenski,/api/v1/people/8478460,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+660,8478567,Dean Kukan,/api/v1/people/8478567,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+661,8478882,Vladislav Gavrikov,/api/v1/people/8478882,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+662,8479369,Andrew Peeke,/api/v1/people/8479369,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+663,8479400,Pierre-Luc Dubois,/api/v1/people/8479400,C,Center,Forward,C,Columbus Blue Jackets
+664,8479945,Gavin Bayreuther,/api/v1/people/8479945,D,Defenseman,Defenseman,D,Columbus Blue Jackets
+665,8480162,Matiss Kivlenieks,/api/v1/people/8480162,G,Goalie,Goalie,G,Columbus Blue Jackets
+666,8480762,Eric Robinson,/api/v1/people/8480762,L,Left Wing,Forward,LW,Columbus Blue Jackets
+667,8480853,Liam Foudy,/api/v1/people/8480853,C,Center,Forward,C,Columbus Blue Jackets
+668,8474688,Greg Pateryn,/api/v1/people/8474688,D,Defenseman,Defenseman,D,Minnesota Wild
+669,8475760,Nick Bjugstad,/api/v1/people/8475760,C,Center,Forward,C,Minnesota Wild
+670,8478039,Kaapo Kahkonen,/api/v1/people/8478039,G,Goalie,Goalie,G,Minnesota Wild
+671,8478413,Jordan Greenway,/api/v1/people/8478413,L,Left Wing,Forward,LW,Minnesota Wild
+672,8478864,Kirill Kaprizov,/api/v1/people/8478864,L,Left Wing,Forward,LW,Minnesota Wild
+673,8470600,Ryan Suter,/api/v1/people/8470600,D,Defenseman,Defenseman,D,Minnesota Wild
+674,8470610,Zach Parise,/api/v1/people/8470610,L,Left Wing,Forward,LW,Minnesota Wild
+675,8471774,Alex Stalock,/api/v1/people/8471774,G,Goalie,Goalie,G,Minnesota Wild
+676,8474009,Nick Bonino,/api/v1/people/8474009,C,Center,Forward,C,Minnesota Wild
+677,8474716,Jared Spurgeon,/api/v1/people/8474716,D,Defenseman,Defenseman,D,Minnesota Wild
+678,8475149,Marcus Johansson,/api/v1/people/8475149,C,Center,Forward,C,Minnesota Wild
+679,8475220,Marcus Foligno,/api/v1/people/8475220,L,Left Wing,Forward,LW,Minnesota Wild
+680,8475660,Cam Talbot,/api/v1/people/8475660,G,Goalie,Goalie,G,Minnesota Wild
+681,8475692,Mats Zuccarello,/api/v1/people/8475692,R,Right Wing,Forward,RW,Minnesota Wild
+682,8476437,Victor Rask,/api/v1/people/8476437,C,Center,Forward,C,Minnesota Wild
+683,8476463,Jonas Brodin,/api/v1/people/8476463,D,Defenseman,Defenseman,D,Minnesota Wild
+684,8476779,Brad Hunt,/api/v1/people/8476779,D,Defenseman,Defenseman,D,Minnesota Wild
+685,8476856,Matt Dumba,/api/v1/people/8476856,D,Defenseman,Defenseman,D,Minnesota Wild
+686,8477369,Carson Soucy,/api/v1/people/8477369,D,Defenseman,Defenseman,D,Minnesota Wild
+687,8477451,Ryan Hartman,/api/v1/people/8477451,R,Right Wing,Forward,RW,Minnesota Wild
+688,8477942,Kevin Fiala,/api/v1/people/8477942,L,Left Wing,Forward,LW,Minnesota Wild
+689,8478493,Joel Eriksson Ek,/api/v1/people/8478493,C,Center,Forward,C,Minnesota Wild
+690,8481477,Nico Sturm,/api/v1/people/8481477,C,Center,Forward,C,Minnesota Wild
+691,8473412,Bryan Little,/api/v1/people/8473412,C,Center,Forward,C,Winnipeg Jets
+692,8478424,Jansen Harkins,/api/v1/people/8478424,C,Center,Forward,C,Winnipeg Jets
+693,8478891,Mason Appleton,/api/v1/people/8478891,C,Center,Forward,C,Winnipeg Jets
+694,8478915,Sami Niku,/api/v1/people/8478915,D,Defenseman,Defenseman,D,Winnipeg Jets
+695,8470775,Nate Thompson,/api/v1/people/8470775,C,Center,Forward,C,Winnipeg Jets
+696,8471218,Blake Wheeler,/api/v1/people/8471218,R,Right Wing,Forward,RW,Winnipeg Jets
+697,8471669,Paul Stastny,/api/v1/people/8471669,C,Center,Forward,C,Winnipeg Jets
+698,8473618,Mathieu Perreault,/api/v1/people/8473618,L,Left Wing,Forward,LW,Winnipeg Jets
+699,8474579,Luca Sbisa,/api/v1/people/8474579,D,Defenseman,Defenseman,D,Winnipeg Jets
+700,8475762,Derek Forbort,/api/v1/people/8475762,D,Defenseman,Defenseman,D,Winnipeg Jets
+701,8476316,Laurent Brossoit,/api/v1/people/8476316,G,Goalie,Goalie,G,Winnipeg Jets
+702,8476331,Dylan DeMelo,/api/v1/people/8476331,D,Defenseman,Defenseman,D,Winnipeg Jets
+703,8476392,Adam Lowry,/api/v1/people/8476392,C,Center,Forward,C,Winnipeg Jets
+704,8476460,Mark Scheifele,/api/v1/people/8476460,C,Center,Forward,C,Winnipeg Jets
+705,8476470,Nathan Beaulieu,/api/v1/people/8476470,D,Defenseman,Defenseman,D,Winnipeg Jets
+706,8476945,Connor Hellebuyck,/api/v1/people/8476945,G,Goalie,Goalie,G,Winnipeg Jets
+707,8476952,Dominic Toninato,/api/v1/people/8476952,C,Center,Forward,C,Winnipeg Jets
+708,8477359,Tucker Poolman,/api/v1/people/8477359,D,Defenseman,Defenseman,D,Winnipeg Jets
+709,8477429,Andrew Copp,/api/v1/people/8477429,C,Center,Forward,C,Winnipeg Jets
+710,8477480,Eric Comrie,/api/v1/people/8477480,G,Goalie,Goalie,G,Winnipeg Jets
+711,8477504,Josh Morrissey,/api/v1/people/8477504,D,Defenseman,Defenseman,D,Winnipeg Jets
+712,8477940,Nikolaj Ehlers,/api/v1/people/8477940,L,Left Wing,Forward,LW,Winnipeg Jets
+713,8478398,Kyle Connor,/api/v1/people/8478398,L,Left Wing,Forward,LW,Winnipeg Jets
+714,8478458,Jack Roslovic,/api/v1/people/8478458,C,Center,Forward,C,Winnipeg Jets
+715,8479339,Patrik Laine,/api/v1/people/8479339,R,Right Wing,Forward,RW,Winnipeg Jets
+716,8480145,Neal Pionk,/api/v1/people/8480145,D,Defenseman,Defenseman,D,Winnipeg Jets
+717,8478432,Christian Fischer,/api/v1/people/8478432,R,Right Wing,Forward,RW,Arizona Coyotes
+718,8480849,Barrett Hayton,/api/v1/people/8480849,C,Center,Forward,C,Arizona Coyotes
+719,8480950,Ilya Lyubushkin,/api/v1/people/8480950,D,Defenseman,Defenseman,D,Arizona Coyotes
+720,8471274,Alex Goligoski,/api/v1/people/8471274,D,Defenseman,Defenseman,D,Arizona Coyotes
+721,8471769,Niklas Hjalmarsson,/api/v1/people/8471769,D,Defenseman,Defenseman,D,Arizona Coyotes
+722,8473548,Phil Kessel,/api/v1/people/8473548,R,Right Wing,Forward,RW,Arizona Coyotes
+723,8474218,Jason Demers,/api/v1/people/8474218,D,Defenseman,Defenseman,D,Arizona Coyotes
+724,8474613,Derek Stepan,/api/v1/people/8474613,C,Center,Forward,C,Arizona Coyotes
+725,8475171,Oliver Ekman-Larsson,/api/v1/people/8475171,D,Defenseman,Defenseman,D,Arizona Coyotes
+726,8475311,Darcy Kuemper,/api/v1/people/8475311,G,Goalie,Goalie,G,Arizona Coyotes
+727,8475728,Johan Larsson,/api/v1/people/8475728,C,Center,Forward,C,Arizona Coyotes
+728,8475752,Tyler Pitlick,/api/v1/people/8475752,C,Center,Forward,C,Arizona Coyotes
+729,8477293,Antti Raanta,/api/v1/people/8477293,G,Goalie,Goalie,G,Arizona Coyotes
+730,8477401,John Hayden,/api/v1/people/8477401,C,Center,Forward,C,Arizona Coyotes
+731,8477851,Jordan Oesterle,/api/v1/people/8477851,D,Defenseman,Defenseman,D,Arizona Coyotes
+732,8477951,Nick Schmaltz,/api/v1/people/8477951,C,Center,Forward,C,Arizona Coyotes
+733,8477989,Christian Dvorak,/api/v1/people/8477989,C,Center,Forward,C,Arizona Coyotes
+734,8478474,Lawson Crouse,/api/v1/people/8478474,L,Left Wing,Forward,LW,Arizona Coyotes
+735,8478476,Kyle Capobianco,/api/v1/people/8478476,D,Defenseman,Defenseman,D,Arizona Coyotes
+736,8478499,Adin Hill,/api/v1/people/8478499,G,Goalie,Goalie,G,Arizona Coyotes
+737,8478856,Conor Garland,/api/v1/people/8478856,R,Right Wing,Forward,RW,Arizona Coyotes
+738,8479343,Clayton Keller,/api/v1/people/8479343,R,Right Wing,Forward,RW,Arizona Coyotes
+739,8479345,Jakob Chychrun,/api/v1/people/8479345,D,Defenseman,Defenseman,D,Arizona Coyotes
+740,8481522,Peyton Krebs,/api/v1/people/8481522,C,Center,Forward,C,Vegas Golden Knights
+741,8470594,Marc-Andre Fleury,/api/v1/people/8470594,G,Goalie,Goalie,G,Vegas Golden Knights
+742,8471817,Ryan Reaves,/api/v1/people/8471817,R,Right Wing,Forward,RW,Vegas Golden Knights
+743,8474157,Max Pacioretty,/api/v1/people/8474157,L,Left Wing,Forward,LW,Vegas Golden Knights
+744,8474166,Alec Martinez,/api/v1/people/8474166,D,Defenseman,Defenseman,D,Vegas Golden Knights
+745,8474207,Nick Holden,/api/v1/people/8474207,D,Defenseman,Defenseman,D,Vegas Golden Knights
+746,8474565,Alex Pietrangelo,/api/v1/people/8474565,D,Defenseman,Defenseman,D,Vegas Golden Knights
+747,8475188,Brayden McNabb,/api/v1/people/8475188,D,Defenseman,Defenseman,D,Vegas Golden Knights
+748,8475191,Reilly Smith,/api/v1/people/8475191,R,Right Wing,Forward,RW,Vegas Golden Knights
+749,8475215,Robin Lehner,/api/v1/people/8475215,G,Goalie,Goalie,G,Vegas Golden Knights
+750,8475913,Mark Stone,/api/v1/people/8475913,R,Right Wing,Forward,RW,Vegas Golden Knights
+751,8476448,William Karlsson,/api/v1/people/8476448,C,Center,Forward,C,Vegas Golden Knights
+752,8476539,Jonathan Marchessault,/api/v1/people/8476539,C,Center,Forward,C,Vegas Golden Knights
+753,8476861,Oscar Dansk,/api/v1/people/8476861,G,Goalie,Goalie,G,Vegas Golden Knights
+754,8476905,Chandler Stephenson,/api/v1/people/8476905,C,Center,Forward,C,Vegas Golden Knights
+755,8476982,Danny O'Regan,/api/v1/people/8476982,C,Center,Forward,C,Vegas Golden Knights
+756,8477447,Shea Theodore,/api/v1/people/8477447,D,Defenseman,Defenseman,D,Vegas Golden Knights
+757,8477472,Carl Dahlstrom,/api/v1/people/8477472,D,Defenseman,Defenseman,D,Vegas Golden Knights
+758,8477478,William Carrier,/api/v1/people/8477478,L,Left Wing,Forward,LW,Vegas Golden Knights
+759,8477931,Tomas Nosek,/api/v1/people/8477931,L,Left Wing,Forward,LW,Vegas Golden Knights
+760,8477949,Alex Tuch,/api/v1/people/8477949,R,Right Wing,Forward,RW,Vegas Golden Knights
+761,8478097,Reid Duke,/api/v1/people/8478097,C,Center,Forward,C,Vegas Golden Knights
+762,8478106,Dylan Sikura,/api/v1/people/8478106,R,Right Wing,Forward,RW,Vegas Golden Knights
+763,8478462,Nicolas Roy,/api/v1/people/8478462,C,Center,Forward,C,Vegas Golden Knights
+764,8479639,Dylan Coghlan,/api/v1/people/8479639,D,Defenseman,Defenseman,D,Vegas Golden Knights
+765,8480727,Zach Whitecloud,/api/v1/people/8480727,D,Defenseman,Defenseman,D,Vegas Golden Knights

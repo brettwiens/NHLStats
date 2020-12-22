@@ -1,0 +1,767 @@
+,ID,Position,FullName,Link,FirstName,LastName,PrimaryNumber,BirthDate,CurrentAge,BirthCity,BirthProvState,BirthCountry,Nationality,Height,Weight,Active,AlternateCaptain,Captain,Rookie,ShootsCatches,RosterStatus
+0,8470645,G,Corey Crawford,/api/v1/people/8470645,Corey,Crawford,50,1984-12-31,35,Montreal,QC,CAN,CAN,"6' 2""",216,True,False,False,False,L,Y
+1,8471233,C,Travis Zajac,/api/v1/people/8471233,Travis,Zajac,19,1985-05-13,35,Winnipeg,MB,CAN,CAN,"6' 2""",185,True,True,False,False,R,Y
+2,8474056,D,P.K. Subban,/api/v1/people/8474056,P.K.,Subban,76,1989-05-13,31,Toronto,ON,CAN,CAN,"6' 0""",210,True,False,False,False,R,Y
+3,8475151,RW,Kyle Palmieri,/api/v1/people/8475151,Kyle,Palmieri,21,1991-02-01,29,Smithtown,NY,USA,USA,"5' 11""",185,True,True,False,False,R,Y
+4,8475179,D,Dmitry Kulikov,/api/v1/people/8475179,Dmitry,Kulikov,7,1990-10-29,30,Lipetsk,,RUS,RUS,"6' 1""",204,True,False,False,False,L,Y
+5,8476850,D,Ryan Murray,/api/v1/people/8476850,Ryan,Murray,22,1993-09-27,27,Regina,SK,CAN,CAN,"6' 1""",206,True,False,False,False,L,Y
+6,8476923,D,Damon Severson,/api/v1/people/8476923,Damon,Severson,28,1994-08-07,26,Melville,SK,CAN,CAN,"6' 2""",205,True,False,False,False,R,Y
+7,8476941,D,Connor Carrick,/api/v1/people/8476941,Connor,Carrick,5,1994-04-13,26,Orland Park,IL,USA,USA,"5' 11""",192,True,False,False,False,R,Y
+8,8477038,LW,Nikita Gusev,/api/v1/people/8477038,Nikita,Gusev,97,1992-07-08,28,Moscow,,RUS,RUS,"5' 9""",163,True,False,False,False,R,Y
+9,8477341,LW,Andreas Johnsson,/api/v1/people/8477341,Andreas,Johnsson,11,1994-11-21,26,Gävle,,SWE,SWE,"5' 10""",194,True,False,False,False,L,Y
+10,8477355,D,Will Butcher,/api/v1/people/8477355,Will,Butcher,8,1995-01-06,25,Sun Prairie,WI,USA,USA,"5' 10""",190,True,False,False,False,L,Y
+11,8477425,LW,Miles Wood,/api/v1/people/8477425,Miles,Wood,44,1995-09-13,25,Buffalo,NY,USA,USA,"6' 2""",195,True,False,False,False,L,Y
+12,8478401,C,Pavel Zacha,/api/v1/people/8478401,Pavel,Zacha,37,1997-04-06,23,Brno,,CZE,CZE,"6' 3""",210,True,False,False,False,L,Y
+13,8478406,G,Mackenzie Blackwood,/api/v1/people/8478406,Mackenzie,Blackwood,29,1996-12-09,24,Thunder Bay,ON,CAN,CAN,"6' 4""",225,True,False,False,True,L,Y
+14,8479407,LW,Jesper Bratt,/api/v1/people/8479407,Jesper,Bratt,63,1998-07-30,22,Stockholm,,SWE,SWE,"5' 10""",175,True,False,False,False,L,Y
+15,8479415,C,Michael McLeod,/api/v1/people/8479415,Michael,McLeod,41,1998-02-03,22,Mississauga,ON,CAN,CAN,"6' 2""",188,True,False,False,True,R,Y
+16,8480002,C,Nico Hischier,/api/v1/people/8480002,Nico,Hischier,13,1999-01-04,21,Brig,,CHE,CHE,"6' 1""",175,True,True,False,False,L,Y
+17,8481559,C,Jack Hughes,/api/v1/people/8481559,Jack,Hughes,86,2001-05-14,19,Orlando,FL,USA,USA,"5' 11""",170,True,False,False,True,L,Y
+18,8477506,D,Ryan Pulock,/api/v1/people/8477506,Ryan,Pulock,6,1994-10-06,26,Dauphin,MB,CAN,CAN,"6' 2""",217,True,False,False,False,R,Y
+19,8470187,D,Johnny Boychuk,/api/v1/people/8470187,Johnny,Boychuk,55,1984-01-19,36,Edmonton,AB,CAN,CAN,"6' 2""",227,True,False,False,False,R,Y
+20,8471217,LW,Andrew Ladd,/api/v1/people/8471217,Andrew,Ladd,16,1985-12-12,35,Maple Ridge,BC,CAN,CAN,"6' 3""",192,True,False,False,False,L,Y
+21,8473463,RW,Leo Komarov,/api/v1/people/8473463,Leo,Komarov,47,1987-01-23,33,Narva,,EST,FIN,"5' 11""",209,True,False,False,False,L,Y
+22,8473504,RW,Cal Clutterbuck,/api/v1/people/8473504,Cal,Clutterbuck,15,1987-11-18,33,Welland,ON,CAN,CAN,"5' 11""",216,True,False,False,False,R,Y
+23,8473575,G,Semyon Varlamov,/api/v1/people/8473575,Semyon,Varlamov,40,1988-04-27,32,Samara,,RUS,RUS,"6' 2""",205,True,False,False,False,L,Y
+24,8474066,D,Thomas Hickey,/api/v1/people/8474066,Thomas,Hickey,34,1989-02-08,31,Calgary,AB,CAN,CAN,"6' 0""",183,True,False,False,False,L,Y
+25,8474573,RW,Josh Bailey,/api/v1/people/8474573,Josh,Bailey,12,1989-10-02,31,Bowmanville,ON,CAN,CAN,"6' 1""",200,True,False,False,False,L,Y
+26,8474586,RW,Jordan Eberle,/api/v1/people/8474586,Jordan,Eberle,7,1990-05-15,30,Regina,SK,CAN,CAN,"5' 11""",187,True,False,False,False,R,Y
+27,8475181,D,Nick Leddy,/api/v1/people/8475181,Nick,Leddy,2,1991-03-20,29,Eden Prairie,MN,USA,USA,"6' 0""",207,True,False,False,False,L,Y
+28,8475231,C,Casey Cizikas,/api/v1/people/8475231,Casey,Cizikas,53,1991-02-27,29,Toronto,ON,CAN,CAN,"5' 11""",195,True,False,False,False,L,Y
+29,8475314,LW,Anders Lee,/api/v1/people/8475314,Anders,Lee,27,1990-07-03,30,Edina,MN,USA,USA,"6' 3""",231,True,False,True,False,L,Y
+30,8475754,C,Brock Nelson,/api/v1/people/8475754,Brock,Nelson,29,1991-10-15,29,Warroad,MN,USA,USA,"6' 3""",212,True,False,False,False,L,Y
+31,8476419,C,Jean-Gabriel Pageau,/api/v1/people/8476419,Jean-Gabriel,Pageau,44,1992-11-11,28,Ottawa,ON,CAN,CAN,"5' 10""",180,True,False,False,False,R,Y
+32,8476429,D,Scott Mayfield,/api/v1/people/8476429,Scott,Mayfield,24,1992-10-14,28,St. Louis,MO,USA,USA,"6' 5""",223,True,False,False,False,R,Y
+33,8476917,D,Adam Pelech,/api/v1/people/8476917,Adam,Pelech,3,1994-08-16,26,Toronto,ON,CAN,CAN,"6' 3""",218,True,False,False,False,L,Y
+34,8477527,LW,Ross Johnston,/api/v1/people/8477527,Ross,Johnston,32,1994-02-18,26,Charlottetown,PE,CAN,CAN,"6' 5""",235,True,False,False,False,L,Y
+35,8477936,LW,Michael Dal Colle,/api/v1/people/8477936,Michael,Dal Colle,28,1996-06-20,24,Woodbridge,ON,CAN,CAN,"6' 3""",204,True,False,False,False,L,Y
+36,8478445,C,Mathew Barzal,/api/v1/people/8478445,Mathew,Barzal,13,1997-05-26,23,Coquitlam,BC,CAN,CAN,"6' 0""",187,True,False,False,False,R,Y
+37,8478463,LW,Anthony Beauvillier,/api/v1/people/8478463,Anthony,Beauvillier,18,1997-06-08,23,Sorel-Tracy,QC,CAN,CAN,"5' 11""",182,True,False,False,False,L,Y
+38,8478512,C,Austin Czarnik,/api/v1/people/8478512,Austin,Czarnik,27,1992-12-12,28,Detroit,MI,USA,USA,"5' 9""",170,True,False,False,False,R,Y
+39,8480222,D,Sebastian Aho,/api/v1/people/8480222,Sebastian,Aho,38,1996-02-17,24,Umea,,SWE,SWE,"5' 11""",177,True,False,False,True,L,Y
+40,8480865,D,Noah Dobson,/api/v1/people/8480865,Noah,Dobson,8,2000-01-07,20,Summerside,PE,CAN,CAN,"6' 4""",184,True,False,False,True,R,Y
+41,8471677,D,Jack Johnson,/api/v1/people/8471677,Jack,Johnson,3,1987-01-13,33,Indianapolis,IN,USA,USA,"6' 1""",227,True,False,False,False,L,Y
+42,8476458,C,Ryan Strome,/api/v1/people/8476458,Ryan,Strome,16,1993-07-11,27,Mississauga,ON,CAN,CAN,"6' 1""",193,True,False,False,False,R,Y
+43,8476858,LW,Phillip Di Giuseppe,/api/v1/people/8476858,Phillip,Di Giuseppe,33,1993-10-09,27,Toronto,ON,CAN,CAN,"6' 0""",193,True,False,False,False,L,Y
+44,8477950,D,Tony DeAngelo,/api/v1/people/8477950,Tony,DeAngelo,77,1995-10-24,25,Sewell,NJ,USA,USA,"5' 11""",180,True,False,False,False,R,Y
+45,8477962,LW,Brendan Lemieux,/api/v1/people/8477962,Brendan,Lemieux,48,1996-03-15,24,Denver,CO,USA,USA,"6' 1""",213,True,False,False,False,L,Y
+46,8480382,G,Alexandar Georgiev,/api/v1/people/8480382,Alexandar,Georgiev,40,1996-02-10,24,Ruse,,BGR,RUS,"6' 1""",178,True,False,False,False,L,Y
+47,8474090,D,Brendan Smith,/api/v1/people/8474090,Brendan,Smith,42,1989-02-08,31,Mimico,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y
+48,8475184,LW,Chris Kreider,/api/v1/people/8475184,Chris,Kreider,20,1991-04-30,29,Boxford,MA,USA,USA,"6' 3""",217,True,True,False,False,L,Y
+49,8475868,D,Anthony Bitetto,/api/v1/people/8475868,Anthony,Bitetto,2,1990-07-15,30,Island Park,NY,USA,USA,"6' 1""",210,True,False,False,False,L,Y
+50,8476278,C,Colin Blackwell,/api/v1/people/8476278,Colin,Blackwell,42,1993-03-28,27,Lawrence,MA,USA,USA,"5' 9""",190,True,False,False,False,R,Y
+51,8476459,C,Mika Zibanejad,/api/v1/people/8476459,Mika,Zibanejad,93,1993-04-18,27,Huddinge,,SWE,SWE,"6' 2""",208,True,True,False,False,R,Y
+52,8476885,D,Jacob Trouba,/api/v1/people/8476885,Jacob,Trouba,8,1994-02-26,26,Rochester,MI,USA,USA,"6' 3""",209,True,False,False,False,R,Y
+53,8477402,RW,Pavel Buchnevich,/api/v1/people/8477402,Pavel,Buchnevich,89,1995-04-17,25,Cherepovets,,RUS,RUS,"6' 3""",197,True,False,False,False,L,Y
+54,8478048,G,Igor Shesterkin,/api/v1/people/8478048,Igor,Shesterkin,31,1995-12-30,24,Moscow,,RUS,RUS,"6' 2""",182,True,False,False,True,L,Y
+55,8478550,LW,Artemi Panarin,/api/v1/people/8478550,Artemi,Panarin,10,1991-10-30,29,Korkino,,RUS,RUS,"5' 11""",170,True,False,False,False,R,Y
+56,8479291,C,Kevin Rooney,/api/v1/people/8479291,Kevin,Rooney,16,1993-05-21,27,Canton,MA,USA,USA,"6' 2""",190,True,False,False,False,L,Y
+57,8479323,D,Adam Fox,/api/v1/people/8479323,Adam,Fox,23,1998-02-17,22,Jericho,NY,USA,USA,"5' 11""",181,True,False,False,True,R,Y
+58,8479324,D,Ryan Lindgren,/api/v1/people/8479324,Ryan,Lindgren,55,1998-02-11,22,Burnsville,MN,USA,USA,"6' 0""",191,True,False,False,True,L,Y
+59,8479328,RW,Julien Gauthier,/api/v1/people/8479328,Julien,Gauthier,12,1997-10-15,23,Pointe-aux-Trembles,QC,CAN,CAN,"6' 4""",227,True,False,False,True,R,Y
+60,8479353,C,Brett Howden,/api/v1/people/8479353,Brett,Howden,21,1998-03-29,22,Calgary,AB,CAN,CAN,"6' 3""",197,True,False,False,False,L,Y
+61,8480078,C,Filip Chytil,/api/v1/people/8480078,Filip,Chytil,72,1999-09-05,21,Kromeriz,,CZE,CZE,"6' 2""",206,True,False,False,False,L,Y
+62,8481554,RW,Kaapo Kakko,/api/v1/people/8481554,Kaapo,Kakko,24,2001-02-13,19,Turku,,FIN,FIN,"6' 3""",199,True,False,False,True,L,Y
+63,8477502,D,Samuel Morin,/api/v1/people/8477502,Samuel,Morin,55,1995-07-12,25,Lac-Beauport,QC,CAN,CAN,"6' 6""",202,True,False,False,True,L,I
+64,8470880,G,Brian Elliott,/api/v1/people/8470880,Brian,Elliott,37,1985-04-09,35,Newmarket,ON,CAN,CAN,"6' 2""",209,True,False,False,False,L,Y
+65,8471702,D,Matt Niskanen,/api/v1/people/8471702,Matt,Niskanen,15,1986-12-06,34,Virginia,MN,USA,USA,"6' 1""",203,True,False,False,False,R,Y
+66,8473512,C,Claude Giroux,/api/v1/people/8473512,Claude,Giroux,28,1988-01-12,32,Hearst,ON,CAN,CAN,"5' 11""",185,True,False,True,False,R,Y
+67,8474027,D,Justin Braun,/api/v1/people/8474027,Justin,Braun,61,1987-02-10,33,Minneapolis,MN,USA,USA,"6' 2""",205,True,False,False,False,R,Y
+68,8474037,LW,James van Riemsdyk,/api/v1/people/8474037,James,van Riemsdyk,25,1989-05-04,31,Middletown,NJ,USA,USA,"6' 3""",217,True,False,False,False,L,Y
+69,8474161,RW,Jakub Voracek,/api/v1/people/8474161,Jakub,Voracek,93,1989-08-15,31,Kladno,,CZE,CZE,"6' 2""",214,True,False,False,False,L,Y
+70,8475763,C,Kevin Hayes,/api/v1/people/8475763,Kevin,Hayes,13,1992-05-08,28,Dorchester,MA,USA,USA,"6' 5""",216,True,False,False,False,L,Y
+71,8476404,C,Andy Andreoff,/api/v1/people/8476404,Andy,Andreoff,10,1991-05-17,29,Pickering,ON,CAN,CAN,"6' 1""",203,True,False,False,False,L,Y
+72,8476461,C,Sean Couturier,/api/v1/people/8476461,Sean,Couturier,14,1992-12-07,28,Phoenix,AZ,USA,CAN,"6' 3""",211,True,False,False,False,L,Y
+73,8476872,C,Scott Laughton,/api/v1/people/8476872,Scott,Laughton,21,1994-05-30,26,Oakville,ON,CAN,CAN,"6' 1""",190,True,False,False,False,L,Y
+74,8476884,D,Derrick Pouliot,/api/v1/people/8476884,Derrick,Pouliot,51,1994-01-16,26,Estevan,SK,CAN,CAN,"6' 0""",196,True,False,False,False,L,Y
+75,8476906,D,Shayne Gostisbehere,/api/v1/people/8476906,Shayne,Gostisbehere,53,1993-04-20,27,Pembroke Pines,FL,USA,USA,"5' 11""",180,True,False,False,False,L,Y
+76,8476979,D,Erik Gustafsson,/api/v1/people/8476979,Erik,Gustafsson,56,1992-03-14,28,Nynashamn,,SWE,SWE,"6' 0""",197,True,False,False,False,L,Y
+77,8477462,D,Robert Hagg,/api/v1/people/8477462,Robert,Hagg,8,1995-02-08,25,Uppsala,,SWE,SWE,"6' 2""",204,True,False,False,False,L,Y
+78,8477948,D,Travis Sanheim,/api/v1/people/8477948,Travis,Sanheim,6,1996-03-29,24,Elkhorn,MB,CAN,CAN,"6' 3""",181,True,False,False,False,L,Y
+79,8477979,RW,Nicolas Aube-Kubel,/api/v1/people/8477979,Nicolas,Aube-Kubel,62,1996-05-10,24,Slave Lake,AB,CAN,CAN,"5' 11""",187,True,False,False,True,R,Y
+80,8478017,D,Mark Friedman,/api/v1/people/8478017,Mark,Friedman,59,1995-12-25,24,Toronto,ON,CAN,CAN,"5' 11""",185,True,False,False,True,R,Y
+81,8478067,LW,Oskar Lindblom,/api/v1/people/8478067,Oskar,Lindblom,23,1996-08-15,24,Gävle,,SWE,SWE,"6' 1""",191,True,False,False,False,L,Y
+82,8478439,RW,Travis Konecny,/api/v1/people/8478439,Travis,Konecny,11,1997-03-11,23,London,ON,CAN,CAN,"5' 10""",175,True,False,False,False,R,Y
+83,8478500,D,Ivan Provorov,/api/v1/people/8478500,Ivan,Provorov,9,1997-01-13,23,Yaroslavl,,RUS,RUS,"6' 1""",201,True,False,False,False,L,Y
+84,8479312,G,Alex Lyon,/api/v1/people/8479312,Alex,Lyon,34,1992-12-09,28,Baudette,MN,USA,USA,"6' 1""",201,True,False,False,False,L,Y
+85,8479382,C,Connor Bunnaman,/api/v1/people/8479382,Connor,Bunnaman,82,1998-04-16,22,Guelph,ON,CAN,CAN,"6' 1""",207,True,False,False,True,L,Y
+86,8479394,G,Carter Hart,/api/v1/people/8479394,Carter,Hart,79,1998-08-13,22,Sherwood Park,AB,CAN,CAN,"6' 2""",181,True,False,False,False,L,Y
+87,8480028,C,Morgan Frost,/api/v1/people/8480028,Morgan,Frost,48,1999-05-14,21,Aurora,ON,CAN,CAN,"5' 11""",170,True,False,False,True,L,Y
+88,8480797,LW,Joel Farabee,/api/v1/people/8480797,Joel,Farabee,49,2000-02-25,20,Syracuse,NY,USA,USA,"6' 0""",164,True,False,False,True,L,Y
+89,8481178,D,Egor Zamula,/api/v1/people/8481178,Egor,Zamula,54,2000-03-30,20,Chelyabinsk,,RUS,RUS,"6' 3""",177,True,False,False,True,L,Y
+90,8478043,C,Sam Lafferty,/api/v1/people/8478043,Sam,Lafferty,18,1995-03-06,25,Hollidaysburg,PA,USA,USA,"6' 1""",195,True,False,False,True,R,Y
+91,8478074,C,Anthony Angello,/api/v1/people/8478074,Anthony,Angello,57,1996-03-06,24,Albany,NY,USA,USA,"6' 5""",210,True,False,False,True,R,Y
+92,8471215,C,Evgeni Malkin,/api/v1/people/8471215,Evgeni,Malkin,71,1986-07-31,34,Magnitogorsk,,RUS,RUS,"6' 3""",195,True,True,False,False,L,Y
+93,8471675,C,Sidney Crosby,/api/v1/people/8471675,Sidney,Crosby,87,1987-08-07,33,Cole Harbour,NS,CAN,CAN,"5' 11""",200,True,False,True,False,L,Y
+94,8471724,D,Kris Letang,/api/v1/people/8471724,Kris,Letang,58,1987-04-24,33,Montreal,QC,CAN,CAN,"6' 0""",201,True,True,False,False,R,Y
+95,8474098,C,Colton Sceviour,/api/v1/people/8474098,Colton,Sceviour,7,1989-04-20,31,Red Deer,AB,CAN,CAN,"6' 0""",190,True,False,False,False,R,Y
+96,8475208,D,Brian Dumoulin,/api/v1/people/8475208,Brian,Dumoulin,8,1991-09-06,29,Biddeford,ME,USA,USA,"6' 4""",207,True,False,False,False,L,Y
+97,8475722,LW,Jason Zucker,/api/v1/people/8475722,Jason,Zucker,16,1992-01-16,28,Newport Beach,CA,USA,USA,"5' 11""",192,True,False,False,False,L,Y
+98,8475810,RW,Bryan Rust,/api/v1/people/8475810,Bryan,Rust,17,1992-05-11,28,Pontiac,MI,USA,USA,"5' 11""",192,True,False,False,False,R,Y
+99,8476873,C,Mark Jankowski,/api/v1/people/8476873,Mark,Jankowski,14,1994-09-13,26,Hamilton,ON,CAN,CAN,"6' 4""",212,True,False,False,False,L,Y
+100,8476875,D,Mike Matheson,/api/v1/people/8476875,Mike,Matheson,5,1994-02-27,26,Pointe-Claire,QC,CAN,CAN,"6' 2""",188,True,False,False,False,L,Y
+101,8476879,D,Cody Ceci,/api/v1/people/8476879,Cody,Ceci,4,1993-12-21,26,Ottawa,ON,CAN,CAN,"6' 2""",210,True,False,False,False,R,Y
+102,8476927,C,Teddy Blueger,/api/v1/people/8476927,Teddy,Blueger,53,1994-08-15,26,Riga,,LVA,LVA,"6' 0""",185,True,False,False,False,L,Y
+103,8477244,D,Chad Ruhwedel,/api/v1/people/8477244,Chad,Ruhwedel,2,1990-05-07,30,San Diego,CA,USA,USA,"5' 11""",191,True,False,False,False,R,Y
+104,8477404,LW,Jake Guentzel,/api/v1/people/8477404,Jake,Guentzel,59,1994-10-06,26,Omaha,NE,USA,USA,"5' 11""",180,True,False,False,False,L,Y
+105,8477465,G,Tristan Jarry,/api/v1/people/8477465,Tristan,Jarry,35,1995-04-29,25,Surrey,BC,CAN,CAN,"6' 2""",194,True,False,False,False,L,Y
+106,8477953,RW,Kasperi Kapanen,/api/v1/people/8477953,Kasperi,Kapanen,42,1996-07-23,24,Kuopio,,FIN,FIN,"6' 1""",194,True,False,False,False,R,Y
+107,8477955,C,Jared McCann,/api/v1/people/8477955,Jared,McCann,19,1996-05-31,24,Stratford,ON,CAN,CAN,"6' 1""",185,True,False,False,False,L,Y
+108,8477969,D,Marcus Pettersson,/api/v1/people/8477969,Marcus,Pettersson,28,1996-05-08,24,Skellefteå,,SWE,SWE,"6' 3""",177,True,False,False,False,L,Y
+109,8478507,D,John Marino,/api/v1/people/8478507,John,Marino,6,1997-05-21,23,North Easton,MA,USA,USA,"6' 1""",181,True,False,False,True,R,Y
+110,8478542,C,Evan Rodrigues,/api/v1/people/8478542,Evan,Rodrigues,9,1993-07-28,27,Toronto,ON,CAN,CAN,"5' 11""",184,True,False,False,False,R,Y
+111,8479293,LW,Brandon Tanev,/api/v1/people/8479293,Brandon,Tanev,13,1991-12-31,28,Toronto,ON,CAN,CAN,"6' 0""",180,True,False,False,False,L,Y
+112,8479944,C,Zach Aston-Reese,/api/v1/people/8479944,Zach,Aston-Reese,12,1994-08-10,26,Staten Island,NY,USA,USA,"6' 0""",204,True,False,False,False,L,Y
+113,8480945,D,Juuso Riikola,/api/v1/people/8480945,Juuso,Riikola,50,1993-11-09,27,Joensuu,,FIN,FIN,"6' 0""",189,True,False,False,False,L,Y
+114,8476191,D,Kevan Miller,/api/v1/people/8476191,Kevan,Miller,86,1987-11-15,33,Los Angeles,CA,USA,USA,"6' 2""",210,True,False,False,False,R,Y
+115,8470638,C,Patrice Bergeron,/api/v1/people/8470638,Patrice,Bergeron,37,1985-07-24,35,Ancienne-Lorette,QC,CAN,CAN,"6' 1""",195,True,True,False,False,R,Y
+116,8470860,G,Jaroslav Halak,/api/v1/people/8470860,Jaroslav,Halak,41,1985-05-13,35,Bratislava,,SVK,SVK,"5' 11""",185,True,False,False,False,L,Y
+117,8471276,C,David Krejci,/api/v1/people/8471276,David,Krejci,46,1986-04-28,34,Sternberk,,CZE,CZE,"6' 0""",188,True,True,False,False,R,Y
+118,8471695,G,Tuukka Rask,/api/v1/people/8471695,Tuukka,Rask,40,1987-03-10,33,Savonlinna,,FIN,FIN,"6' 3""",176,True,False,False,False,L,Y
+119,8473419,LW,Brad Marchand,/api/v1/people/8473419,Brad,Marchand,63,1988-05-11,32,Halifax,NS,CAN,CAN,"5' 9""",181,True,False,False,False,L,Y
+120,8475186,D,John Moore,/api/v1/people/8475186,John,Moore,27,1990-11-19,30,Winnetka,IL,USA,USA,"6' 2""",210,True,False,False,False,L,Y
+121,8475225,RW,Craig Smith,/api/v1/people/8475225,Craig,Smith,22,1989-09-05,31,Madison,WI,USA,USA,"6' 1""",208,True,False,False,False,R,Y
+122,8475735,C,Greg McKegg,/api/v1/people/8475735,Greg,McKegg,18,1992-06-17,28,St. Thomas,ON,CAN,CAN,"6' 0""",192,True,False,False,False,L,Y
+123,8475745,C,Charlie Coyle,/api/v1/people/8475745,Charlie,Coyle,13,1992-03-02,28,E. Weymouth,MA,USA,USA,"6' 3""",220,True,False,False,False,R,Y
+124,8475780,RW,Chris Wagner,/api/v1/people/8475780,Chris,Wagner,14,1991-05-27,29,Walpole,MA,USA,USA,"6' 0""",198,True,False,False,False,R,Y
+125,8476374,C,Sean Kuraly,/api/v1/people/8476374,Sean,Kuraly,52,1993-01-20,27,Dublin,OH,USA,USA,"6' 2""",213,True,False,False,False,L,Y
+126,8477365,D,Connor Clifton,/api/v1/people/8477365,Connor,Clifton,75,1995-04-28,25,Long Branch,NJ,USA,USA,"5' 11""",175,True,False,False,True,R,Y
+127,8477941,LW,Nick Ritchie,/api/v1/people/8477941,Nick,Ritchie,21,1995-12-05,25,Orangeville,ON,CAN,CAN,"6' 2""",230,True,False,False,False,L,Y
+128,8477956,RW,David Pastrnak,/api/v1/people/8477956,David,Pastrnak,88,1996-05-25,24,Havirov,,CZE,CZE,"6' 0""",194,True,False,False,False,R,Y
+129,8478075,LW,Anders Bjork,/api/v1/people/8478075,Anders,Bjork,10,1996-08-05,24,Mequon,WI,USA,USA,"6' 0""",190,True,False,False,False,L,Y
+130,8478131,RW,Ondrej Kase,/api/v1/people/8478131,Ondrej,Kase,28,1995-11-08,25,Kadan,,CZE,CZE,"6' 0""",190,True,False,False,False,R,Y
+131,8478443,D,Brandon Carlo,/api/v1/people/8478443,Brandon,Carlo,25,1996-11-26,24,Colorado Springs,CO,USA,USA,"6' 5""",212,True,False,False,False,R,Y
+132,8478468,D,Jeremy Lauzon,/api/v1/people/8478468,Jeremy,Lauzon,55,1997-04-28,23,Val D'or,QC,CAN,CAN,"6' 1""",204,True,False,False,True,L,Y
+133,8479325,D,Charlie McAvoy,/api/v1/people/8479325,Charlie,McAvoy,73,1997-12-21,22,Long Beach,NY,USA,USA,"6' 0""",208,True,False,False,False,R,Y
+134,8479365,C,Trent Frederic,/api/v1/people/8479365,Trent,Frederic,11,1998-02-11,22,St. Louis,MO,USA,USA,"6' 2""",203,True,False,False,True,L,Y
+135,8480021,C,Jack Studnicka,/api/v1/people/8480021,Jack,Studnicka,23,1999-02-18,21,Windsor,ON,CAN,CAN,"6' 1""",171,True,False,False,True,R,Y
+136,8480944,C,Par Lindholm,/api/v1/people/8480944,Par,Lindholm,26,1991-10-05,29,Kusmark,,SWE,SWE,"6' 0""",183,True,False,False,False,L,Y
+137,8479420,RW,Tage Thompson,/api/v1/people/8479420,Tage,Thompson,72,1997-10-30,23,Phoenix,AZ,USA,USA,"6' 6""",215,True,False,False,False,R,I
+138,8476999,G,Linus Ullmark,/api/v1/people/8476999,Linus,Ullmark,35,1993-07-31,27,Lugnvik,,SWE,SWE,"6' 4""",215,True,False,False,False,L,Y
+139,8477933,C,Sam Reinhart,/api/v1/people/8477933,Sam,Reinhart,23,1995-11-06,25,West Vancouver,BC,CAN,CAN,"6' 1""",194,True,False,False,False,R,Y
+140,8477986,D,Brandon Montour,/api/v1/people/8477986,Brandon,Montour,62,1994-04-11,26,Brantford,ON,CAN,CAN,"6' 0""",189,True,False,False,False,R,Y
+141,8478109,LW,Victor Olofsson,/api/v1/people/8478109,Victor,Olofsson,68,1995-07-18,25,Ornskoldsvik,,SWE,SWE,"5' 11""",183,True,False,False,True,L,Y
+142,8470595,C,Eric Staal,/api/v1/people/8470595,Eric,Staal,12,1984-10-29,36,Thunder Bay,ON,CAN,CAN,"6' 4""",206,True,False,False,False,L,Y
+143,8473449,RW,Kyle Okposo,/api/v1/people/8473449,Kyle,Okposo,21,1988-04-16,32,St. Paul,MN,USA,USA,"6' 0""",216,True,False,False,False,R,Y
+144,8475236,C,Cody Eakin,/api/v1/people/8475236,Cody,Eakin,20,1991-05-24,29,Winnipeg,MB,CAN,CAN,"6' 0""",183,True,False,False,False,L,Y
+145,8475622,G,Carter Hutton,/api/v1/people/8475622,Carter,Hutton,40,1985-12-19,34,Thunder Bay,ON,CAN,CAN,"6' 0""",202,True,False,False,False,L,Y
+146,8475625,D,Matt Irwin,/api/v1/people/8475625,Matt,Irwin,44,1987-11-29,33,Victoria,BC,CAN,CAN,"6' 1""",207,True,False,False,False,L,Y
+147,8475784,LW,Jeff Skinner,/api/v1/people/8475784,Jeff,Skinner,53,1992-05-16,28,Toronto,ON,CAN,CAN,"5' 11""",195,True,False,False,False,L,Y
+148,8475791,LW,Taylor Hall,/api/v1/people/8475791,Taylor,Hall,4,1991-11-14,29,Calgary,AB,CAN,CAN,"6' 1""",205,True,False,False,False,L,Y
+149,8475869,D,Brandon Davidson,/api/v1/people/8475869,Brandon,Davidson,88,1991-08-21,29,Taber,AB,CAN,CAN,"6' 2""",208,True,False,False,False,L,Y
+150,8476356,C,Tobias Rieder,/api/v1/people/8476356,Tobias,Rieder,13,1993-01-10,27,Landshut,,DEU,DEU,"5' 11""",186,True,False,False,False,L,Y
+151,8476396,C,Steven Fogarty,/api/v1/people/8476396,Steven,Fogarty,17,1993-04-19,27,Chambersburg,PA,USA,USA,"6' 3""",208,True,False,False,False,R,Y
+152,8476525,D,Colin Miller,/api/v1/people/8476525,Colin,Miller,33,1992-10-29,28,Sault Ste. Marie,ON,CAN,CAN,"6' 1""",193,True,False,False,False,R,Y
+153,8476878,C,Zemgus Girgensons,/api/v1/people/8476878,Zemgus,Girgensons,28,1994-01-05,26,Riga,,LVA,LVA,"6' 2""",211,True,False,False,False,L,Y
+154,8476931,D,Jake McCabe,/api/v1/people/8476931,Jake,McCabe,19,1993-10-12,27,Eau Claire,WI,USA,USA,"6' 1""",204,True,True,False,False,L,Y
+155,8477499,D,Rasmus Ristolainen,/api/v1/people/8477499,Rasmus,Ristolainen,55,1994-10-27,26,Turku,,FIN,FIN,"6' 4""",220,True,False,False,False,R,Y
+156,8477508,C,Curtis Lazar,/api/v1/people/8477508,Curtis,Lazar,27,1995-02-02,25,Salmon Arm,BC,CAN,CAN,"6' 0""",211,True,False,False,False,R,Y
+157,8478403,C,Jack Eichel,/api/v1/people/8478403,Jack,Eichel,9,1996-10-28,24,North Chelmsford,MA,USA,USA,"6' 2""",203,True,False,True,False,R,Y
+158,8480035,D,Henri Jokiharju,/api/v1/people/8480035,Henri,Jokiharju,10,1999-06-17,21,Oulu,,FIN,FIN,"6' 0""",195,True,False,False,False,R,Y
+159,8480839,D,Rasmus Dahlin,/api/v1/people/8480839,Rasmus,Dahlin,26,2000-04-13,20,Lidkoping,,SWE,SWE,"6' 3""",193,True,False,False,False,L,Y
+160,8476981,RW,Josh Anderson,/api/v1/people/8476981,Josh,Anderson,17,1994-05-07,26,Burlington,ON,CAN,CAN,"6' 3""",222,True,False,False,False,R,I
+161,8476443,D,Xavier Ouellet,/api/v1/people/8476443,Xavier,Ouellet,61,1993-07-29,27,Bayonne,,FRA,FRA,"6' 1""",193,True,False,False,False,L,Y
+162,8477460,C,Laurent Dauphin,/api/v1/people/8477460,Laurent,Dauphin,45,1995-03-27,25,Repentigny,QC,CAN,CAN,"6' 1""",180,True,False,False,False,L,Y
+163,8479990,D,Josh Brook,/api/v1/people/8479990,Josh,Brook,46,1999-06-17,21,Roblin,MB,CAN,CAN,"6' 1""",193,True,False,False,True,R,Y
+164,8480829,C,Jesperi Kotkaniemi,/api/v1/people/8480829,Jesperi,Kotkaniemi,15,2000-07-06,20,Pori,,FIN,FIN,"6' 2""",198,True,False,False,False,L,Y
+165,8470642,D,Shea Weber,/api/v1/people/8470642,Shea,Weber,6,1985-08-14,35,Sicamous,BC,CAN,CAN,"6' 4""",230,True,False,True,False,R,Y
+166,8471679,G,Carey Price,/api/v1/people/8471679,Carey,Price,31,1987-08-16,33,Anahim Lake,BC,CAN,CAN,"6' 3""",217,True,False,False,False,L,Y
+167,8473507,D,Jeff Petry,/api/v1/people/8473507,Jeff,Petry,26,1987-12-09,33,Ann Arbor,MI,USA,USA,"6' 3""",201,True,False,False,False,R,Y
+168,8474038,LW,Paul Byron,/api/v1/people/8474038,Paul,Byron,41,1989-04-27,31,Ottawa,ON,CAN,CAN,"5' 9""",158,True,True,False,False,L,Y
+169,8474596,G,Jake Allen,/api/v1/people/8474596,Jake,Allen,34,1990-08-07,30,Fredericton,NB,CAN,CAN,"6' 2""",203,True,False,False,False,L,Y
+170,8475193,LW,Tomas Tatar,/api/v1/people/8475193,Tomas,Tatar,90,1990-12-01,30,Ilava,,SVK,SVK,"5' 10""",183,True,False,False,False,L,Y
+171,8475279,D,Ben Chiarot,/api/v1/people/8475279,Ben,Chiarot,8,1991-05-09,29,Hamilton,ON,CAN,CAN,"6' 3""",225,True,False,False,False,L,Y
+172,8475726,RW,Tyler Toffoli,/api/v1/people/8475726,Tyler,Toffoli,73,1992-04-24,28,Scarborough,ON,CAN,CAN,"6' 0""",197,True,False,False,False,R,Y
+173,8475738,C,Jordan Weal,/api/v1/people/8475738,Jordan,Weal,43,1992-04-15,28,North Vancouver,BC,CAN,CAN,"5' 10""",180,True,False,False,False,R,Y
+174,8475848,RW,Brendan Gallagher,/api/v1/people/8475848,Brendan,Gallagher,11,1992-05-06,28,Edmonton,AB,CAN,CAN,"5' 9""",184,True,True,False,False,R,Y
+175,8475968,RW,Alex Belzile,/api/v1/people/8475968,Alex,Belzile,60,1991-08-31,29,Riviere-du-Loup,QC,CAN,CAN,"6' 0""",192,True,False,False,False,R,Y
+176,8476441,D,Joel Edmundson,/api/v1/people/8476441,Joel,Edmundson,44,1993-06-28,27,Brandon,MB,CAN,CAN,"6' 4""",215,True,False,False,False,L,Y
+177,8476469,RW,Joel Armia,/api/v1/people/8476469,Joel,Armia,40,1993-05-31,27,Pori,,FIN,FIN,"6' 4""",213,True,False,False,False,R,Y
+178,8476479,C,Phillip Danault,/api/v1/people/8476479,Phillip,Danault,24,1993-02-24,27,Victoriaville,QC,CAN,CAN,"6' 1""",201,True,False,False,False,L,Y
+179,8476948,LW,Charles Hudon,/api/v1/people/8476948,Charles,Hudon,54,1994-06-23,26,Alma,QC,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y
+180,8476967,D,Brett Kulak,/api/v1/people/8476967,Brett,Kulak,77,1994-01-06,26,Edmonton,AB,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y
+181,8477467,D,Gustav Olofsson,/api/v1/people/8477467,Gustav,Olofsson,51,1994-12-01,26,Boras,,SWE,SWE,"6' 2""",200,True,False,False,False,L,Y
+182,8477476,LW,Artturi Lehkonen,/api/v1/people/8477476,Artturi,Lehkonen,62,1995-07-04,25,Piikkio,,FIN,FIN,"6' 0""",176,True,False,False,False,L,Y
+183,8477494,LW,Jonathan Drouin,/api/v1/people/8477494,Jonathan,Drouin,92,1995-03-28,25,Ste-Agathe,QC,CAN,CAN,"6' 0""",197,True,False,False,False,L,Y
+184,8478133,C,Jake Evans,/api/v1/people/8478133,Jake,Evans,71,1996-06-02,24,Toronto,ON,CAN,CAN,"6' 1""",181,True,False,False,True,R,Y
+185,8478454,D,Noah Juulsen,/api/v1/people/8478454,Noah,Juulsen,58,1997-04-02,23,Surrey,BC,CAN,CAN,"6' 2""",198,True,False,False,False,R,Y
+186,8478933,G,Michael McNiven,/api/v1/people/8478933,Michael,McNiven,70,1997-07-09,23,Winnipeg,MB,CAN,CAN,"6' 1""",205,True,False,False,True,L,Y
+187,8479292,G,Charlie Lindgren,/api/v1/people/8479292,Charlie,Lindgren,39,1993-12-18,26,Lakeville,MN,USA,USA,"6' 1""",180,True,False,False,True,R,Y
+188,8479376,D,Victor Mete,/api/v1/people/8479376,Victor,Mete,53,1998-06-07,22,Woodbridge,ON,CAN,CAN,"5' 9""",187,True,False,False,False,L,Y
+189,8479985,D,Cale Fleury,/api/v1/people/8479985,Cale,Fleury,20,1998-11-19,22,Carlyle,SK,CAN,CAN,"6' 1""",205,True,False,False,True,R,Y
+190,8480018,C,Nick Suzuki,/api/v1/people/8480018,Nick,Suzuki,14,1999-08-10,21,London,ON,CAN,CAN,"5' 11""",201,True,False,False,True,R,Y
+191,8480051,G,Cayden Primeau,/api/v1/people/8480051,Cayden,Primeau,30,1999-08-11,21,Farmington Hills,MI,USA,USA,"6' 3""",198,True,False,False,True,L,Y
+192,8480068,C,Ryan Poehling,/api/v1/people/8480068,Ryan,Poehling,25,1999-01-03,21,Lakeville,MN,USA,USA,"6' 2""",204,True,False,False,True,L,Y
+193,8474230,LW,Micheal Haley,/api/v1/people/8474230,Micheal,Haley,38,1986-03-30,34,Guelph,ON,CAN,CAN,"5' 11""",202,True,False,False,False,L,I
+194,8475195,G,Anders Nilsson,/api/v1/people/8475195,Anders,Nilsson,31,1990-03-19,30,Lulea,,SWE,SWE,"6' 6""",232,True,False,False,False,L,I
+195,8476899,G,Matt Murray,/api/v1/people/8476899,Matt,Murray,30,1994-05-25,26,Thunder Bay,ON,CAN,CAN,"6' 4""",178,True,False,False,False,L,Y
+196,8476919,C,Chris Tierney,/api/v1/people/8476919,Chris,Tierney,71,1994-07-01,26,Keswick,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y
+197,8477015,RW,Connor Brown,/api/v1/people/8477015,Connor,Brown,28,1994-01-14,26,Toronto,ON,CAN,CAN,"6' 0""",186,True,False,False,False,R,Y
+198,8477426,LW,Nick Paul,/api/v1/people/8477426,Nick,Paul,13,1995-03-20,25,Mississauga,ON,CAN,CAN,"6' 3""",219,True,False,False,False,L,Y
+199,8473573,C,Artem Anisimov,/api/v1/people/8473573,Artem,Anisimov,51,1988-05-24,32,Yaroslavl,,RUS,RUS,"6' 4""",199,True,False,False,False,L,Y
+200,8474149,RW,Evgenii Dadonov,/api/v1/people/8474149,Evgenii,Dadonov,63,1989-03-12,31,Chelyabinsk,,RUS,RUS,"5' 11""",185,True,False,False,False,L,Y
+201,8475766,LW,Austin Watson,/api/v1/people/8475766,Austin,Watson,16,1992-01-13,28,Ann Arbor,MI,USA,USA,"6' 4""",204,True,False,False,False,R,Y
+202,8475790,D,Erik Gudbranson,/api/v1/people/8475790,Erik,Gudbranson,44,1992-01-07,28,Ottawa,ON,CAN,CAN,"6' 5""",217,True,False,False,False,R,Y
+203,8476422,D,Mike Reilly,/api/v1/people/8476422,Mike,Reilly,5,1993-07-13,27,Chicago,IL,USA,USA,"6' 1""",200,True,False,False,False,L,Y
+204,8476851,LW,Alex Galchenyuk,/api/v1/people/8476851,Alex,Galchenyuk,17,1994-02-12,26,Milwaukee,WI,USA,USA,"6' 1""",207,True,False,False,False,L,Y
+205,8477384,D,Josh Brown,/api/v1/people/8477384,Josh,Brown,3,1994-01-21,26,London,ON,CAN,CAN,"6' 5""",217,True,False,False,False,R,Y
+206,8477405,G,Marcus Hogberg,/api/v1/people/8477405,Marcus,Hogberg,1,1994-11-25,26,Orebro,,SWE,SWE,"6' 5""",209,True,False,False,True,L,Y
+207,8478400,C,Colin White,/api/v1/people/8478400,Colin,White,36,1997-01-30,23,Boston,MA,USA,USA,"5' 11""",191,True,False,False,False,R,Y
+208,8478469,D,Thomas Chabot,/api/v1/people/8478469,Thomas,Chabot,72,1997-01-30,23,Sainte-Marie,QC,CAN,CAN,"6' 2""",190,True,False,False,False,L,Y
+209,8478846,D,Christian Wolanin,/api/v1/people/8478846,Christian,Wolanin,24,1995-03-17,25,Quebec City,QC,CAN,CAN,"6' 2""",185,True,False,False,False,L,Y
+210,8479458,D,Nikita Zaitsev,/api/v1/people/8479458,Nikita,Zaitsev,22,1991-10-29,29,Moscow,,RUS,RUS,"6' 2""",188,True,False,False,False,R,Y
+211,8480801,LW,Brady Tkachuk,/api/v1/people/8480801,Brady,Tkachuk,7,1999-09-16,21,Scottsdale,AZ,USA,USA,"6' 4""",212,True,False,False,False,L,Y
+212,8469455,C,Jason Spezza,/api/v1/people/8469455,Jason,Spezza,19,1983-06-13,37,Toronto,ON,CAN,CAN,"6' 3""",216,True,False,False,False,R,Y
+213,8474162,D,Jake Muzzin,/api/v1/people/8474162,Jake,Muzzin,8,1989-02-21,31,Woodstock,ON,CAN,CAN,"6' 3""",217,True,False,False,False,L,Y
+214,8474190,RW,Wayne Simmonds,/api/v1/people/8474190,Wayne,Simmonds,17,1988-08-26,32,Scarborough,ON,CAN,CAN,"6' 2""",185,True,False,False,False,R,Y
+215,8474567,D,Zach Bogosian,/api/v1/people/8474567,Zach,Bogosian,24,1990-07-15,30,Massena,NY,USA,USA,"6' 2""",200,True,False,False,False,R,Y
+216,8474636,G,Michael Hutchinson,/api/v1/people/8474636,Michael,Hutchinson,30,1990-03-02,30,Barrie,ON,CAN,CAN,"6' 3""",198,True,False,False,False,R,Y
+217,8474673,D,TJ Brodie,/api/v1/people/8474673,TJ,Brodie,7,1990-06-07,30,Chatham,ON,CAN,CAN,"6' 1""",185,True,False,False,False,L,Y
+218,8475166,C,John Tavares,/api/v1/people/8475166,John,Tavares,91,1990-09-20,30,Mississauga,ON,CAN,CAN,"6' 1""",215,True,False,True,False,L,Y
+219,8475716,D,Martin Marincin,/api/v1/people/8475716,Martin,Marincin,52,1992-02-18,28,Kosice,,SVK,SVK,"6' 5""",217,True,False,False,False,L,Y
+220,8475718,D,Justin Holl,/api/v1/people/8475718,Justin,Holl,3,1992-01-30,28,Tonka Bay,MN,USA,USA,"6' 4""",210,True,False,False,False,R,Y
+221,8475786,LW,Zach Hyman,/api/v1/people/8475786,Zach,Hyman,11,1992-06-09,28,Toronto,ON,CAN,CAN,"6' 1""",211,True,False,False,False,R,Y
+222,8475789,G,Jack Campbell,/api/v1/people/8475789,Jack,Campbell,36,1992-01-09,28,Port Huron,MI,USA,USA,"6' 2""",197,True,False,False,False,L,Y
+223,8475883,G,Frederik Andersen,/api/v1/people/8475883,Frederik,Andersen,31,1989-10-02,31,Herning,,DNK,DNK,"6' 4""",238,True,False,False,False,L,Y
+224,8476329,C,Travis Boyd,/api/v1/people/8476329,Travis,Boyd,72,1993-09-14,27,Hopkins,MN,USA,USA,"6' 0""",190,True,False,False,False,R,Y
+225,8476853,D,Morgan Rielly,/api/v1/people/8476853,Morgan,Rielly,44,1994-03-09,26,Vancouver,BC,CAN,CAN,"6' 1""",219,True,True,False,False,L,Y
+226,8476918,LW,Jimmy Vesey,/api/v1/people/8476918,Jimmy,Vesey,13,1993-05-26,27,Boston,MA,USA,USA,"6' 3""",202,True,False,False,False,L,Y
+227,8477021,C,Alexander Kerfoot,/api/v1/people/8477021,Alexander,Kerfoot,15,1994-08-11,26,Vancouver,BC,CAN,CAN,"5' 10""",185,True,False,False,False,L,Y
+228,8477180,G,Aaron Dell,/api/v1/people/8477180,Aaron,Dell,30,1989-05-04,31,Airdrie,AB,CAN,CAN,"6' 0""",205,True,False,False,False,L,Y
+229,8477464,C,Nic Petan,/api/v1/people/8477464,Nic,Petan,61,1995-03-22,25,Delta,BC,CAN,CAN,"5' 9""",175,True,False,False,False,L,Y
+230,8477939,RW,William Nylander,/api/v1/people/8477939,William,Nylander,88,1996-05-01,24,Calgary,AB,CAN,SWE,"6' 0""",196,True,False,False,False,R,Y
+231,8478115,LW,Pierre Engvall,/api/v1/people/8478115,Pierre,Engvall,47,1996-05-31,24,Ljungby,,SWE,SWE,"6' 5""",214,True,False,False,True,L,Y
+232,8478483,RW,Mitchell Marner,/api/v1/people/8478483,Mitchell,Marner,16,1997-05-05,23,Markham,ON,CAN,CAN,"6' 0""",175,True,True,False,False,R,Y
+233,8479315,RW,Joey Anderson,/api/v1/people/8479315,Joey,Anderson,14,1998-06-19,22,Roseville,MN,USA,USA,"5' 11""",190,True,False,False,False,R,Y
+234,8479318,C,Auston Matthews,/api/v1/people/8479318,Auston,Matthews,34,1997-09-17,23,San Ramon,CA,USA,USA,"6' 3""",220,True,True,False,False,L,Y
+235,8479361,G,Joseph Woll,/api/v1/people/8479361,Joseph,Woll,60,1998-07-12,22,Dardenne Prairie,MO,USA,USA,"6' 4""",203,True,False,False,True,L,Y
+236,8480157,D,Calle Rosen,/api/v1/people/8480157,Calle,Rosen,48,1994-02-02,26,Vaxjo,,SWE,SWE,"6' 1""",186,True,False,False,True,L,Y
+237,8480873,D,Rasmus Sandin,/api/v1/people/8480873,Rasmus,Sandin,38,2000-03-07,20,Uppsala,,SWE,SWE,"5' 11""",183,True,False,False,True,L,Y
+238,8481582,LW,Nicholas Robertson,/api/v1/people/8481582,Nicholas,Robertson,89,2001-09-11,19,Pasadena,CA,USA,USA,"5' 9""",164,True,False,False,True,L,Y
+239,8477488,D,Brett Pesce,/api/v1/people/8477488,Brett,Pesce,22,1994-11-15,26,Tarrytown,NY,USA,USA,"6' 3""",206,True,False,False,False,R,I
+240,8477998,LW,Warren Foegele,/api/v1/people/8477998,Warren,Foegele,13,1996-04-01,24,Markham,ON,CAN,CAN,"6' 2""",198,True,False,False,False,L,Y
+241,8473503,G,James Reimer,/api/v1/people/8473503,James,Reimer,47,1988-03-15,32,Morweena,MB,CAN,CAN,"6' 2""",220,True,False,False,False,L,Y
+242,8473533,C,Jordan Staal,/api/v1/people/8473533,Jordan,Staal,11,1988-09-10,32,Thunder Bay,ON,CAN,CAN,"6' 4""",220,True,False,True,False,L,Y
+243,8474581,D,Jake Gardiner,/api/v1/people/8474581,Jake,Gardiner,51,1990-07-04,30,Minnetonka,MN,USA,USA,"6' 2""",203,True,False,False,False,L,Y
+244,8475799,RW,Nino Niederreiter,/api/v1/people/8475799,Nino,Niederreiter,21,1992-09-08,28,Chur,,CHE,CHE,"6' 2""",218,True,False,False,False,L,Y
+245,8475852,G,Petr Mrazek,/api/v1/people/8475852,Petr,Mrazek,34,1992-02-14,28,Ostrava,,CZE,CZE,"6' 1""",190,True,False,False,False,L,Y
+246,8475855,RW,Jesper Fast,/api/v1/people/8475855,Jesper,Fast,71,1991-12-02,29,Nassjo,,SWE,SWE,"6' 1""",191,True,False,False,False,R,Y
+247,8476288,C,Ryan Dzingel,/api/v1/people/8476288,Ryan,Dzingel,18,1992-03-09,28,Wheaton,IL,USA,USA,"6' 0""",190,True,False,False,False,L,Y
+248,8476323,LW,Max McCormick,/api/v1/people/8476323,Max,McCormick,28,1992-05-01,28,De Pere,WI,USA,USA,"5' 11""",188,True,False,False,False,L,Y
+249,8476389,C,Vincent Trocheck,/api/v1/people/8476389,Vincent,Trocheck,16,1993-07-11,27,Pittsburgh,PA,USA,USA,"5' 10""",183,True,False,False,False,R,Y
+250,8476462,D,Dougie Hamilton,/api/v1/people/8476462,Dougie,Hamilton,19,1993-06-17,27,Toronto,ON,CAN,CAN,"6' 6""",229,True,False,False,False,R,Y
+251,8476869,D,Brady Skjei,/api/v1/people/8476869,Brady,Skjei,76,1994-03-26,26,Lakeville,MN,USA,USA,"6' 3""",210,True,False,False,False,L,Y
+252,8476882,LW,Teuvo Teravainen,/api/v1/people/8476882,Teuvo,Teravainen,86,1994-09-11,26,Helsinki,,FIN,FIN,"5' 11""",191,True,False,False,False,L,Y
+253,8476921,LW,Jordan Martinook,/api/v1/people/8476921,Jordan,Martinook,48,1992-07-25,28,Brandon,MB,CAN,CAN,"6' 0""",196,True,True,False,False,L,Y
+254,8476934,LW,Brock McGinn,/api/v1/people/8476934,Brock,McGinn,23,1994-02-02,26,Fergus,ON,CAN,CAN,"6' 0""",187,True,False,False,False,L,Y
+255,8476958,D,Jaccob Slavin,/api/v1/people/8476958,Jaccob,Slavin,74,1994-05-01,26,Denver,CO,USA,USA,"6' 3""",207,True,True,False,False,L,Y
+256,8477046,D,Joakim Ryan,/api/v1/people/8477046,Joakim,Ryan,33,1993-06-17,27,Rumson,NJ,USA,USA,"5' 11""",185,True,False,False,False,L,Y
+257,8477968,G,Alex Nedeljkovic,/api/v1/people/8477968,Alex,Nedeljkovic,39,1996-01-07,24,Parma,OH,USA,USA,"6' 0""",189,True,False,False,True,L,Y
+258,8477981,D,Roland McKeown,/api/v1/people/8477981,Roland,McKeown,55,1996-01-20,24,Listowel,ON,CAN,CAN,"6' 1""",195,True,False,False,True,R,Y
+259,8478427,C,Sebastian Aho,/api/v1/people/8478427,Sebastian,Aho,20,1997-07-26,23,Rauma,,FIN,FIN,"6' 0""",176,True,False,False,False,L,Y
+260,8479402,D,Jake Bean,/api/v1/people/8479402,Jake,Bean,24,1998-06-09,22,Calgary,AB,CAN,CAN,"6' 1""",186,True,False,False,True,L,Y
+261,8479987,C,Morgan Geekie,/api/v1/people/8479987,Morgan,Geekie,67,1998-07-20,22,Strathclair,MB,CAN,CAN,"6' 3""",192,True,False,False,True,R,Y
+262,8480039,C,Martin Necas,/api/v1/people/8480039,Martin,Necas,88,1999-01-15,21,Nove Mesto na Morave,,CZE,CZE,"6' 2""",189,True,False,False,True,R,Y
+263,8480830,RW,Andrei Svechnikov,/api/v1/people/8480830,Andrei,Svechnikov,37,2000-03-26,20,Barnaul,,RUS,RUS,"6' 2""",195,True,False,False,False,L,Y
+264,8477505,C,Alex Wennberg,/api/v1/people/8477505,Alex,Wennberg,21,1994-09-22,26,Stockholm,,SWE,SWE,"6' 2""",197,True,False,False,False,L,Y
+265,8479066,LW,Ryan Lomberg,/api/v1/people/8479066,Ryan,Lomberg,94,1994-12-09,26,Richmond Hill,ON,CAN,CAN,"5' 9""",187,True,False,False,True,L,Y
+266,8480185,C,Eetu Luostarinen,/api/v1/people/8480185,Eetu,Luostarinen,27,1998-09-02,22,Siilinjarvi,,FIN,FIN,"6' 3""",184,True,False,False,True,L,Y
+267,8471735,D,Keith Yandle,/api/v1/people/8471735,Keith,Yandle,3,1986-09-09,34,Boston,MA,USA,USA,"6' 1""",192,True,True,False,False,L,Y
+268,8471873,D,Anton Stralman,/api/v1/people/8471873,Anton,Stralman,6,1986-08-01,34,Tibro,,SWE,SWE,"5' 11""",186,True,False,False,False,R,Y
+269,8471887,RW,Patric Hornqvist,/api/v1/people/8471887,Patric,Hornqvist,70,1987-01-01,33,Sollentuna,,SWE,SWE,"5' 11""",189,True,False,False,False,R,Y
+270,8475462,D,Radko Gudas,/api/v1/people/8475462,Radko,Gudas,7,1990-06-05,30,Prague,,CZE,CZE,"6' 0""",205,True,False,False,False,R,Y
+271,8475683,G,Sergei Bobrovsky,/api/v1/people/8475683,Sergei,Bobrovsky,72,1988-09-20,32,Novokuznetsk,,RUS,RUS,"6' 2""",187,True,False,False,False,L,Y
+272,8475792,RW,Brett Connolly,/api/v1/people/8475792,Brett,Connolly,10,1992-05-02,28,Campbell River,BC,CAN,CAN,"6' 3""",192,True,False,False,False,R,Y
+273,8476456,LW,Jonathan Huberdeau,/api/v1/people/8476456,Jonathan,Huberdeau,11,1993-06-04,27,Saint-Jerome,QC,CAN,CAN,"6' 1""",202,True,True,False,False,L,Y
+274,8476904,G,Chris Driedger,/api/v1/people/8476904,Chris,Driedger,60,1994-05-18,26,Winnipeg,MB,CAN,CAN,"6' 4""",205,True,False,False,True,L,Y
+275,8476994,C,Vinnie Hinostroza,/api/v1/people/8476994,Vinnie,Hinostroza,13,1994-04-03,26,Chicago,IL,USA,USA,"5' 9""",173,True,False,False,False,R,Y
+276,8477346,D,MacKenzie Weegar,/api/v1/people/8477346,MacKenzie,Weegar,52,1994-01-07,26,Ottawa,ON,CAN,CAN,"6' 0""",200,True,False,False,False,R,Y
+277,8477409,C,Carter Verhaeghe,/api/v1/people/8477409,Carter,Verhaeghe,23,1995-08-14,25,Toronto,ON,CAN,CAN,"6' 2""",180,True,False,False,True,L,Y
+278,8477475,G,Philippe Desrosiers,/api/v1/people/8477475,Philippe,Desrosiers,30,1995-08-16,25,Saint-Hyacinthe,QC,CAN,CAN,"6' 1""",204,True,False,False,True,L,Y
+279,8477493,C,Aleksander Barkov,/api/v1/people/8477493,Aleksander,Barkov,16,1995-09-02,25,Tampere,,FIN,FIN,"6' 3""",210,True,False,True,False,L,Y
+280,8477932,D,Aaron Ekblad,/api/v1/people/8477932,Aaron,Ekblad,5,1996-02-07,24,Windsor,ON,CAN,CAN,"6' 4""",215,True,True,False,False,R,Y
+281,8478366,C,Frank Vatrano,/api/v1/people/8478366,Frank,Vatrano,77,1994-03-14,26,East Longmeadow,MA,USA,USA,"5' 11""",197,True,False,False,False,L,Y
+282,8478470,G,Sam Montembeault,/api/v1/people/8478470,Sam,Montembeault,33,1996-10-30,24,Becancour,QC,CAN,CAN,"6' 3""",199,True,False,False,True,L,Y
+283,8478569,C,Noel Acciari,/api/v1/people/8478569,Noel,Acciari,55,1991-12-01,29,Johnston,RI,USA,USA,"5' 10""",203,True,False,False,False,R,Y
+284,8478839,C,Aleksi Saarela,/api/v1/people/8478839,Aleksi,Saarela,28,1997-01-07,23,Helsinki,,FIN,FIN,"5' 10""",200,True,False,False,True,L,Y
+285,8478906,D,Markus Nutivaara,/api/v1/people/8478906,Markus,Nutivaara,65,1994-06-06,26,Oulu,,FIN,FIN,"6' 1""",187,True,False,False,False,L,Y
+286,8479388,D,Riley Stillman,/api/v1/people/8479388,Riley,Stillman,61,1998-03-09,22,Peterborough,ON,CAN,CAN,"6' 1""",196,True,False,False,True,L,Y
+287,8479597,D,Chase Priskie,/api/v1/people/8479597,Chase,Priskie,22,1996-03-19,24,Pembroke Pines,FL,USA,USA,"6' 0""",185,True,False,False,True,R,Y
+288,8480015,RW,Owen Tippett,/api/v1/people/8480015,Owen,Tippett,74,1999-02-16,21,Peterborough,ON,CAN,CAN,"6' 1""",207,True,False,False,True,R,Y
+289,8481442,D,Brady Keeper,/api/v1/people/8481442,Brady,Keeper,25,1996-06-05,24,Cross Lake,MB,CAN,CAN,"6' 2""",209,True,False,False,True,R,Y
+290,8479410,D,Mikhail Sergachev,/api/v1/people/8479410,Mikhail,Sergachev,98,1998-06-25,22,Nizhnekamsk,,RUS,RUS,"6' 3""",216,True,False,False,False,L,Y
+291,8470147,G,Curtis McElhinney,/api/v1/people/8470147,Curtis,McElhinney,35,1983-05-23,37,London,ON,CAN,CAN,"6' 1""",204,True,False,False,False,L,Y
+292,8470601,D,Braydon Coburn,/api/v1/people/8470601,Braydon,Coburn,55,1985-02-27,35,Shaunavon,SK,CAN,CAN,"6' 5""",224,True,False,False,False,L,Y
+293,8473986,LW,Alex Killorn,/api/v1/people/8473986,Alex,Killorn,17,1989-09-14,31,Halifax,NS,CAN,CAN,"6' 1""",198,True,False,False,False,L,Y
+294,8474034,LW,Pat Maroon,/api/v1/people/8474034,Pat,Maroon,14,1988-04-23,32,St. Louis,MO,USA,USA,"6' 3""",236,True,False,False,False,L,Y
+295,8474151,D,Ryan McDonagh,/api/v1/people/8474151,Ryan,McDonagh,27,1989-06-13,31,St. Paul,MN,USA,USA,"6' 1""",214,True,False,False,False,L,Y
+296,8474564,C,Steven Stamkos,/api/v1/people/8474564,Steven,Stamkos,91,1990-02-07,30,Markham,ON,CAN,CAN,"6' 1""",194,True,False,True,False,R,Y
+297,8474568,D,Luke Schenn,/api/v1/people/8474568,Luke,Schenn,2,1989-11-02,31,Saskatoon,SK,CAN,CAN,"6' 2""",224,True,False,False,False,R,Y
+298,8474870,C,Tyler Johnson,/api/v1/people/8474870,Tyler,Johnson,9,1990-07-29,30,Spokane,WA,USA,USA,"5' 8""",180,True,False,False,False,R,Y
+299,8475167,D,Victor Hedman,/api/v1/people/8475167,Victor,Hedman,77,1990-12-18,29,Ornskoldsvik,,SWE,SWE,"6' 6""",229,True,False,False,False,L,Y
+300,8476292,LW,Ondrej Palat,/api/v1/people/8476292,Ondrej,Palat,18,1991-03-28,29,Frydek-Mistek,,CZE,CZE,"6' 0""",194,True,False,False,False,L,Y
+301,8476399,C,Blake Coleman,/api/v1/people/8476399,Blake,Coleman,20,1991-11-28,29,Plano,TX,USA,USA,"5' 11""",200,True,False,False,False,L,Y
+302,8476444,G,Christopher Gibson,/api/v1/people/8476444,Christopher,Gibson,33,1992-12-27,27,Karkkila,,FIN,FIN,"6' 2""",207,True,False,False,False,L,Y
+303,8476453,RW,Nikita Kucherov,/api/v1/people/8476453,Nikita,Kucherov,86,1993-06-17,27,Maykop,,RUS,RUS,"5' 11""",183,True,False,False,False,L,Y
+304,8476624,C,Barclay Goodrow,/api/v1/people/8476624,Barclay,Goodrow,19,1993-02-26,27,Toronto,ON,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y
+305,8476826,C,Yanni Gourde,/api/v1/people/8476826,Yanni,Gourde,37,1991-12-15,29,Saint-Narcisse,QC,CAN,CAN,"5' 9""",175,True,False,False,False,L,Y
+306,8476883,G,Andrei Vasilevskiy,/api/v1/people/8476883,Andrei,Vasilevskiy,88,1994-07-25,26,Tyumen,,RUS,RUS,"6' 3""",216,True,False,False,False,L,Y
+307,8476975,C,Cedric Paquette,/api/v1/people/8476975,Cedric,Paquette,13,1993-08-13,27,Gaspe,QC,CAN,CAN,"6' 0""",204,True,False,False,False,L,Y
+308,8478010,C,Brayden Point,/api/v1/people/8478010,Brayden,Point,21,1996-03-13,24,Calgary,AB,CAN,CAN,"5' 10""",166,True,False,False,False,R,Y
+309,8478416,D,Erik Cernak,/api/v1/people/8478416,Erik,Cernak,81,1997-05-28,23,Kosice,,SVK,SVK,"6' 3""",230,True,False,False,False,R,Y
+310,8478472,RW,Mathieu Joseph,/api/v1/people/8478472,Mathieu,Joseph,7,1997-02-09,23,Laval,QC,CAN,CAN,"6' 1""",190,True,False,False,False,L,Y
+311,8478477,C,Mitchell Stephens,/api/v1/people/8478477,Mitchell,Stephens,67,1997-02-05,23,Peterborough,ON,CAN,CAN,"5' 11""",193,True,False,False,True,R,Y
+312,8478519,C,Anthony Cirelli,/api/v1/people/8478519,Anthony,Cirelli,71,1997-07-15,23,Etobicoke,ON,CAN,CAN,"6' 0""",193,True,False,False,False,L,Y
+313,8480186,RW,Alexander Volkov,/api/v1/people/8480186,Alexander,Volkov,92,1997-08-02,23,Moscow,,RUS,RUS,"6' 1""",195,True,False,False,True,L,Y
+314,8468685,G,Henrik Lundqvist,/api/v1/people/8468685,Henrik,Lundqvist,35,1982-03-02,38,Are,,SWE,SWE,"6' 1""",182,True,False,False,False,L,Y
+315,8476983,D,Paul LaDue,/api/v1/people/8476983,Paul,LaDue,36,1992-09-06,28,Grand Forks,ND,USA,USA,"6' 2""",200,True,False,False,False,R,Y
+316,8478399,D,Jonas Siegenthaler,/api/v1/people/8478399,Jonas,Siegenthaler,34,1997-05-06,23,Zurich,,CHE,CHE,"6' 3""",210,True,False,False,False,L,Y
+317,8478492,G,Ilya Samsonov,/api/v1/people/8478492,Ilya,Samsonov,30,1997-02-22,23,Magnitogorsk,,RUS,RUS,"6' 3""",208,True,False,False,True,L,Y
+318,8471214,LW,Alex Ovechkin,/api/v1/people/8471214,Alex,Ovechkin,8,1985-09-17,35,Moscow,,RUS,RUS,"6' 3""",236,True,False,True,False,R,Y
+319,8471698,RW,T.J. Oshie,/api/v1/people/8471698,T.J.,Oshie,77,1986-12-23,33,Everett,WA,USA,USA,"6' 0""",195,True,False,False,False,R,Y
+320,8473563,C,Nicklas Backstrom,/api/v1/people/8473563,Nicklas,Backstrom,19,1987-11-23,33,Gävle,,SWE,SWE,"6' 1""",206,True,True,False,False,L,Y
+321,8474176,LW,Carl Hagelin,/api/v1/people/8474176,Carl,Hagelin,62,1988-08-23,32,Sodertalje,,SWE,SWE,"6' 0""",185,True,False,False,False,L,Y
+322,8474189,C,Lars Eller,/api/v1/people/8474189,Lars,Eller,20,1989-05-08,31,Rodovre,,DNK,DNK,"6' 2""",205,True,False,False,False,L,Y
+323,8474590,D,John Carlson,/api/v1/people/8474590,John,Carlson,74,1990-01-10,30,Natick,MA,USA,USA,"6' 3""",217,True,True,False,False,R,Y
+324,8474602,D,Justin Schultz,/api/v1/people/8474602,Justin,Schultz,2,1990-07-06,30,Kelowna,BC,CAN,CAN,"6' 2""",193,True,False,False,False,R,Y
+325,8475200,D,Dmitry Orlov,/api/v1/people/8475200,Dmitry,Orlov,9,1991-07-23,29,Novokuznetsk,,RUS,RUS,"5' 11""",208,True,False,False,False,L,Y
+326,8475209,RW,Richard Panik,/api/v1/people/8475209,Richard,Panik,14,1991-02-07,29,Martin,,SVK,SVK,"6' 2""",202,True,False,False,False,L,Y
+327,8475324,D,Nick Jensen,/api/v1/people/8475324,Nick,Jensen,3,1990-09-21,30,Rogers,MN,USA,USA,"6' 1""",196,True,False,False,False,R,Y
+328,8475343,C,Nic Dowd,/api/v1/people/8475343,Nic,Dowd,26,1990-05-27,30,Huntsville,AL,USA,USA,"6' 1""",195,True,False,False,False,R,Y
+329,8475455,D,Brenden Dillon,/api/v1/people/8475455,Brenden,Dillon,4,1990-11-13,30,New Westminster,BC,CAN,CAN,"6' 4""",225,True,False,False,False,L,Y
+330,8475744,C,Evgeny Kuznetsov,/api/v1/people/8475744,Evgeny,Kuznetsov,92,1992-05-19,28,Chelyabinsk,,RUS,RUS,"6' 2""",197,True,False,False,False,L,Y
+331,8476880,RW,Tom Wilson,/api/v1/people/8476880,Tom,Wilson,43,1994-03-29,26,Toronto,ON,CAN,CAN,"6' 4""",220,True,False,False,False,R,Y
+332,8477845,D,Trevor van Riemsdyk,/api/v1/people/8477845,Trevor,van Riemsdyk,57,1991-07-24,29,Middletown,NJ,USA,USA,"6' 2""",192,True,False,False,False,R,Y
+333,8477903,RW,Garnet Hathaway,/api/v1/people/8477903,Garnet,Hathaway,21,1991-11-23,29,Kennebunkport,ME,USA,USA,"6' 3""",210,True,False,False,False,R,Y
+334,8477944,LW,Jakub Vrana,/api/v1/people/8477944,Jakub,Vrana,13,1996-02-28,24,Prague,,CZE,CZE,"6' 0""",195,True,False,False,False,L,Y
+335,8479482,D,Michal Kempny,/api/v1/people/8479482,Michal,Kempny,6,1990-09-08,30,Hodonin,,CZE,CZE,"6' 1""",195,True,False,False,False,L,Y
+336,8470607,D,Brent Seabrook,/api/v1/people/8470607,Brent,Seabrook,7,1985-04-20,35,Richmond,BC,CAN,CAN,"6' 3""",220,True,True,False,False,R,I
+337,8476381,RW,Andrew Shaw,/api/v1/people/8476381,Andrew,Shaw,65,1991-07-20,29,Belleville,ON,CAN,CAN,"5' 11""",182,True,False,False,False,R,I
+338,8474250,C,Zack Smith,/api/v1/people/8474250,Zack,Smith,15,1988-04-05,32,Maple Creek,SK,CAN,CAN,"6' 2""",208,True,False,False,False,L,Y
+339,8477330,LW,Dominik Kubalik,/api/v1/people/8477330,Dominik,Kubalik,8,1995-08-21,25,Plzen,,CZE,CZE,"6' 2""",179,True,False,False,True,L,Y
+340,8477507,D,Nikita Zadorov,/api/v1/people/8477507,Nikita,Zadorov,16,1995-04-16,25,Moscow,,RUS,RUS,"6' 6""",235,True,False,False,False,L,Y
+341,8470281,D,Duncan Keith,/api/v1/people/8470281,Duncan,Keith,2,1983-07-16,37,Winnipeg,MB,CAN,CAN,"6' 1""",192,True,True,False,False,L,Y
+342,8473604,C,Jonathan Toews,/api/v1/people/8473604,Jonathan,Toews,19,1988-04-29,32,Winnipeg,MB,CAN,CAN,"6' 2""",201,True,False,True,False,L,Y
+343,8474141,RW,Patrick Kane,/api/v1/people/8474141,Patrick,Kane,88,1988-11-19,32,Buffalo,NY,USA,USA,"5' 10""",177,True,False,False,False,L,Y
+344,8475177,D,Calvin de Haan,/api/v1/people/8475177,Calvin,de Haan,44,1991-05-09,29,Carp,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y
+345,8476372,D,Nick Seeler,/api/v1/people/8476372,Nick,Seeler,55,1993-06-03,27,Eden Prairie,MN,USA,USA,"6' 2""",201,True,False,False,False,L,Y
+346,8476473,D,Connor Murphy,/api/v1/people/8476473,Connor,Murphy,5,1993-03-26,27,Dublin,OH,USA,USA,"6' 4""",212,True,False,False,False,R,Y
+347,8476876,G,Malcolm Subban,/api/v1/people/8476876,Malcolm,Subban,30,1993-12-21,26,Toronto,ON,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y
+348,8477406,C,Mattias Janmark,/api/v1/people/8477406,Mattias,Janmark,13,1992-12-08,28,Danderyd,,SWE,SWE,"6' 1""",195,True,False,False,False,L,Y
+349,8477846,C,Ryan Carpenter,/api/v1/people/8477846,Ryan,Carpenter,22,1991-01-18,29,Oviedo,FL,USA,USA,"6' 0""",200,True,False,False,False,R,Y
+350,8477961,C,John Quenneville,/api/v1/people/8477961,John,Quenneville,47,1996-04-16,24,Edmonton,AB,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y
+351,8478027,C,Lucas Wallmark,/api/v1/people/8478027,Lucas,Wallmark,71,1995-09-05,25,Umea,,SWE,SWE,"6' 0""",178,True,False,False,False,L,Y
+352,8478073,D,Anton Lindholm,/api/v1/people/8478073,Anton,Lindholm,54,1994-11-29,26,Skellefteå,,SWE,SWE,"5' 11""",191,True,False,False,False,L,Y
+353,8478146,C,Matthew Highmore,/api/v1/people/8478146,Matthew,Highmore,36,1996-02-27,24,Halifax,NS,CAN,CAN,"5' 11""",188,True,False,False,True,L,Y
+354,8478440,C,Dylan Strome,/api/v1/people/8478440,Dylan,Strome,17,1997-03-07,23,Mississauga,ON,CAN,CAN,"6' 3""",200,True,False,False,False,L,Y
+355,8479337,LW,Alex DeBrincat,/api/v1/people/8479337,Alex,DeBrincat,12,1997-12-18,22,Farmington Hills,MI,USA,USA,"5' 7""",165,True,False,False,False,R,Y
+356,8479423,LW,Alex Nylander,/api/v1/people/8479423,Alex,Nylander,92,1998-03-02,22,Calgary,AB,CAN,CAN,"6' 1""",192,True,False,False,True,R,Y
+357,8479523,D,Lucas Carlsson,/api/v1/people/8479523,Lucas,Carlsson,46,1997-07-05,23,Gävle,,SWE,SWE,"6' 0""",189,True,False,False,True,L,Y
+358,8480025,RW,MacKenzie Entwistle,/api/v1/people/8480025,MacKenzie,Entwistle,58,1999-07-14,21,Georgetown,ON,CAN,CAN,"6' 3""",184,True,False,False,True,R,Y
+359,8480144,C,David Kampf,/api/v1/people/8480144,David,Kampf,64,1995-01-12,25,Chomutov,,CZE,CZE,"6' 2""",188,True,False,False,False,L,Y
+360,8480420,G,Collin Delia,/api/v1/people/8480420,Collin,Delia,60,1994-06-20,26,Rancho Cucamonga,CA,USA,USA,"6' 2""",208,True,False,False,True,L,Y
+361,8480814,D,Nicolas Beaudin,/api/v1/people/8480814,Nicolas,Beaudin,74,1999-10-07,21,Chateauguay,QC,CAN,CAN,"5' 11""",168,True,False,False,True,L,Y
+362,8480831,D,Alec Regula,/api/v1/people/8480831,Alec,Regula,75,2000-08-06,20,West Bloomfield,MI,USA,USA,"6' 4""",208,True,False,False,True,R,Y
+363,8480871,D,Adam Boqvist,/api/v1/people/8480871,Adam,Boqvist,27,2000-08-15,20,Falun,,SWE,SWE,"5' 11""",179,True,False,False,True,R,Y
+364,8480947,G,Kevin Lankinen,/api/v1/people/8480947,Kevin,Lankinen,32,1995-04-28,25,Helsinki,,FIN,FIN,"6' 2""",185,True,False,False,True,L,Y
+365,8477215,D,Danny DeKeyser,/api/v1/people/8477215,Danny,DeKeyser,65,1990-03-07,30,Detroit,MI,USA,USA,"6' 3""",190,True,False,False,False,L,I
+366,8471676,RW,Bobby Ryan,/api/v1/people/8471676,Bobby,Ryan,54,1987-03-17,33,Cherry Hill,NJ,USA,USA,"6' 2""",208,True,False,False,False,R,Y
+367,8477479,LW,Tyler Bertuzzi,/api/v1/people/8477479,Tyler,Bertuzzi,59,1995-02-24,25,Sudbury,ON,CAN,CAN,"6' 1""",199,True,False,False,False,L,Y
+368,8477511,RW,Anthony Mantha,/api/v1/people/8477511,Anthony,Mantha,39,1994-09-16,26,Longueuil,QC,CAN,CAN,"6' 5""",234,True,False,False,False,L,Y
+369,8479395,D,Dennis Cholowski,/api/v1/people/8479395,Dennis,Cholowski,21,1998-02-15,22,Langley,BC,CAN,CAN,"6' 2""",197,True,False,False,False,L,Y
+370,8479425,D,Filip Hronek,/api/v1/people/8479425,Filip,Hronek,17,1997-11-02,23,Hradec Králové,,CZE,CZE,"6' 0""",183,True,False,False,False,R,Y
+371,8480184,D,Gustav Lindstrom,/api/v1/people/8480184,Gustav,Lindstrom,28,1998-10-20,22,Ostervala,,SWE,SWE,"6' 2""",190,True,False,False,True,R,Y
+372,8470047,C,Valtteri Filppula,/api/v1/people/8470047,Valtteri,Filppula,51,1984-03-20,36,Vantaa,,FIN,FIN,"6' 0""",189,True,False,False,False,L,Y
+373,8470144,C,Frans Nielsen,/api/v1/people/8470144,Frans,Nielsen,81,1984-04-24,36,Herning,,DNK,DNK,"6' 1""",186,True,True,False,False,L,Y
+374,8471306,G,Thomas Greiss,/api/v1/people/8471306,Thomas,Greiss,29,1986-01-29,34,Fussen,,DEU,DEU,"6' 2""",232,True,False,False,False,L,Y
+375,8471686,D,Marc Staal,/api/v1/people/8471686,Marc,Staal,18,1987-01-13,33,Thunder Bay,ON,CAN,CAN,"6' 4""",209,True,False,False,False,L,Y
+376,8471794,LW,Darren Helm,/api/v1/people/8471794,Darren,Helm,43,1987-01-21,33,St. Andrews,MB,CAN,CAN,"6' 0""",192,True,False,False,False,L,Y
+377,8473415,D,Alex Biega,/api/v1/people/8473415,Alex,Biega,3,1988-04-04,32,Montreal,QC,CAN,CAN,"5' 10""",199,True,False,False,False,R,Y
+378,8473541,G,Jonathan Bernier,/api/v1/people/8473541,Jonathan,Bernier,45,1988-08-07,32,Laval,QC,CAN,CAN,"6' 0""",185,True,False,False,False,L,Y
+379,8474040,C,Sam Gagner,/api/v1/people/8474040,Sam,Gagner,89,1989-08-10,31,London,ON,CAN,CAN,"5' 11""",200,True,False,False,False,R,Y
+380,8475747,D,Patrik Nemeth,/api/v1/people/8475747,Patrik,Nemeth,22,1992-02-08,28,Stockholm,,SWE,SWE,"6' 3""",228,True,False,False,False,L,Y
+381,8475750,D,Jon Merrill,/api/v1/people/8475750,Jon,Merrill,24,1992-02-03,28,Oklahoma City,OK,USA,USA,"6' 3""",195,True,False,False,False,L,Y
+382,8476480,C,Vladislav Namestnikov,/api/v1/people/8476480,Vladislav,Namestnikov,92,1992-11-22,28,Zhukovskiy,,RUS,RUS,"6' 0""",183,True,False,False,False,L,Y
+383,8476822,C,Luke Glendening,/api/v1/people/8476822,Luke,Glendening,41,1989-04-28,31,Grand Rapids,MI,USA,USA,"5' 11""",191,True,True,False,False,R,Y
+384,8477454,LW,Adam Erne,/api/v1/people/8477454,Adam,Erne,73,1995-04-20,25,New Haven,CT,USA,USA,"6' 1""",212,True,False,False,False,L,Y
+385,8477946,C,Dylan Larkin,/api/v1/people/8477946,Dylan,Larkin,71,1996-07-30,24,Waterford,MI,USA,USA,"6' 1""",198,True,True,False,False,L,Y
+386,8477952,C,Robby Fabbri,/api/v1/people/8477952,Robby,Fabbri,14,1996-01-22,24,Mississauga,ON,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y
+387,8479442,D,Troy Stecher,/api/v1/people/8479442,Troy,Stecher,70,1994-04-07,26,Richmond,BC,CAN,CAN,"5' 10""",186,True,False,False,False,R,Y
+388,8478508,C,Yakov Trenin,/api/v1/people/8478508,Yakov,Trenin,13,1997-01-13,23,Chelyabinsk,,RUS,RUS,"6' 2""",201,True,False,False,True,L,Y
+389,8478971,G,Connor Ingram,/api/v1/people/8478971,Connor,Ingram,39,1997-03-31,23,Saskatoon,SK,CAN,CAN,"6' 2""",196,True,False,False,True,L,Y
+390,8480009,RW,Eeli Tolvanen,/api/v1/people/8480009,Eeli,Tolvanen,28,1999-04-22,21,Vihti,,FIN,FIN,"5' 10""",191,True,False,False,True,L,Y
+391,8481577,C,Philip Tomasino,/api/v1/people/8481577,Philip,Tomasino,26,2001-07-28,19,Mississauga,ON,CAN,CAN,"6' 0""",179,True,False,False,True,R,Y
+392,8470755,RW,Brad Richardson,/api/v1/people/8470755,Brad,Richardson,15,1985-02-04,35,Belleville,ON,CAN,CAN,"6' 0""",190,True,False,False,False,L,Y
+393,8471469,G,Pekka Rinne,/api/v1/people/8471469,Pekka,Rinne,35,1982-11-03,38,Kempele,,FIN,FIN,"6' 5""",217,True,False,False,False,L,Y
+394,8474600,D,Roman Josi,/api/v1/people/8474600,Roman,Josi,59,1990-06-01,30,Bern,,CHE,CHE,"6' 1""",201,True,False,True,False,L,Y
+395,8474697,D,Mark Borowiecki,/api/v1/people/8474697,Mark,Borowiecki,90,1989-07-12,31,Ottawa,ON,CAN,CAN,"6' 2""",204,True,False,False,False,L,Y
+396,8475168,C,Matt Duchene,/api/v1/people/8475168,Matt,Duchene,95,1991-01-16,29,Haliburton,ON,CAN,CAN,"5' 11""",195,True,False,False,False,L,Y
+397,8475176,D,Ryan Ellis,/api/v1/people/8475176,Ryan,Ellis,4,1991-01-03,29,Hamilton,ON,CAN,CAN,"5' 10""",180,True,True,False,False,R,Y
+398,8475218,D,Mattias Ekholm,/api/v1/people/8475218,Mattias,Ekholm,14,1990-05-24,30,Borlange,,SWE,SWE,"6' 4""",215,True,True,False,False,L,Y
+399,8475714,C,Calle Jarnkrok,/api/v1/people/8475714,Calle,Jarnkrok,19,1991-09-25,29,Gävle,,SWE,SWE,"5' 11""",186,True,False,False,False,R,Y
+400,8475793,C,Ryan Johansen,/api/v1/people/8475793,Ryan,Johansen,92,1992-07-31,28,Vancouver,BC,CAN,CAN,"6' 3""",218,True,True,False,False,R,Y
+401,8475797,D,Jarred Tinordi,/api/v1/people/8475797,Jarred,Tinordi,24,1992-02-20,28,Burnsville,MN,USA,USA,"6' 6""",230,True,False,False,False,L,Y
+402,8476393,C,Nick Cousins,/api/v1/people/8476393,Nick,Cousins,21,1993-07-20,27,Belleville,ON,CAN,CAN,"5' 11""",183,True,False,False,False,L,Y
+403,8476428,RW,Rocco Grimaldi,/api/v1/people/8476428,Rocco,Grimaldi,23,1993-02-08,27,Anaheim,CA,USA,USA,"5' 6""",180,True,False,False,False,R,Y
+404,8476887,LW,Filip Forsberg,/api/v1/people/8476887,Filip,Forsberg,9,1994-08-13,26,Ostervala,,SWE,SWE,"6' 1""",205,True,True,False,False,R,Y
+405,8476925,C,Colton Sissons,/api/v1/people/8476925,Colton,Sissons,10,1993-11-05,27,North Vancouver,BC,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y
+406,8476988,D,Matt Benning,/api/v1/people/8476988,Matt,Benning,5,1994-05-25,26,Edmonton,AB,CAN,CAN,"6' 1""",203,True,False,False,False,R,Y
+407,8477424,G,Juuse Saros,/api/v1/people/8477424,Juuse,Saros,74,1995-04-19,25,Forssa,,FIN,FIN,"5' 11""",180,True,False,False,False,L,Y
+408,8477446,RW,Michael McCarron,/api/v1/people/8477446,Michael,McCarron,47,1995-03-07,25,Grosse Pointe,MI,USA,USA,"6' 6""",232,True,False,False,False,R,Y
+409,8478042,RW,Viktor Arvidsson,/api/v1/people/8478042,Viktor,Arvidsson,33,1993-04-08,27,Skellefteå,,SWE,SWE,"5' 9""",180,True,False,False,False,R,Y
+410,8478851,D,Alexandre Carrier,/api/v1/people/8478851,Alexandre,Carrier,45,1996-10-08,24,Quebec City,QC,CAN,CAN,"5' 11""",174,True,False,False,True,R,Y
+411,8479316,C,Luke Kunin,/api/v1/people/8479316,Luke,Kunin,11,1997-12-04,23,Chesterfield,MO,USA,USA,"6' 0""",197,True,False,False,False,R,Y
+412,8479371,D,Dante Fabbro,/api/v1/people/8479371,Dante,Fabbro,57,1998-06-20,22,Coquitlam,BC,CAN,CAN,"6' 0""",189,True,False,False,True,R,Y
+413,8470257,LW,Alexander Steen,/api/v1/people/8470257,Alexander,Steen,20,1984-03-01,36,Winnipeg,MB,CAN,SWE,"6' 0""",211,True,True,False,False,L,Y
+414,8474102,LW,David Perron,/api/v1/people/8474102,David,Perron,57,1988-05-28,32,Sherbrooke,QC,CAN,CAN,"6' 0""",200,True,False,False,False,R,Y
+415,8474125,D,Carl Gunnarsson,/api/v1/people/8474125,Carl,Gunnarsson,4,1986-11-09,34,Orebro,,SWE,SWE,"6' 2""",198,True,False,False,False,L,Y
+416,8474145,D,Robert Bortuzzo,/api/v1/people/8474145,Robert,Bortuzzo,41,1989-03-18,31,Thunder Bay,ON,CAN,CAN,"6' 4""",216,True,False,False,False,R,Y
+417,8474618,D,Marco Scandella,/api/v1/people/8474618,Marco,Scandella,6,1990-02-23,30,Montreal,QC,CAN,CAN,"6' 3""",212,True,False,False,False,L,Y
+418,8475098,C,Tyler Bozak,/api/v1/people/8475098,Tyler,Bozak,21,1986-03-19,34,Regina,SK,CAN,CAN,"6' 1""",199,True,False,False,False,R,Y
+419,8475158,C,Ryan O'Reilly,/api/v1/people/8475158,Ryan,O'Reilly,90,1991-02-07,29,Clinton,ON,CAN,CAN,"6' 1""",216,True,False,False,False,L,Y
+420,8475160,LW,Kyle Clifford,/api/v1/people/8475160,Kyle,Clifford,13,1991-01-13,29,Ayr,ON,CAN,CAN,"6' 2""",211,True,False,False,False,L,Y
+421,8475170,C,Brayden Schenn,/api/v1/people/8475170,Brayden,Schenn,10,1991-08-22,29,Saskatoon,SK,CAN,CAN,"6' 1""",200,True,False,False,False,L,Y
+422,8475753,D,Justin Faulk,/api/v1/people/8475753,Justin,Faulk,72,1992-03-20,28,South St. Paul,MN,USA,USA,"6' 0""",217,True,False,False,False,R,Y
+423,8475765,RW,Vladimir Tarasenko,/api/v1/people/8475765,Vladimir,Tarasenko,91,1991-12-13,29,Yaroslavl,,RUS,RUS,"6' 0""",225,True,True,False,False,L,Y
+424,8475768,LW,Jaden Schwartz,/api/v1/people/8475768,Jaden,Schwartz,17,1992-06-25,28,Wilcox,SK,CAN,CAN,"5' 10""",190,True,False,False,False,L,Y
+425,8476412,G,Jordan Binnington,/api/v1/people/8476412,Jordan,Binnington,50,1993-07-11,27,Richmond Hill,ON,CAN,CAN,"6' 1""",174,True,False,False,False,L,Y
+426,8476792,D,Torey Krug,/api/v1/people/8476792,Torey,Krug,47,1991-04-12,29,Livonia,MI,USA,USA,"5' 9""",186,True,False,False,False,L,Y
+427,8476892,D,Colton Parayko,/api/v1/people/8476892,Colton,Parayko,55,1993-05-12,27,St. Albert,AB,CAN,CAN,"6' 6""",230,True,False,False,False,R,Y
+428,8476897,C,Oskar Sundqvist,/api/v1/people/8476897,Oskar,Sundqvist,70,1994-03-23,26,Boden,,SWE,SWE,"6' 3""",209,True,False,False,False,R,Y
+429,8476907,LW,Mackenzie MacEachern,/api/v1/people/8476907,Mackenzie,MacEachern,28,1994-03-09,26,Bloomfield Hills,MI,USA,USA,"6' 2""",190,True,False,False,False,L,Y
+430,8477455,LW,Jacob de la Rose,/api/v1/people/8477455,Jacob,de la Rose,61,1995-05-20,25,Arvika,,SWE,SWE,"6' 3""",215,True,False,False,False,L,Y
+431,8477482,LW,Zach Sanford,/api/v1/people/8477482,Zach,Sanford,12,1994-11-09,26,Salem,MA,USA,USA,"6' 4""",207,True,False,False,False,L,Y
+432,8477964,C,Ivan Barbashev,/api/v1/people/8477964,Ivan,Barbashev,49,1995-12-14,25,Moscow,,RUS,RUS,"6' 0""",187,True,False,False,False,L,Y
+433,8478024,G,Ville Husso,/api/v1/people/8478024,Ville,Husso,35,1995-02-06,25,Helsinki,,FIN,FIN,"6' 3""",205,True,False,False,True,L,Y
+434,8478104,LW,Sammy Blais,/api/v1/people/8478104,Sammy,Blais,9,1996-06-17,24,Montmagny,QC,CAN,CAN,"6' 2""",205,True,False,False,False,L,Y
+435,8478407,D,Vince Dunn,/api/v1/people/8478407,Vince,Dunn,29,1996-10-29,24,Mississauga,ON,CAN,CAN,"6' 0""",203,True,False,False,False,L,Y
+436,8479385,C,Jordan Kyrou,/api/v1/people/8479385,Jordan,Kyrou,25,1998-05-05,22,Toronto,ON,CAN,CAN,"6' 0""",175,True,False,False,True,R,Y
+437,8480023,C,Robert Thomas,/api/v1/people/8480023,Robert,Thomas,18,1999-07-02,21,Aurora,ON,CAN,CAN,"6' 0""",188,True,False,False,False,R,Y
+438,8476410,LW,Josh Leivo,/api/v1/people/8476410,Josh,Leivo,17,1993-05-26,27,Innisfil,ON,CAN,CAN,"6' 2""",192,True,False,False,False,R,I
+439,8478233,LW,Andrew Mangiapane,/api/v1/people/8478233,Andrew,Mangiapane,88,1996-04-04,24,Toronto,ON,CAN,CAN,"5' 10""",184,True,False,False,False,L,Y
+440,8479976,D,Juuso Valimaki,/api/v1/people/8479976,Juuso,Valimaki,8,1998-10-06,22,Tampere,,FIN,FIN,"6' 2""",212,True,False,False,True,L,Y
+441,8481501,G,Artyom Zagidulin,/api/v1/people/8481501,Artyom,Zagidulin,50,1995-08-08,25,Magnitogorsk,,RUS,RUS,"6' 2""",180,True,False,False,True,L,Y
+442,8481625,D,Carl-Johan Lerby,/api/v1/people/8481625,Carl-Johan,Lerby,46,1997-07-07,23,Trelleborg,,SWE,SWE,"5' 11""",180,True,False,False,True,L,Y
+443,8482244,D,Johannes Kinnvall,/api/v1/people/8482244,Johannes,Kinnvall,0,1997-07-28,23,Gavle,,SWE,SWE,"5' 11""",185,True,False,False,False,R,Y
+444,8470966,D,Mark Giordano,/api/v1/people/8470966,Mark,Giordano,5,1983-10-03,37,Toronto,ON,CAN,CAN,"6' 1""",200,True,False,True,False,L,Y
+445,8473473,LW,Milan Lucic,/api/v1/people/8473473,Milan,Lucic,17,1988-06-07,32,Vancouver,BC,CAN,CAN,"6' 3""",231,True,False,False,False,L,Y
+446,8474150,C,Mikael Backlund,/api/v1/people/8474150,Mikael,Backlund,11,1989-03-17,31,Vasteras,,SWE,SWE,"6' 0""",200,True,False,False,False,L,Y
+447,8474593,G,Jacob Markstrom,/api/v1/people/8474593,Jacob,Markstrom,25,1990-01-31,30,Gävle,,SWE,SWE,"6' 6""",206,True,False,False,False,L,Y
+448,8474736,C,Zac Rinaldo,/api/v1/people/8474736,Zac,Rinaldo,36,1990-06-15,30,Mississauga,ON,CAN,CAN,"5' 10""",192,True,False,False,False,L,Y
+449,8475278,C,Byron Froese,/api/v1/people/8475278,Byron,Froese,38,1991-03-12,29,Winkler,MB,CAN,CAN,"6' 1""",202,True,False,False,False,R,Y
+450,8475690,D,Christopher Tanev,/api/v1/people/8475690,Christopher,Tanev,8,1989-12-20,30,Toronto,ON,CAN,CAN,"6' 2""",197,True,False,False,False,R,Y
+451,8475807,C,Joakim Nordstrom,/api/v1/people/8475807,Joakim,Nordstrom,20,1992-02-25,28,Stockholm,,SWE,SWE,"6' 1""",194,True,False,False,False,L,Y
+452,8475839,G,Louis Domingue,/api/v1/people/8475839,Louis,Domingue,30,1992-03-06,28,St-Hyacinthe,QC,CAN,CAN,"6' 3""",208,True,False,False,False,R,Y
+453,8476300,D,Nikita Nesterov,/api/v1/people/8476300,Nikita,Nesterov,89,1993-03-28,27,Chelyabinsk,,RUS,RUS,"5' 11""",191,True,False,False,False,L,Y
+454,8476346,LW,Johnny Gaudreau,/api/v1/people/8476346,Johnny,Gaudreau,13,1993-08-13,27,Salem,NJ,USA,USA,"5' 9""",165,True,False,False,False,L,Y
+455,8477210,RW,Buddy Robinson,/api/v1/people/8477210,Buddy,Robinson,53,1991-09-30,29,Bellmawr,NJ,USA,USA,"6' 6""",232,True,False,False,False,R,Y
+456,8477496,C,Elias Lindholm,/api/v1/people/8477496,Elias,Lindholm,28,1994-12-02,26,Boden,,SWE,SWE,"6' 1""",195,True,False,False,False,R,Y
+457,8477497,C,Sean Monahan,/api/v1/people/8477497,Sean,Monahan,23,1994-10-12,26,Brampton,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y
+458,8477935,C,Sam Bennett,/api/v1/people/8477935,Sam,Bennett,93,1996-06-20,24,Holland Landing,ON,CAN,CAN,"6' 1""",195,True,False,False,False,L,Y
+459,8478396,D,Noah Hanifin,/api/v1/people/8478396,Noah,Hanifin,55,1997-01-25,23,Boston,MA,USA,USA,"6' 3""",215,True,False,False,False,L,Y
+460,8478397,D,Rasmus Andersson,/api/v1/people/8478397,Rasmus,Andersson,4,1996-10-27,24,Malmö,,SWE,SWE,"6' 1""",214,True,False,False,False,R,Y
+461,8478430,D,Oliver Kylington,/api/v1/people/8478430,Oliver,Kylington,58,1997-05-19,23,Stockholm,,SWE,SWE,"6' 0""",183,True,False,False,False,L,Y
+462,8478585,C,Derek Ryan,/api/v1/people/8478585,Derek,Ryan,10,1986-12-29,33,Spokane,WA,USA,USA,"5' 10""",185,True,False,False,False,R,Y
+463,8479314,LW,Matthew Tkachuk,/api/v1/people/8479314,Matthew,Tkachuk,19,1997-12-11,23,Scottsdale,AZ,USA,USA,"6' 2""",202,True,False,False,False,L,Y
+464,8479346,C,Dillon Dube,/api/v1/people/8479346,Dillon,Dube,29,1998-07-20,22,Golden,BC,CAN,CAN,"5' 11""",187,True,False,False,True,L,Y
+465,8479496,G,David Rittich,/api/v1/people/8479496,David,Rittich,33,1992-08-19,28,Jihlava,,CZE,CZE,"6' 3""",206,True,False,False,False,L,Y
+466,8481630,D,Alexander Yelesin,/api/v1/people/8481630,Alexander,Yelesin,45,1996-02-07,24,Yaroslavl,,RUS,RUS,"6' 0""",195,True,False,False,True,R,Y
+467,8477435,D,Ryan Graves,/api/v1/people/8477435,Ryan,Graves,27,1995-05-21,25,Yarmouth,NS,CAN,CAN,"6' 5""",220,True,False,False,False,L,Y
+468,8477444,LW,Andre Burakovsky,/api/v1/people/8477444,Andre,Burakovsky,95,1995-02-09,25,Klagenfurt,,AUT,SWE,"6' 3""",201,True,False,False,False,L,Y
+469,8477501,RW,Valeri Nichushkin,/api/v1/people/8477501,Valeri,Nichushkin,13,1995-03-04,25,Chelyabinsk,,RUS,RUS,"6' 4""",210,True,False,False,False,L,Y
+470,8478038,D,Devon Toews,/api/v1/people/8478038,Devon,Toews,25,1994-02-21,26,Abbotsford,BC,CAN,CAN,"6' 1""",191,True,False,False,False,L,Y
+471,8479370,C,Tyson Jost,/api/v1/people/8479370,Tyson,Jost,17,1998-03-14,22,St. Albert,AB,CAN,CAN,"5' 11""",187,True,False,False,False,L,Y
+472,8480112,G,Hunter Miska,/api/v1/people/8480112,Hunter,Miska,32,1995-07-07,25,North Branch,MN,USA,USA,"6' 1""",175,True,False,False,True,L,Y
+473,8480326,C,Sheldon Dries,/api/v1/people/8480326,Sheldon,Dries,15,1994-04-23,26,Macomb,MI,USA,USA,"5' 9""",180,True,False,False,False,L,Y
+474,8481524,D,Bowen Byram,/api/v1/people/8481524,Bowen,Byram,45,2001-06-13,19,Cranbrook,BC,CAN,CAN,"6' 1""",190,True,False,False,True,L,Y
+475,8473446,D,Erik Johnson,/api/v1/people/8473446,Erik,Johnson,6,1988-03-21,32,Bloomington,MN,USA,USA,"6' 4""",225,True,True,False,False,R,Y
+476,8474013,D,Ian Cole,/api/v1/people/8474013,Ian,Cole,28,1989-02-21,31,Ann Arbor,MI,USA,USA,"6' 1""",225,True,False,False,False,L,Y
+477,8474685,LW,Matt Calvert,/api/v1/people/8474685,Matt,Calvert,11,1989-12-24,30,Brandon,MB,CAN,CAN,"5' 11""",186,True,False,False,False,L,Y
+478,8475172,C,Nazem Kadri,/api/v1/people/8475172,Nazem,Kadri,91,1990-10-06,30,London,ON,CAN,CAN,"6' 0""",192,True,False,False,False,L,Y
+479,8475820,RW,Joonas Donskoi,/api/v1/people/8475820,Joonas,Donskoi,72,1992-04-13,28,Raahe,,FIN,FIN,"6' 0""",190,True,False,False,False,R,Y
+480,8475831,G,Philipp Grubauer,/api/v1/people/8475831,Philipp,Grubauer,31,1991-11-25,29,Rosenheim,,DEU,DEU,"6' 1""",188,True,False,False,False,L,Y
+481,8476391,C,T.J. Tynan,/api/v1/people/8476391,T.J.,Tynan,36,1992-02-25,28,Orland Park,IL,USA,USA,"5' 8""",165,True,False,False,False,R,Y
+482,8476438,LW,Brandon Saad,/api/v1/people/8476438,Brandon,Saad,20,1992-10-27,28,Pittsburgh,PA,USA,USA,"6' 1""",206,True,False,False,False,L,Y
+483,8476455,LW,Gabriel Landeskog,/api/v1/people/8476455,Gabriel,Landeskog,92,1992-11-23,28,Stockholm,,SWE,SWE,"6' 1""",215,True,False,True,False,L,Y
+484,8477456,C,J.T. Compher,/api/v1/people/8477456,J.T.,Compher,37,1995-04-08,25,Northbrook,IL,USA,USA,"6' 0""",190,True,False,False,False,R,Y
+485,8477492,C,Nathan MacKinnon,/api/v1/people/8477492,Nathan,MacKinnon,29,1995-09-01,25,Halifax,NS,CAN,CAN,"6' 0""",200,True,True,False,False,R,Y
+486,8477930,C,Pierre-Edouard Bellemare,/api/v1/people/8477930,Pierre-Edouard,Bellemare,41,1985-03-06,35,Le Blanc-Mesnil,,FRA,FRA,"6' 0""",198,True,False,False,False,L,Y
+487,8478420,RW,Mikko Rantanen,/api/v1/people/8478420,Mikko,Rantanen,96,1996-10-29,24,Nousiainen,,FIN,FIN,"6' 4""",215,True,False,False,False,L,Y
+488,8479398,D,Samuel Girard,/api/v1/people/8479398,Samuel,Girard,49,1998-05-12,22,Roberval,QC,CAN,CAN,"5' 10""",170,True,False,False,False,L,Y
+489,8479982,D,Conor Timmins,/api/v1/people/8479982,Conor,Timmins,20,1998-09-18,22,St. Catharines,ON,CAN,CAN,"6' 2""",185,True,False,False,True,R,Y
+490,8480032,C,Shane Bowers,/api/v1/people/8480032,Shane,Bowers,14,1999-07-30,21,Halifax,NS,CAN,CAN,"6' 2""",186,True,False,False,True,L,Y
+491,8480069,D,Cale Makar,/api/v1/people/8480069,Cale,Makar,8,1998-10-30,22,Calgary,AB,CAN,CAN,"5' 11""",187,True,False,False,True,R,Y
+492,8480925,G,Pavel Francouz,/api/v1/people/8480925,Pavel,Francouz,39,1990-06-03,30,Plzen,,CZE,CZE,"6' 0""",179,True,False,False,False,R,Y
+493,8481186,RW,Logan O'Connor,/api/v1/people/8481186,Logan,O'Connor,25,1996-08-14,24,Missouri City,TX,USA,USA,"6' 0""",175,True,False,False,True,R,Y
+494,8471490,RW,Adam Cracknell,/api/v1/people/8471490,Adam,Cracknell,27,1985-07-15,35,Prince Albert,SK,CAN,CAN,"6' 3""",209,True,False,False,False,R,Y
+495,8474068,C,Kyle Turris,/api/v1/people/8474068,Kyle,Turris,8,1989-08-14,31,New Westminster,BC,CAN,CAN,"6' 1""",190,True,False,False,False,R,Y
+496,8476495,C,Seth Griffith,/api/v1/people/8476495,Seth,Griffith,23,1993-01-04,27,Wallaceburg,ON,CAN,CAN,"5' 9""",190,True,False,False,False,R,Y
+497,8478021,D,William Lagesson,/api/v1/people/8478021,William,Lagesson,84,1996-02-22,24,Gothenburg,,SWE,SWE,"6' 2""",207,True,False,False,True,L,Y
+498,8478442,C,Cooper Marody,/api/v1/people/8478442,Cooper,Marody,65,1996-12-20,23,Brighton,MI,USA,USA,"6' 0""",184,True,False,False,True,R,Y
+499,8479344,RW,Jesse Puljujarvi,/api/v1/people/8479344,Jesse,Puljujarvi,98,1998-05-07,22,Alvkarleby,,SWE,FIN,"6' 4""",201,True,False,False,False,R,Y
+500,8479347,LW,Tyler Benson,/api/v1/people/8479347,Tyler,Benson,49,1998-03-15,22,Edmonton,AB,CAN,CAN,"6' 0""",190,True,False,False,True,L,Y
+501,8480802,C,Ryan McLeod,/api/v1/people/8480802,Ryan,McLeod,70,1999-09-21,21,Mississauga,ON,CAN,CAN,"6' 2""",207,True,False,False,True,L,Y
+502,8480803,D,Evan Bouchard,/api/v1/people/8480803,Evan,Bouchard,75,1999-10-20,21,Oakville,ON,CAN,CAN,"6' 3""",194,True,False,False,True,R,Y
+503,8480946,C,Dominik Kahun,/api/v1/people/8480946,Dominik,Kahun,21,1995-07-02,25,Plana,,CZE,DEU,"5' 11""",175,True,False,False,False,L,Y
+504,8481598,D,Philip Broberg,/api/v1/people/8481598,Philip,Broberg,86,2001-06-25,19,Orebro,,SWE,SWE,"6' 3""",199,True,False,False,True,L,Y
+505,8481638,LW,Joakim Nygard,/api/v1/people/8481638,Joakim,Nygard,10,1993-01-08,27,Stockholm,,SWE,SWE,"6' 0""",179,True,False,False,False,L,Y
+506,8481813,C,Gaetan Haas,/api/v1/people/8481813,Gaetan,Haas,91,1992-01-31,28,Biel-Bienne,,CHE,CHE,"6' 0""",181,True,False,False,False,R,Y
+507,8469608,G,Mike Smith,/api/v1/people/8469608,Mike,Smith,41,1982-03-22,38,Kingston,ON,CAN,CAN,"6' 5""",220,True,False,False,False,L,Y
+508,8471707,LW,James Neal,/api/v1/people/8471707,James,Neal,18,1987-09-03,33,Whitby,ON,CAN,CAN,"6' 3""",212,True,False,False,False,L,Y
+509,8471729,D,Kris Russell,/api/v1/people/8471729,Kris,Russell,4,1987-05-02,33,Caroline,AB,CAN,CAN,"5' 10""",170,True,False,False,False,L,Y
+510,8474589,C,Tyler Ennis,/api/v1/people/8474589,Tyler,Ennis,63,1989-10-06,31,Edmonton,AB,CAN,CAN,"5' 9""",161,True,False,False,False,L,Y
+511,8475156,G,Mikko Koskinen,/api/v1/people/8475156,Mikko,Koskinen,19,1988-07-18,32,Vantaa,,FIN,FIN,"6' 7""",202,True,False,False,False,L,Y
+512,8475163,RW,Alex Chiasson,/api/v1/people/8475163,Alex,Chiasson,39,1990-10-01,30,Montreal,QC,CAN,CAN,"6' 4""",208,True,False,False,False,R,Y
+513,8475178,RW,Zack Kassian,/api/v1/people/8475178,Zack,Kassian,44,1991-01-24,29,Windsor,ON,CAN,CAN,"6' 3""",211,True,False,False,False,R,Y
+514,8475197,D,Tyson Barrie,/api/v1/people/8475197,Tyson,Barrie,22,1991-07-26,29,Victoria,BC,CAN,CAN,"5' 11""",197,True,False,False,False,R,Y
+515,8476326,RW,Josh Archibald,/api/v1/people/8476326,Josh,Archibald,15,1992-10-06,28,Regina,SK,CAN,CAN,"5' 10""",176,True,False,False,False,R,Y
+516,8476341,G,Anton Forsberg,/api/v1/people/8476341,Anton,Forsberg,33,1992-11-27,28,Härnösand,,SWE,SWE,"6' 3""",192,True,False,False,False,L,Y
+517,8476409,C,Alan Quine,/api/v1/people/8476409,Alan,Quine,26,1993-02-25,27,Belleville,ON,CAN,CAN,"6' 0""",203,True,False,False,False,L,Y
+518,8476454,C,Ryan Nugent-Hopkins,/api/v1/people/8476454,Ryan,Nugent-Hopkins,93,1993-04-12,27,Burnaby,BC,CAN,CAN,"6' 0""",184,True,True,False,False,L,Y
+519,8476457,D,Adam Larsson,/api/v1/people/8476457,Adam,Larsson,6,1992-11-12,28,Skellefteå,,SWE,SWE,"6' 3""",208,True,True,False,False,R,Y
+520,8476472,D,Oscar Klefbom,/api/v1/people/8476472,Oscar,Klefbom,77,1993-07-20,27,Karlstad,,SWE,SWE,"6' 3""",216,True,False,False,False,L,Y
+521,8476915,LW,Jujhar Khaira,/api/v1/people/8476915,Jujhar,Khaira,16,1994-08-13,26,Surrey,BC,CAN,CAN,"6' 4""",212,True,False,False,False,L,Y
+522,8477498,D,Darnell Nurse,/api/v1/people/8477498,Darnell,Nurse,25,1995-02-04,25,Hamilton,ON,CAN,CAN,"6' 4""",221,True,True,False,False,L,Y
+523,8477934,C,Leon Draisaitl,/api/v1/people/8477934,Leon,Draisaitl,29,1995-10-27,25,Cologne,,DEU,DEU,"6' 2""",208,True,True,False,False,L,Y
+524,8478402,C,Connor McDavid,/api/v1/people/8478402,Connor,McDavid,97,1997-01-13,23,Richmond Hill,ON,CAN,CAN,"6' 1""",193,True,False,True,False,L,Y
+525,8478451,D,Ethan Bear,/api/v1/people/8478451,Ethan,Bear,74,1997-06-26,23,Regina,SK,CAN,CAN,"5' 11""",197,True,False,False,True,R,Y
+526,8478452,D,Caleb Jones,/api/v1/people/8478452,Caleb,Jones,82,1997-06-06,23,Arlington,TX,USA,USA,"6' 1""",194,True,False,False,True,L,Y
+527,8479466,RW,Patrick Russell,/api/v1/people/8479466,Patrick,Russell,52,1993-01-04,27,Holte,,DNK,DNK,"6' 1""",203,True,False,False,False,R,Y
+528,8479973,G,Stuart Skinner,/api/v1/people/8479973,Stuart,Skinner,50,1998-11-01,22,Edmonton,AB,CAN,CAN,"6' 4""",206,True,False,False,True,L,Y
+529,8479977,RW,Kailer Yamamoto,/api/v1/people/8479977,Kailer,Yamamoto,56,1998-09-29,22,Spokane,WA,USA,USA,"5' 8""",153,True,False,False,False,R,Y
+530,8477353,C,Tyler Motte,/api/v1/people/8477353,Tyler,Motte,64,1995-03-10,25,St. Clair,MI,USA,USA,"5' 10""",192,True,False,False,False,L,Y
+531,8478970,D,Jalen Chatfield,/api/v1/people/8478970,Jalen,Chatfield,63,1996-05-15,24,Ypsilanti,MI,USA,USA,"6' 1""",188,True,False,False,True,R,Y
+532,8470626,LW,Loui Eriksson,/api/v1/people/8470626,Loui,Eriksson,21,1985-07-17,35,Gothenburg,,SWE,SWE,"6' 2""",179,True,False,False,False,L,Y
+533,8471303,D,Alexander Edler,/api/v1/people/8471303,Alexander,Edler,23,1986-04-21,34,Ostersund,,SWE,SWE,"6' 3""",212,True,False,False,False,L,Y
+534,8474091,C,Brandon Sutter,/api/v1/people/8474091,Brandon,Sutter,20,1989-02-14,31,Huntington,NY,USA,CAN,"6' 3""",190,True,False,False,False,R,Y
+535,8474291,C,Jay Beagle,/api/v1/people/8474291,Jay,Beagle,83,1985-10-16,35,Calgary,AB,CAN,CAN,"6' 3""",210,True,False,False,False,R,Y
+536,8474574,D,Tyler Myers,/api/v1/people/8474574,Tyler,Myers,57,1990-02-01,30,Houston,TX,USA,CAN,"6' 8""",229,True,False,False,False,R,Y
+537,8474651,G,Braden Holtby,/api/v1/people/8474651,Braden,Holtby,49,1989-09-16,31,Lloydminster,SK,CAN,CAN,"6' 2""",214,True,False,False,False,L,Y
+538,8474818,D,Jordie Benn,/api/v1/people/8474818,Jordie,Benn,8,1987-07-26,33,Victoria,BC,CAN,CAN,"6' 2""",199,True,False,False,False,L,Y
+539,8474849,LW,Antoine Roussel,/api/v1/people/8474849,Antoine,Roussel,26,1989-11-21,31,Roubaix,,FRA,FRA,"5' 11""",199,True,False,False,False,L,Y
+540,8475907,LW,Micheal Ferland,/api/v1/people/8475907,Micheal,Ferland,79,1992-04-20,28,Swan River,MB,CAN,CAN,"6' 1""",217,True,False,False,False,L,Y
+541,8476468,C,J.T. Miller,/api/v1/people/8476468,J.T.,Miller,9,1993-03-14,27,East Palestine,OH,USA,USA,"6' 1""",218,True,False,False,False,L,Y
+542,8476871,LW,Tanner Pearson,/api/v1/people/8476871,Tanner,Pearson,70,1992-08-10,28,Kitchener,ON,CAN,CAN,"6' 1""",201,True,False,False,False,L,Y
+543,8477220,D,Nate Schmidt,/api/v1/people/8477220,Nate,Schmidt,88,1991-07-16,29,St. Cloud,MN,USA,USA,"6' 0""",194,True,False,False,False,L,Y
+544,8477473,RW,Justin Bailey,/api/v1/people/8477473,Justin,Bailey,38,1995-07-01,25,Buffalo,NY,USA,USA,"6' 4""",214,True,False,False,False,R,Y
+545,8477500,C,Bo Horvat,/api/v1/people/8477500,Bo,Horvat,53,1995-04-05,25,London,ON,CAN,CAN,"6' 0""",215,True,False,False,False,L,Y
+546,8477937,RW,Jake Virtanen,/api/v1/people/8477937,Jake,Virtanen,18,1996-08-17,24,Langley,BC,CAN,CAN,"6' 1""",226,True,False,False,False,R,Y
+547,8477963,C,Jayce Hawryluk,/api/v1/people/8477963,Jayce,Hawryluk,79,1996-01-01,24,Yorkton,SK,CAN,CAN,"5' 11""",196,True,False,False,False,R,Y
+548,8477967,G,Thatcher Demko,/api/v1/people/8477967,Thatcher,Demko,35,1995-12-08,25,San Diego,CA,USA,USA,"6' 4""",192,True,False,False,True,L,Y
+549,8478444,RW,Brock Boeser,/api/v1/people/8478444,Brock,Boeser,6,1997-02-25,23,Burnsville,MN,USA,USA,"6' 1""",208,True,False,False,False,R,Y
+550,8478874,C,Adam Gaudette,/api/v1/people/8478874,Adam,Gaudette,96,1996-10-03,24,Braintree,MA,USA,USA,"6' 1""",170,True,False,False,False,R,Y
+551,8479355,D,Olli Juolevi,/api/v1/people/8479355,Olli,Juolevi,48,1998-05-05,22,Helsinki,,FIN,FIN,"6' 2""",182,True,False,False,True,L,Y
+552,8479772,C,Zack MacEwen,/api/v1/people/8479772,Zack,MacEwen,71,1996-07-08,24,Charlottetown,PE,CAN,CAN,"6' 3""",205,True,False,False,True,R,Y
+553,8480012,C,Elias Pettersson,/api/v1/people/8480012,Elias,Pettersson,40,1998-11-12,22,Sundsvall,,SWE,SWE,"6' 2""",176,True,False,False,False,L,Y
+554,8480800,D,Quinn Hughes,/api/v1/people/8480800,Quinn,Hughes,43,1999-10-14,21,Orlando,FL,USA,USA,"5' 10""",170,True,False,False,True,L,Y
+555,8481478,G,Jake Kielly,/api/v1/people/8481478,Jake,Kielly,30,1996-09-10,24,Eden Prairie,MN,USA,USA,"6' 2""",201,True,False,False,True,L,Y
+556,8481479,D,Brogan Rafferty,/api/v1/people/8481479,Brogan,Rafferty,3,1995-05-28,25,West Dundee,IL,USA,USA,"6' 0""",195,True,False,False,True,R,Y
+557,8470612,C,Ryan Getzlaf,/api/v1/people/8470612,Ryan,Getzlaf,15,1985-05-10,35,Regina,SK,CAN,CAN,"6' 3""",228,True,False,True,False,R,Y
+558,8470655,RW,David Backes,/api/v1/people/8470655,David,Backes,21,1984-05-01,36,Minneapolis,MN,USA,USA,"6' 3""",215,True,False,False,False,R,Y
+559,8474031,D,Kevin Shattenkirk,/api/v1/people/8474031,Kevin,Shattenkirk,22,1989-01-29,31,New Rochelle,NY,USA,USA,"6' 0""",203,True,False,False,False,R,Y
+560,8474641,C,Adam Henrique,/api/v1/people/8474641,Adam,Henrique,14,1990-02-06,30,Brantford,ON,CAN,CAN,"6' 0""",188,True,False,False,False,L,Y
+561,8474683,C,Derek Grant,/api/v1/people/8474683,Derek,Grant,38,1990-04-20,30,Abbotsford,BC,CAN,CAN,"6' 3""",206,True,False,False,False,L,Y
+562,8475164,RW,Jakob Silfverberg,/api/v1/people/8475164,Jakob,Silfverberg,33,1990-10-13,30,Gävle,,SWE,SWE,"6' 0""",208,True,True,False,False,R,Y
+563,8475235,LW,Nicolas Deslauriers,/api/v1/people/8475235,Nicolas,Deslauriers,20,1991-02-22,29,LaSalle,QC,CAN,CAN,"6' 3""",219,True,False,False,False,L,Y
+564,8475461,LW,Andrew Agozzino,/api/v1/people/8475461,Andrew,Agozzino,26,1991-01-03,29,Kleinburg,ON,CAN,CAN,"5' 10""",187,True,False,False,False,L,Y
+565,8475764,D,Cam Fowler,/api/v1/people/8475764,Cam,Fowler,4,1991-12-05,29,Windsor,ON,CAN,USA,"6' 1""",207,True,False,False,False,L,Y
+566,8476312,D,Josh Manson,/api/v1/people/8476312,Josh,Manson,42,1991-10-07,29,Hinsdale,IL,USA,CAN,"6' 3""",224,True,True,False,False,R,Y
+567,8476407,D,Andy Welinski,/api/v1/people/8476407,Andy,Welinski,45,1993-04-27,27,Duluth,MN,USA,USA,"6' 1""",201,True,False,False,False,R,Y
+568,8476434,G,John Gibson,/api/v1/people/8476434,John,Gibson,36,1993-07-14,27,Pittsburgh,PA,USA,USA,"6' 2""",207,True,False,False,False,L,Y
+569,8476483,LW,Rickard Rakell,/api/v1/people/8476483,Rickard,Rakell,67,1993-05-05,27,Sundbyberg,,SWE,SWE,"6' 0""",196,True,False,False,False,R,Y
+570,8476854,D,Hampus Lindholm,/api/v1/people/8476854,Hampus,Lindholm,47,1994-01-20,26,Helsingborg,,SWE,SWE,"6' 3""",208,True,False,False,False,L,Y
+571,8477043,D,Christian Djoos,/api/v1/people/8477043,Christian,Djoos,29,1994-08-06,26,Gothenburg,,SWE,SWE,"6' 0""",180,True,False,False,False,L,Y
+572,8477240,C,Carter Rowney,/api/v1/people/8477240,Carter,Rowney,24,1989-05-10,31,Grande Prairie,AB,CAN,CAN,"6' 1""",208,True,False,False,False,R,Y
+573,8477947,LW,Sonny Milano,/api/v1/people/8477947,Sonny,Milano,22,1996-05-12,24,Massapequa,NY,USA,USA,"6' 0""",194,True,False,False,False,L,Y
+574,8478046,LW,Danton Heinen,/api/v1/people/8478046,Danton,Heinen,43,1995-07-05,25,Langley,BC,CAN,CAN,"6' 1""",188,True,False,False,False,L,Y
+575,8479351,C,Sam Steel,/api/v1/people/8479351,Sam,Steel,34,1998-02-03,22,Ardrossan,AB,CAN,CAN,"5' 11""",189,True,False,False,True,L,Y
+576,8479368,LW,Max Jones,/api/v1/people/8479368,Max,Jones,49,1998-02-17,22,Rochester,MI,USA,USA,"6' 1""",220,True,False,False,False,L,Y
+577,8479968,C,Vinni Lettieri,/api/v1/people/8479968,Vinni,Lettieri,95,1995-02-06,25,Excelsior,MN,USA,USA,"5' 11""",185,True,False,False,False,R,Y
+578,8476889,C,Radek Faksa,/api/v1/people/8476889,Radek,Faksa,12,1994-01-09,26,Vitkov,,CZE,CZE,"6' 3""",220,True,False,False,False,L,Y
+579,8478449,LW,Roope Hintz,/api/v1/people/8478449,Roope,Hintz,24,1996-11-17,24,Tampere,,FIN,FIN,"6' 3""",220,True,False,False,False,L,Y
+580,8478495,RW,Denis Gurianov,/api/v1/people/8478495,Denis,Gurianov,34,1997-06-07,23,Togliatti,,RUS,RUS,"6' 3""",200,True,False,False,True,L,Y
+581,8470794,C,Joe Pavelski,/api/v1/people/8470794,Joe,Pavelski,16,1984-07-11,36,Plover,WI,USA,USA,"5' 11""",195,True,False,False,False,R,Y
+582,8471228,RW,Alexander Radulov,/api/v1/people/8471228,Alexander,Radulov,47,1986-07-05,34,Nizhny Tagil,,RUS,RUS,"6' 1""",205,True,False,False,False,L,Y
+583,8471260,LW,Blake Comeau,/api/v1/people/8471260,Blake,Comeau,15,1986-02-18,34,Meadow Lake,SK,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y
+584,8471284,D,Andrej Sekera,/api/v1/people/8471284,Andrej,Sekera,5,1986-06-08,34,Bojnice,,SVK,SVK,"6' 0""",195,True,False,False,False,L,Y
+585,8471418,G,Anton Khudobin,/api/v1/people/8471418,Anton,Khudobin,35,1986-05-07,34,Ust-Kamenogorsk,,KAZ,RUS,"5' 11""",195,True,False,False,False,L,Y
+586,8471699,C,Andrew Cogliano,/api/v1/people/8471699,Andrew,Cogliano,11,1987-06-14,33,Toronto,ON,CAN,CAN,"5' 10""",175,True,False,False,False,L,Y
+587,8471750,G,Ben Bishop,/api/v1/people/8471750,Ben,Bishop,30,1986-11-21,34,Denver,CO,USA,USA,"6' 7""",210,True,False,False,False,L,Y
+588,8473994,LW,Jamie Benn,/api/v1/people/8473994,Jamie,Benn,14,1989-07-18,31,Victoria,BC,CAN,CAN,"6' 2""",210,True,False,True,False,L,Y
+589,8475413,C,Justin Dowling,/api/v1/people/8475413,Justin,Dowling,37,1990-10-01,30,Calgary,AB,CAN,CAN,"5' 10""",180,True,False,False,False,L,Y
+590,8475730,D,Stephen Johns,/api/v1/people/8475730,Stephen,Johns,28,1992-04-18,28,Ellwood City,PA,USA,USA,"6' 4""",225,True,False,False,False,R,Y
+591,8475794,C,Tyler Seguin,/api/v1/people/8475794,Tyler,Seguin,91,1992-01-31,28,Brampton,ON,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y
+592,8475796,D,Mark Pysyk,/api/v1/people/8475796,Mark,Pysyk,13,1992-01-11,28,Sherwood Park,AB,CAN,CAN,"6' 1""",196,True,False,False,False,R,Y
+593,8475906,D,John Klingberg,/api/v1/people/8475906,John,Klingberg,3,1992-08-14,28,Gothenburg,,SWE,SWE,"6' 3""",190,True,False,False,False,R,Y
+594,8476166,D,Taylor Fedun,/api/v1/people/8476166,Taylor,Fedun,42,1988-06-04,32,Edmonton,AB,CAN,CAN,"6' 1""",200,True,False,False,False,R,Y
+595,8476467,D,Jamie Oleksiak,/api/v1/people/8476467,Jamie,Oleksiak,2,1992-12-21,27,Toronto,ON,CAN,CAN,"6' 7""",255,True,False,False,False,L,Y
+596,8476902,D,Esa Lindell,/api/v1/people/8476902,Esa,Lindell,23,1994-05-23,26,Vantaa,,FIN,FIN,"6' 3""",215,True,False,False,False,L,Y
+597,8477450,C,Jason Dickinson,/api/v1/people/8477450,Jason,Dickinson,18,1995-07-04,25,Georgetown,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y
+598,8477810,D,Joel Hanley,/api/v1/people/8477810,Joel,Hanley,39,1991-06-08,29,Keswick,ON,CAN,CAN,"5' 11""",190,True,False,False,False,L,Y
+599,8479979,G,Jake Oettinger,/api/v1/people/8479979,Jake,Oettinger,29,1998-12-18,21,Lakeville,MN,USA,USA,"6' 5""",225,True,False,False,True,L,Y
+600,8480036,D,Miro Heiskanen,/api/v1/people/8480036,Miro,Heiskanen,4,1999-07-18,21,Espoo,,FIN,FIN,"6' 1""",190,True,False,False,False,L,Y
+601,8480848,C,Ty Dellandrea,/api/v1/people/8480848,Ty,Dellandrea,60,2000-07-21,20,Toronto,ON,CAN,CAN,"6' 1""",190,True,False,False,True,R,Y
+602,8481641,LW,Joel Kiviranta,/api/v1/people/8481641,Joel,Kiviranta,25,1996-03-23,24,Vantaa,,FIN,FIN,"5' 11""",180,True,False,False,True,L,Y
+603,8470604,C,Jeff Carter,/api/v1/people/8470604,Jeff,Carter,77,1985-01-01,35,London,ON,CAN,CAN,"6' 3""",219,True,True,False,False,R,Y
+604,8470606,RW,Dustin Brown,/api/v1/people/8470606,Dustin,Brown,23,1984-11-04,36,Ithaca,NY,USA,USA,"6' 0""",210,True,False,False,False,R,Y
+605,8471685,C,Anze Kopitar,/api/v1/people/8471685,Anze,Kopitar,11,1987-08-24,33,Jesenice,,SVN,SVN,"6' 3""",225,True,False,True,False,L,Y
+606,8471734,G,Jonathan Quick,/api/v1/people/8471734,Jonathan,Quick,32,1986-01-21,34,Milford,CT,USA,USA,"6' 1""",216,True,False,False,False,L,Y
+607,8474563,D,Drew Doughty,/api/v1/people/8474563,Drew,Doughty,8,1989-12-08,31,London,ON,CAN,CAN,"6' 1""",202,True,True,False,False,R,Y
+608,8476874,D,Olli Maatta,/api/v1/people/8476874,Olli,Maatta,6,1994-08-22,26,Jyväskylä,,FIN,FIN,"6' 2""",206,True,False,False,False,L,Y
+609,8476924,RW,Martin Frk,/api/v1/people/8476924,Martin,Frk,29,1993-10-05,27,Pelhrimov,,CZE,CZE,"6' 1""",205,True,False,False,False,R,Y
+610,8477073,D,Kurtis MacDermid,/api/v1/people/8477073,Kurtis,MacDermid,56,1994-03-25,26,Sauble Beach,ON,CAN,CAN,"6' 5""",233,True,False,False,False,L,Y
+611,8477234,G,Troy Grosenick,/api/v1/people/8477234,Troy,Grosenick,1,1989-08-27,31,Brookfield,WI,USA,USA,"6' 1""",185,True,False,False,False,L,Y
+612,8477361,G,Calvin Petersen,/api/v1/people/8477361,Calvin,Petersen,40,1994-10-19,26,Waterloo,IA,USA,USA,"6' 1""",185,True,False,False,True,R,Y
+613,8477960,C,Adrian Kempe,/api/v1/people/8477960,Adrian,Kempe,9,1996-09-13,24,Kramfors,,SWE,SWE,"6' 2""",201,True,False,False,False,L,Y
+614,8478020,C,Michael Amadio,/api/v1/people/8478020,Michael,Amadio,10,1996-05-13,24,Sault Ste. Marie,ON,CAN,CAN,"6' 1""",204,True,False,False,False,R,Y
+615,8478455,LW,Austin Wagner,/api/v1/people/8478455,Austin,Wagner,51,1997-06-23,23,Calgary,AB,CAN,CAN,"6' 1""",185,True,False,False,False,L,Y
+616,8478911,D,Matt Roy,/api/v1/people/8478911,Matt,Roy,3,1995-03-01,25,Detroit,MI,USA,USA,"6' 1""",200,True,False,False,True,R,Y
+617,8479675,C,Trevor Moore,/api/v1/people/8479675,Trevor,Moore,12,1995-03-31,25,Thousand Oaks,CA,USA,USA,"5' 10""",185,True,False,False,True,L,Y
+618,8479998,D,Mikey Anderson,/api/v1/people/8479998,Mikey,Anderson,44,1999-05-25,21,Fridley,MN,USA,USA,"6' 0""",197,True,False,False,True,L,Y
+619,8480014,C,Gabriel Vilardi,/api/v1/people/8480014,Gabriel,Vilardi,42,1999-08-16,21,Kingston,ON,CAN,CAN,"6' 3""",201,True,False,False,True,R,Y
+620,8480113,LW,Alex Iafallo,/api/v1/people/8480113,Alex,Iafallo,19,1993-12-21,26,Eden,NY,USA,USA,"6' 0""",188,True,False,False,False,L,Y
+621,8480336,D,Sean Walker,/api/v1/people/8480336,Sean,Walker,26,1994-11-13,26,Keswick,ON,CAN,CAN,"5' 11""",196,True,False,False,False,R,Y
+622,8481481,C,Blake Lizotte,/api/v1/people/8481481,Blake,Lizotte,46,1997-12-13,23,Lindstrom,MN,USA,USA,"5' 7""",172,True,False,False,True,L,Y
+623,8474578,D,Erik Karlsson,/api/v1/people/8474578,Erik,Karlsson,65,1990-05-31,30,Landsbro,,SWE,SWE,"6' 0""",190,True,True,False,False,R,I
+624,8476881,C,Tomas Hertl,/api/v1/people/8476881,Tomas,Hertl,48,1993-11-12,27,Praha,,CZE,CZE,"6' 2""",215,True,True,False,False,L,I
+625,8478099,RW,Kevin Labanc,/api/v1/people/8478099,Kevin,Labanc,62,1995-12-12,25,Brooklyn,NY,USA,USA,"5' 11""",185,True,False,False,False,R,Y
+626,8466139,C,Patrick Marleau,/api/v1/people/8466139,Patrick,Marleau,12,1979-09-15,41,Aneroid,SK,CAN,CAN,"6' 2""",215,True,False,False,False,L,Y
+627,8470613,D,Brent Burns,/api/v1/people/8470613,Brent,Burns,88,1985-03-09,35,Barrie,ON,CAN,CAN,"6' 5""",230,True,True,False,False,R,Y
+628,8471227,G,Devan Dubnyk,/api/v1/people/8471227,Devan,Dubnyk,40,1986-05-04,34,Regina,SK,CAN,CAN,"6' 6""",224,True,False,False,False,L,Y
+629,8471709,D,Marc-Edouard Vlasic,/api/v1/people/8471709,Marc-Edouard,Vlasic,44,1987-03-30,33,Montreal,QC,CAN,CAN,"6' 1""",205,True,False,False,False,L,Y
+630,8474053,C,Logan Couture,/api/v1/people/8474053,Logan,Couture,39,1989-03-28,31,Guelph,ON,CAN,CAN,"6' 1""",200,True,False,True,False,L,Y
+631,8474889,G,Martin Jones,/api/v1/people/8474889,Martin,Jones,31,1990-01-10,30,North Vancouver,BC,CAN,CAN,"6' 4""",190,True,False,False,False,L,Y
+632,8475169,LW,Evander Kane,/api/v1/people/8475169,Evander,Kane,9,1991-08-02,29,Vancouver,BC,CAN,CAN,"6' 2""",210,True,False,False,False,L,Y
+633,8476442,LW,Matt Nieto,/api/v1/people/8476442,Matt,Nieto,83,1992-11-05,28,Long Beach,CA,USA,USA,"5' 11""",185,True,False,False,False,L,Y
+634,8476474,RW,Stefan Noesen,/api/v1/people/8476474,Stefan,Noesen,11,1993-02-12,27,Plano,TX,USA,USA,"6' 1""",205,True,False,False,False,R,Y
+635,8477987,C,Ryan Donato,/api/v1/people/8477987,Ryan,Donato,16,1996-04-09,24,Boston,MA,USA,USA,"6' 0""",192,True,False,False,False,L,Y
+636,8478136,D,Jacob Middleton,/api/v1/people/8478136,Jacob,Middleton,67,1996-01-02,24,Wainwright,AB,CAN,CAN,"6' 3""",210,True,False,False,True,L,Y
+637,8478414,RW,Timo Meier,/api/v1/people/8478414,Timo,Meier,28,1996-10-08,24,Herisau,,CHE,CHE,"6' 0""",210,True,False,False,False,L,Y
+638,8479393,C,Noah Gregor,/api/v1/people/8479393,Noah,Gregor,73,1998-07-28,22,Beaumont,AB,CAN,CAN,"6' 0""",185,True,False,False,True,L,Y
+639,8479580,C,Dylan Gambrell,/api/v1/people/8479580,Dylan,Gambrell,7,1996-08-26,24,Bonney Lake,WA,USA,USA,"6' 0""",185,True,False,False,True,R,Y
+640,8479983,D,Mario Ferraro,/api/v1/people/8479983,Mario,Ferraro,38,1998-09-17,22,Toronto,ON,CAN,CAN,"5' 11""",185,True,False,False,True,L,Y
+641,8480160,D,Radim Simek,/api/v1/people/8480160,Radim,Simek,51,1992-09-20,28,Mlada Boleslav,,CZE,CZE,"5' 11""",200,True,False,False,False,L,Y
+642,8471273,C,Brandon Dubinsky,/api/v1/people/8471273,Brandon,Dubinsky,17,1986-04-29,34,Anchorage,AK,USA,USA,"6' 2""",208,True,False,False,False,L,I
+643,8480074,C,Alexandre Texier,/api/v1/people/8480074,Alexandre,Texier,42,1999-09-13,21,St. Martin D'heres,,FRA,FRA,"6' 1""",192,True,False,False,True,L,Y
+644,8469459,C,Mikko Koivu,/api/v1/people/8469459,Mikko,Koivu,9,1983-03-12,37,Turku,,FIN,FIN,"6' 3""",213,True,False,False,False,L,Y
+645,8471804,C,Nathan Gerbe,/api/v1/people/8471804,Nathan,Gerbe,24,1987-07-24,33,Oxford,MI,USA,USA,"5' 4""",169,True,False,False,False,L,Y
+646,8473422,LW,Nick Foligno,/api/v1/people/8473422,Nick,Foligno,71,1987-10-31,33,Buffalo,NY,USA,USA,"6' 0""",208,True,False,True,False,L,Y
+647,8474062,C,Riley Nash,/api/v1/people/8474062,Riley,Nash,20,1989-05-09,31,Consort,AB,CAN,CAN,"6' 2""",185,True,False,False,False,R,Y
+648,8474679,C,Gustav Nyquist,/api/v1/people/8474679,Gustav,Nyquist,14,1989-09-01,31,Halmstad,,SWE,SWE,"5' 11""",179,True,False,False,False,L,Y
+649,8474715,RW,Cam Atkinson,/api/v1/people/8474715,Cam,Atkinson,13,1989-06-05,31,Riverside,CT,USA,USA,"5' 8""",175,True,False,False,False,R,Y
+650,8475233,D,David Savard,/api/v1/people/8475233,David,Savard,58,1990-10-22,30,St. Hyacinthe,QC,CAN,CAN,"6' 2""",229,True,False,False,False,R,Y
+651,8476432,C,Boone Jenner,/api/v1/people/8476432,Boone,Jenner,38,1993-06-15,27,Dorchester,ON,CAN,CAN,"6' 2""",208,True,True,False,False,L,Y
+652,8476449,D,Scott Harrington,/api/v1/people/8476449,Scott,Harrington,4,1993-03-10,27,Kingston,ON,CAN,CAN,"6' 2""",204,True,False,False,False,L,Y
+653,8476870,C,Stefan Matteau,/api/v1/people/8476870,Stefan,Matteau,23,1994-02-23,26,Chicago,IL,USA,USA,"6' 2""",220,True,False,False,False,L,Y
+654,8476914,G,Joonas Korpisalo,/api/v1/people/8476914,Joonas,Korpisalo,70,1994-04-28,26,Pori,,FIN,FIN,"6' 3""",191,True,False,False,False,L,Y
+655,8477416,RW,Oliver Bjorkstrand,/api/v1/people/8477416,Oliver,Bjorkstrand,28,1995-04-10,25,Herning,,DNK,DNK,"6' 0""",177,True,False,False,False,R,Y
+656,8477495,D,Seth Jones,/api/v1/people/8477495,Seth,Jones,3,1994-10-03,26,Arlington,TX,USA,USA,"6' 4""",209,True,False,False,False,R,Y
+657,8477503,C,Max Domi,/api/v1/people/8477503,Max,Domi,13,1995-03-02,25,Winnipeg,MB,CAN,CAN,"5' 10""",192,True,False,False,False,L,Y
+658,8478007,G,Elvis Merzlikins,/api/v1/people/8478007,Elvis,Merzlikins,90,1994-04-13,26,Riga,,LVA,LVA,"6' 3""",181,True,False,False,True,L,Y
+659,8478460,D,Zach Werenski,/api/v1/people/8478460,Zach,Werenski,8,1997-07-19,23,Grosse Pointe,MI,USA,USA,"6' 2""",212,True,False,False,False,L,Y
+660,8478567,D,Dean Kukan,/api/v1/people/8478567,Dean,Kukan,46,1993-07-08,27,Volketswil,,CHE,CHE,"6' 2""",192,True,False,False,False,L,Y
+661,8478882,D,Vladislav Gavrikov,/api/v1/people/8478882,Vladislav,Gavrikov,44,1995-11-21,25,Yaroslavl,,RUS,RUS,"6' 3""",213,True,False,False,True,L,Y
+662,8479369,D,Andrew Peeke,/api/v1/people/8479369,Andrew,Peeke,2,1998-03-17,22,Parkland,FL,USA,USA,"6' 3""",194,True,False,False,True,R,Y
+663,8479400,C,Pierre-Luc Dubois,/api/v1/people/8479400,Pierre-Luc,Dubois,18,1998-06-24,22,Ste-Agathe-des-Monts,QC,CAN,CAN,"6' 3""",218,True,False,False,False,L,Y
+664,8479945,D,Gavin Bayreuther,/api/v1/people/8479945,Gavin,Bayreuther,44,1994-05-12,26,Canaan,NH,USA,USA,"6' 1""",195,True,False,False,True,L,Y
+665,8480162,G,Matiss Kivlenieks,/api/v1/people/8480162,Matiss,Kivlenieks,80,1996-08-26,24,Riga,,LVA,USA,"6' 2""",178,True,False,False,True,L,Y
+666,8480762,LW,Eric Robinson,/api/v1/people/8480762,Eric,Robinson,50,1995-06-14,25,Bellmawr,NJ,USA,USA,"6' 2""",197,True,False,False,True,L,Y
+667,8480853,C,Liam Foudy,/api/v1/people/8480853,Liam,Foudy,19,2000-02-04,20,Scarborough,ON,CAN,CAN,"6' 2""",182,True,False,False,True,L,Y
+668,8474688,D,Greg Pateryn,/api/v1/people/8474688,Greg,Pateryn,29,1990-06-20,30,Sterling Heights,MI,USA,USA,"6' 3""",220,True,False,False,False,R,Y
+669,8475760,C,Nick Bjugstad,/api/v1/people/8475760,Nick,Bjugstad,27,1992-07-17,28,Minneapolis,MN,USA,USA,"6' 6""",215,True,False,False,False,R,Y
+670,8478039,G,Kaapo Kahkonen,/api/v1/people/8478039,Kaapo,Kahkonen,34,1996-08-16,24,Helsinki,,FIN,FIN,"6' 2""",215,True,False,False,True,L,Y
+671,8478413,LW,Jordan Greenway,/api/v1/people/8478413,Jordan,Greenway,18,1997-02-16,23,Canton,NY,USA,USA,"6' 6""",225,True,False,False,False,L,Y
+672,8478864,LW,Kirill Kaprizov,/api/v1/people/8478864,Kirill,Kaprizov,97,1997-04-26,23,Novokuznetsk,,RUS,RUS,"5' 9""",185,True,False,False,True,L,Y
+673,8470600,D,Ryan Suter,/api/v1/people/8470600,Ryan,Suter,20,1985-01-21,35,Madison,WI,USA,USA,"6' 2""",206,True,True,False,False,L,Y
+674,8470610,LW,Zach Parise,/api/v1/people/8470610,Zach,Parise,11,1984-07-28,36,Minneapolis,MN,USA,USA,"5' 11""",195,True,True,False,False,L,Y
+675,8471774,G,Alex Stalock,/api/v1/people/8471774,Alex,Stalock,32,1987-07-28,33,St. Paul,MN,USA,USA,"6' 0""",200,True,False,False,False,L,Y
+676,8474009,C,Nick Bonino,/api/v1/people/8474009,Nick,Bonino,13,1988-04-20,32,Hartford,CT,USA,USA,"6' 1""",196,True,False,False,False,L,Y
+677,8474716,D,Jared Spurgeon,/api/v1/people/8474716,Jared,Spurgeon,46,1989-11-29,31,Edmonton,AB,CAN,CAN,"5' 9""",167,True,False,False,False,R,Y
+678,8475149,C,Marcus Johansson,/api/v1/people/8475149,Marcus,Johansson,90,1990-10-06,30,Landskrona,,SWE,SWE,"6' 1""",205,True,False,False,False,L,Y
+679,8475220,LW,Marcus Foligno,/api/v1/people/8475220,Marcus,Foligno,17,1991-08-10,29,Buffalo,NY,USA,CAN,"6' 3""",224,True,False,False,False,L,Y
+680,8475660,G,Cam Talbot,/api/v1/people/8475660,Cam,Talbot,33,1987-07-05,33,Caledonia,ON,CAN,CAN,"6' 4""",196,True,False,False,False,L,Y
+681,8475692,RW,Mats Zuccarello,/api/v1/people/8475692,Mats,Zuccarello,36,1987-09-01,33,Oslo,,NOR,NOR,"5' 8""",178,True,False,False,False,L,Y
+682,8476437,C,Victor Rask,/api/v1/people/8476437,Victor,Rask,49,1993-03-01,27,Leksand,,SWE,SWE,"6' 2""",193,True,False,False,False,L,Y
+683,8476463,D,Jonas Brodin,/api/v1/people/8476463,Jonas,Brodin,25,1993-07-12,27,Karlstad,,SWE,SWE,"6' 1""",194,True,False,False,False,L,Y
+684,8476779,D,Brad Hunt,/api/v1/people/8476779,Brad,Hunt,77,1988-08-24,32,Maple Ridge,BC,CAN,CAN,"5' 9""",176,True,False,False,False,L,Y
+685,8476856,D,Matt Dumba,/api/v1/people/8476856,Matt,Dumba,24,1994-07-25,26,Regina,SK,CAN,CAN,"6' 0""",180,True,False,False,False,R,Y
+686,8477369,D,Carson Soucy,/api/v1/people/8477369,Carson,Soucy,21,1994-07-27,26,Viking,AB,CAN,CAN,"6' 5""",210,True,False,False,True,L,Y
+687,8477451,RW,Ryan Hartman,/api/v1/people/8477451,Ryan,Hartman,38,1994-09-20,26,Hilton Head Isl.,SC,USA,USA,"6' 0""",189,True,False,False,False,R,Y
+688,8477942,LW,Kevin Fiala,/api/v1/people/8477942,Kevin,Fiala,22,1996-07-22,24,St. Gallen,,CHE,CHE,"5' 10""",193,True,False,False,False,L,Y
+689,8478493,C,Joel Eriksson Ek,/api/v1/people/8478493,Joel,Eriksson Ek,14,1997-01-29,23,Karlstad,,SWE,SWE,"6' 1""",210,True,False,False,False,L,Y
+690,8481477,C,Nico Sturm,/api/v1/people/8481477,Nico,Sturm,7,1995-05-03,25,Augsburg,,DEU,DEU,"6' 3""",206,True,False,False,True,L,Y
+691,8473412,C,Bryan Little,/api/v1/people/8473412,Bryan,Little,18,1987-11-12,33,Edmonton,AB,CAN,CAN,"6' 0""",191,True,False,False,False,R,Y
+692,8478424,C,Jansen Harkins,/api/v1/people/8478424,Jansen,Harkins,12,1997-05-23,23,Cleveland,OH,USA,USA,"6' 1""",182,True,False,False,True,L,Y
+693,8478891,C,Mason Appleton,/api/v1/people/8478891,Mason,Appleton,22,1996-01-15,24,Green Bay,WI,USA,USA,"6' 2""",193,True,False,False,False,R,Y
+694,8478915,D,Sami Niku,/api/v1/people/8478915,Sami,Niku,8,1996-10-10,24,Haapavesi,,FIN,FIN,"6' 1""",176,True,False,False,False,L,Y
+695,8470775,C,Nate Thompson,/api/v1/people/8470775,Nate,Thompson,11,1984-10-05,36,Anchorage,AK,USA,USA,"6' 1""",205,True,False,False,False,L,Y
+696,8471218,RW,Blake Wheeler,/api/v1/people/8471218,Blake,Wheeler,26,1986-08-31,34,Plymouth,MN,USA,USA,"6' 5""",225,True,False,True,False,R,Y
+697,8471669,C,Paul Stastny,/api/v1/people/8471669,Paul,Stastny,25,1985-12-27,34,Quebec City,QC,CAN,USA,"6' 0""",193,True,False,False,False,L,Y
+698,8473618,LW,Mathieu Perreault,/api/v1/people/8473618,Mathieu,Perreault,85,1988-01-05,32,Drummondville,QC,CAN,CAN,"5' 10""",188,True,False,False,False,L,Y
+699,8474579,D,Luca Sbisa,/api/v1/people/8474579,Luca,Sbisa,5,1990-01-30,30,Ozieri,,ITA,CHE,"6' 3""",206,True,False,False,False,L,Y
+700,8475762,D,Derek Forbort,/api/v1/people/8475762,Derek,Forbort,24,1992-03-04,28,Duluth,MN,USA,USA,"6' 4""",219,True,False,False,False,L,Y
+701,8476316,G,Laurent Brossoit,/api/v1/people/8476316,Laurent,Brossoit,30,1993-03-23,27,Port Alberni,BC,CAN,CAN,"6' 3""",204,True,False,False,False,L,Y
+702,8476331,D,Dylan DeMelo,/api/v1/people/8476331,Dylan,DeMelo,2,1993-05-01,27,London,ON,CAN,CAN,"6' 0""",191,True,False,False,False,R,Y
+703,8476392,C,Adam Lowry,/api/v1/people/8476392,Adam,Lowry,17,1993-03-29,27,St. Louis,MO,USA,USA,"6' 5""",210,True,False,False,False,L,Y
+704,8476460,C,Mark Scheifele,/api/v1/people/8476460,Mark,Scheifele,55,1993-03-15,27,Kitchener,ON,CAN,CAN,"6' 3""",207,True,True,False,False,R,Y
+705,8476470,D,Nathan Beaulieu,/api/v1/people/8476470,Nathan,Beaulieu,88,1992-12-05,28,Strathroy,ON,CAN,CAN,"6' 2""",200,True,False,False,False,L,Y
+706,8476945,G,Connor Hellebuyck,/api/v1/people/8476945,Connor,Hellebuyck,37,1993-05-19,27,Commerce,MI,USA,USA,"6' 4""",207,True,False,False,False,L,Y
+707,8476952,C,Dominic Toninato,/api/v1/people/8476952,Dominic,Toninato,21,1994-03-09,26,Duluth,MN,USA,USA,"6' 2""",191,True,False,False,False,L,Y
+708,8477359,D,Tucker Poolman,/api/v1/people/8477359,Tucker,Poolman,3,1993-06-08,27,Dubuque,IA,USA,USA,"6' 2""",199,True,False,False,False,R,Y
+709,8477429,C,Andrew Copp,/api/v1/people/8477429,Andrew,Copp,9,1994-07-08,26,Ann Arbor,MI,USA,USA,"6' 1""",206,True,False,False,False,L,Y
+710,8477480,G,Eric Comrie,/api/v1/people/8477480,Eric,Comrie,1,1995-07-06,25,Edmonton,AB,CAN,CAN,"6' 1""",175,True,False,False,True,L,Y
+711,8477504,D,Josh Morrissey,/api/v1/people/8477504,Josh,Morrissey,44,1995-03-28,25,Calgary,AB,CAN,CAN,"6' 0""",195,True,True,False,False,L,Y
+712,8477940,LW,Nikolaj Ehlers,/api/v1/people/8477940,Nikolaj,Ehlers,27,1996-02-14,24,Aalborg,,DNK,DNK,"6' 0""",172,True,False,False,False,L,Y
+713,8478398,LW,Kyle Connor,/api/v1/people/8478398,Kyle,Connor,81,1996-12-09,24,Shelby Township,MI,USA,USA,"6' 1""",182,True,False,False,False,L,Y
+714,8478458,C,Jack Roslovic,/api/v1/people/8478458,Jack,Roslovic,28,1997-01-29,23,Columbus,OH,USA,USA,"6' 1""",187,True,False,False,False,R,Y
+715,8479339,RW,Patrik Laine,/api/v1/people/8479339,Patrik,Laine,29,1998-04-19,22,Tampere,,FIN,FIN,"6' 5""",206,True,False,False,False,R,Y
+716,8480145,D,Neal Pionk,/api/v1/people/8480145,Neal,Pionk,4,1995-07-29,25,Omaha,NE,USA,USA,"6' 0""",186,True,False,False,False,R,Y
+717,8478432,RW,Christian Fischer,/api/v1/people/8478432,Christian,Fischer,36,1997-04-15,23,Chicago,IL,USA,USA,"6' 2""",214,True,False,False,False,R,Y
+718,8480849,C,Barrett Hayton,/api/v1/people/8480849,Barrett,Hayton,29,2000-06-09,20,Peterborough,ON,CAN,CAN,"6' 1""",190,True,False,False,True,L,Y
+719,8480950,D,Ilya Lyubushkin,/api/v1/people/8480950,Ilya,Lyubushkin,46,1994-04-06,26,Moscow,,RUS,RUS,"6' 2""",201,True,False,False,False,R,Y
+720,8471274,D,Alex Goligoski,/api/v1/people/8471274,Alex,Goligoski,33,1985-07-30,35,Grand Rapids,MN,USA,USA,"5' 11""",185,True,False,False,False,L,Y
+721,8471769,D,Niklas Hjalmarsson,/api/v1/people/8471769,Niklas,Hjalmarsson,4,1987-06-06,33,Eksjo,,SWE,SWE,"6' 3""",197,True,True,False,False,L,Y
+722,8473548,RW,Phil Kessel,/api/v1/people/8473548,Phil,Kessel,81,1987-10-02,33,Madison,WI,USA,USA,"6' 0""",202,True,False,False,False,R,Y
+723,8474218,D,Jason Demers,/api/v1/people/8474218,Jason,Demers,55,1988-06-09,32,Dorval,QC,CAN,CAN,"6' 1""",195,True,False,False,False,R,Y
+724,8474613,C,Derek Stepan,/api/v1/people/8474613,Derek,Stepan,21,1990-06-18,30,Hastings,MN,USA,USA,"6' 0""",196,True,True,False,False,R,Y
+725,8475171,D,Oliver Ekman-Larsson,/api/v1/people/8475171,Oliver,Ekman-Larsson,23,1991-07-17,29,Karlskrona,,SWE,SWE,"6' 2""",200,True,False,True,False,L,Y
+726,8475311,G,Darcy Kuemper,/api/v1/people/8475311,Darcy,Kuemper,35,1990-05-05,30,Saskatoon,SK,CAN,CAN,"6' 5""",215,True,False,False,False,L,Y
+727,8475728,C,Johan Larsson,/api/v1/people/8475728,Johan,Larsson,22,1992-07-25,28,Lau,,SWE,SWE,"5' 11""",204,True,False,False,False,L,Y
+728,8475752,C,Tyler Pitlick,/api/v1/people/8475752,Tyler,Pitlick,17,1991-11-01,29,Minneapolis,MN,USA,USA,"6' 2""",200,True,False,False,False,R,Y
+729,8477293,G,Antti Raanta,/api/v1/people/8477293,Antti,Raanta,32,1989-05-12,31,Rauma,,FIN,FIN,"6' 0""",195,True,False,False,False,L,Y
+730,8477401,C,John Hayden,/api/v1/people/8477401,John,Hayden,15,1995-02-14,25,Chicago,IL,USA,USA,"6' 3""",223,True,False,False,False,R,Y
+731,8477851,D,Jordan Oesterle,/api/v1/people/8477851,Jordan,Oesterle,82,1992-06-25,28,Dearborn Heights,MI,USA,USA,"6' 0""",182,True,False,False,False,L,Y
+732,8477951,C,Nick Schmaltz,/api/v1/people/8477951,Nick,Schmaltz,8,1996-02-23,24,Madison,WI,USA,USA,"6' 0""",177,True,False,False,False,R,Y
+733,8477989,C,Christian Dvorak,/api/v1/people/8477989,Christian,Dvorak,18,1996-02-02,24,Palos,IL,USA,USA,"6' 0""",195,True,False,False,False,L,Y
+734,8478474,LW,Lawson Crouse,/api/v1/people/8478474,Lawson,Crouse,67,1997-06-23,23,Mt. Brydges,ON,CAN,CAN,"6' 4""",220,True,False,False,False,L,Y
+735,8478476,D,Kyle Capobianco,/api/v1/people/8478476,Kyle,Capobianco,75,1997-08-13,23,Mississauga,ON,CAN,CAN,"6' 1""",196,True,False,False,True,L,Y
+736,8478499,G,Adin Hill,/api/v1/people/8478499,Adin,Hill,31,1996-05-11,24,Comox,BC,CAN,CAN,"6' 6""",202,True,False,False,True,L,Y
+737,8478856,RW,Conor Garland,/api/v1/people/8478856,Conor,Garland,83,1996-03-11,24,Scituate,MA,USA,USA,"5' 10""",165,True,False,False,False,R,Y
+738,8479343,RW,Clayton Keller,/api/v1/people/8479343,Clayton,Keller,9,1998-07-29,22,Chesterfield,MO,USA,USA,"5' 10""",170,True,False,False,False,L,Y
+739,8479345,D,Jakob Chychrun,/api/v1/people/8479345,Jakob,Chychrun,6,1998-03-31,22,Boca Raton,FL,USA,USA,"6' 2""",210,True,False,False,False,L,Y
+740,8481522,C,Peyton Krebs,/api/v1/people/8481522,Peyton,Krebs,18,2001-01-26,19,Calgary,AB,CAN,CAN,"5' 11""",180,True,False,False,True,L,Y
+741,8470594,G,Marc-Andre Fleury,/api/v1/people/8470594,Marc-Andre,Fleury,29,1984-11-28,36,Sorel,QC,CAN,CAN,"6' 2""",185,True,False,False,False,L,Y
+742,8471817,RW,Ryan Reaves,/api/v1/people/8471817,Ryan,Reaves,75,1987-01-20,33,Winnipeg,MB,CAN,CAN,"6' 2""",225,True,False,False,False,R,Y
+743,8474157,LW,Max Pacioretty,/api/v1/people/8474157,Max,Pacioretty,67,1988-11-20,32,New Canaan,CT,USA,USA,"6' 2""",215,True,False,False,False,L,Y
+744,8474166,D,Alec Martinez,/api/v1/people/8474166,Alec,Martinez,23,1987-07-26,33,Rochester Hills,MI,USA,USA,"6' 1""",209,True,False,False,False,L,Y
+745,8474207,D,Nick Holden,/api/v1/people/8474207,Nick,Holden,22,1987-05-15,33,St. Albert,AB,CAN,CAN,"6' 4""",212,True,False,False,False,L,Y
+746,8474565,D,Alex Pietrangelo,/api/v1/people/8474565,Alex,Pietrangelo,27,1990-01-18,30,King City,ON,CAN,CAN,"6' 3""",210,True,False,False,False,R,Y
+747,8475188,D,Brayden McNabb,/api/v1/people/8475188,Brayden,McNabb,3,1991-01-21,29,Davidson,SK,CAN,CAN,"6' 4""",213,True,False,False,False,L,Y
+748,8475191,RW,Reilly Smith,/api/v1/people/8475191,Reilly,Smith,19,1991-04-01,29,Mimico,ON,CAN,CAN,"6' 1""",183,True,False,False,False,L,Y
+749,8475215,G,Robin Lehner,/api/v1/people/8475215,Robin,Lehner,90,1991-07-24,29,Gothenburg,,SWE,SWE,"6' 4""",240,True,False,False,False,L,Y
+750,8475913,RW,Mark Stone,/api/v1/people/8475913,Mark,Stone,61,1992-05-13,28,Winnipeg,MB,CAN,CAN,"6' 3""",202,True,False,False,False,R,Y
+751,8476448,C,William Karlsson,/api/v1/people/8476448,William,Karlsson,71,1993-01-08,27,Marsta,,SWE,SWE,"6' 0""",195,True,False,False,False,L,Y
+752,8476539,C,Jonathan Marchessault,/api/v1/people/8476539,Jonathan,Marchessault,81,1990-12-27,29,Cap-Rouge,QC,CAN,CAN,"5' 9""",180,True,False,False,False,R,Y
+753,8476861,G,Oscar Dansk,/api/v1/people/8476861,Oscar,Dansk,35,1994-02-28,26,Stockholm,,SWE,SWE,"6' 3""",195,True,False,False,True,L,Y
+754,8476905,C,Chandler Stephenson,/api/v1/people/8476905,Chandler,Stephenson,20,1994-04-22,26,Saskatoon,SK,CAN,CAN,"6' 0""",208,True,False,False,False,L,Y
+755,8476982,C,Danny O'Regan,/api/v1/people/8476982,Danny,O'Regan,65,1994-01-30,26,Berlin,,DEU,USA,"5' 10""",180,True,False,False,True,R,Y
+756,8477447,D,Shea Theodore,/api/v1/people/8477447,Shea,Theodore,27,1995-08-03,25,Langley,BC,CAN,CAN,"6' 2""",195,True,False,False,False,L,Y
+757,8477472,D,Carl Dahlstrom,/api/v1/people/8477472,Carl,Dahlstrom,23,1995-01-28,25,Stockholm,,SWE,SWE,"6' 4""",231,True,False,False,False,L,Y
+758,8477478,LW,William Carrier,/api/v1/people/8477478,William,Carrier,28,1994-12-20,25,LaSalle,QC,CAN,CAN,"6' 2""",218,True,False,False,False,L,Y
+759,8477931,LW,Tomas Nosek,/api/v1/people/8477931,Tomas,Nosek,92,1992-09-01,28,Pardubice,,CZE,CZE,"6' 2""",205,True,False,False,False,L,Y
+760,8477949,RW,Alex Tuch,/api/v1/people/8477949,Alex,Tuch,89,1996-05-10,24,Syracuse,NY,USA,USA,"6' 4""",220,True,False,False,False,R,Y
+761,8478097,C,Reid Duke,/api/v1/people/8478097,Reid,Duke,37,1996-01-28,24,Calgary,AB,CAN,CAN,"6' 0""",191,True,False,False,True,R,Y
+762,8478106,RW,Dylan Sikura,/api/v1/people/8478106,Dylan,Sikura,95,1995-06-01,25,Aurora,ON,CAN,CAN,"5' 11""",166,True,False,False,False,L,Y
+763,8478462,C,Nicolas Roy,/api/v1/people/8478462,Nicolas,Roy,10,1997-02-05,23,Amos,QC,CAN,CAN,"6' 4""",200,True,False,False,True,R,Y
+764,8479639,D,Dylan Coghlan,/api/v1/people/8479639,Dylan,Coghlan,52,1998-02-19,22,Duncan,BC,CAN,CAN,"6' 2""",190,True,False,False,True,R,Y
+765,8480727,D,Zach Whitecloud,/api/v1/people/8480727,Zach,Whitecloud,2,1996-11-28,24,Brandon,MB,CAN,CAN,"6' 2""",209,True,False,False,True,R,Y
