@@ -3,33 +3,43 @@ import pandas as pd
 import numpy as np
 # from urllib2 import Request, urlopen
 import requests
-import itertools
-import json
-from itertools import chain
+#import itertools
+#import json
+#from itertools import chain
 from io import StringIO
-import ast
+#import ast
 import matplotlib
 import matplotlib.pyplot as plt
 color_map = plt.cm.winter
-from scipy.stats import kde
+#from scipy.stats import kde
 from matplotlib.patches import RegularPolygon
-import math
+#import math
 from PIL import Image
 import seaborn as sns
-import matplotlib.image as mpimg
-from matplotlib.pyplot import show
+#import matplotlib.image as mpimg
+#from matplotlib.pyplot import show
 
-from tqdm.notebook import tqdm, trange
-import time
+# from tqdm.notebook import tqdm, trange
+#import time
 st.set_page_config(layout='wide')
 
-from pandas.io.json import json_normalize
+#from pandas.io.json import json_normalize
 
 
 # Options
 year = '2019'
 season_type = '02' # Regular Season = 02 / Playoffs = 03 / Pre-Season = 01
 # max_game_ID = 1290 ## 1290 Games/Season
+
+# GoalieStats = pd.read_hdf("GoalieStats.h5", "GoalieStatistics")
+# SkaterStats = pd.read_hdf("SkaterStats.h5", "SkaterStatistics")
+# Goals = pd.read_hdf("Goals.h5", "Goals")
+# Shots = pd.read_hdf("Shots.h5", "Shots")
+# Hits = pd.read_hdf("Hits.h5", "Hits")
+# Missed = pd.read_hdf("Missed.h5", "Missed_Shots")
+# Penalties = pd.read_hdf("Penalties.h5", "Penalties")
+# NHLRoster = pd.read_hdf("NHLRoster.h5", "FullRoster")
+# PlayerDetails = pd.read_hdf("PlayerDetails.h5", "PlayerDetails")
 
 GoalieStats = pd.read_csv("GoalieStats.csv")
 GoalieStats = GoalieStats.drop(['Unnamed: 0'], axis = 1)
@@ -125,33 +135,6 @@ TeamIndex = {
     'Winnipeg Jets': 'WPG.png',
 }
 
-LeagueTable = pd.DataFrame()
-
-StandingsData = pd.DataFrame.from_dict(requests.get('https://statsapi.web.nhl.com/api/v1/standings', verify=False).json())
-for Division in StandingsData['records']:
-    #     print(Division)
-    DivisionName = Division['division']['name']
-    Conference = Division['conference']['name']
-    for Team in (Division['teamRecords']):
-        CurrentTeam = StringIO("""Name;Division;Conference;Wins;Losses;Overtime;Goals For;Goals Against;Points;Division Rank;Conference Rank;League Rank;Games Played
-        """ +
-                               str(Team['team']['name']) + ";" +
-                               str(Division['division']['name']) + ";" +
-                               str(Division['conference']['name']) + ";" +
-                               str(Team['leagueRecord']['wins']) + ";" +
-                               str(Team['leagueRecord']['losses']) + ";" +
-                               str(Team['leagueRecord']['ot']) + ";" +
-                               str(Team['goalsScored']) + ";" +
-                               str(Team['goalsAgainst']) + ";" +
-                               str(Team['points']) + ";" +
-                               str(Team['divisionRank']) + ";" +
-                               str(Team['conferenceRank']) + ";" +
-                               str(Team['leagueRank']) + ";" +
-                               str(Team['gamesPlayed']))
-        CurrentTeam = pd.read_csv(CurrentTeam, sep=";")
-
-        LeagueTable = LeagueTable.append(CurrentTeam, ignore_index=True)
-
 ##################
 # User Interface #
 ##################
@@ -161,6 +144,53 @@ st.sidebar.image('BW_Spine_2.png', width=100)
 Page = st.sidebar.radio("Select Page:", ['Standings', 'Player Statistics', 'Player Visualizations', 'Predictive Analytics'])
 
 if(Page == 'Standings'):
+
+    SeasonPick = st.sidebar.select_slider("Season:",
+                                  ['19992000', '20002001', '20012002', '20022003', '20032004',
+                                   '20052006', '20062007', '20072008', '20082009',
+                                   '20092010', '20102011', '20112012', '20122013', '20132014',
+                                   '20142015', '20152016', '20162017', '20172018', '20182019', '20192020', 'Current'],
+                                  value='Current',)
+
+    LeagueTable = pd.DataFrame()
+    if SeasonPick == 'Current':
+        try:
+            StandingsData = pd.DataFrame.from_dict(requests.get('https://statsapi.web.nhl.com/api/v1/standings', verify=False).json())
+            for Division in StandingsData['records']:
+                #     print(Division)
+                DivisionName = Division['division']['name']
+                Conference = Division['conference']['name']
+            st.header("Current Season")
+        except:
+            StandingsData = pd.DataFrame.from_dict(requests.get('https://statsapi.web.nhl.com/api/v1/standings?season=20192020', verify=False).json())
+            st.header("Current Season Hasn't Begun - Showing 2019-2020")
+    else:
+        StandingsData = pd.DataFrame.from_dict(requests.get('https://statsapi.web.nhl.com/api/v1/standings?season=' + SeasonPick, verify=False).json())
+        st.header(SeasonPick + " Season")
+    for Division in StandingsData['records']:
+        #     print(Division)
+        DivisionName = Division['division']['name']
+        Conference = Division['conference']['name']
+        for Team in (Division['teamRecords']):
+            CurrentTeam = StringIO("""Name;Division;Conference;Wins;Losses;Overtime;Goals For;Goals Against;Points;Division Rank;Conference Rank;League Rank;Games Played
+            """ +
+                                   str(Team['team']['name']) + ";" +
+                                   str(Division['division']['name']) + ";" +
+                                   str(Division['conference']['name']) + ";" +
+                                   str(Team['leagueRecord']['wins']) + ";" +
+                                   str(Team['leagueRecord']['losses']) + ";" +
+                                   str(Team['leagueRecord']['ot']) + ";" +
+                                   str(Team['goalsScored']) + ";" +
+                                   str(Team['goalsAgainst']) + ";" +
+                                   str(Team['points']) + ";" +
+                                   str(Team['divisionRank']) + ";" +
+                                   str(Team['conferenceRank']) + ";" +
+                                   str(Team['leagueRank']) + ";" +
+                                   str(Team['gamesPlayed']))
+            CurrentTeam = pd.read_csv(CurrentTeam, sep=";")
+
+            LeagueTable = LeagueTable.append(CurrentTeam, ignore_index=True)
+
     StatType = st.radio("Standings Type:", ['Division', 'Conference', 'League'])
 
     if StatType == 'League':
@@ -243,13 +273,13 @@ if(Page == 'Player Visualizations'):
         col1, col2, col3 = st.beta_columns(3)
         with col1:
             st.header("Goals")
-            st.pyplot(IceMaker(Goals.loc[Goals['P1Name'] == PlayerSelect]))
+            st.pyplot(IceMaker(Goals.loc[Goals['P1Name'] == PlayerSelect]), use_column_width=True)
         with col2:
             st.header("Shots")
-            st.pyplot(IceMaker(Shots.loc[Shots['P1Name'] == PlayerSelect]))
+            st.pyplot(IceMaker(Shots.loc[Shots['P1Name'] == PlayerSelect]), use_column_width=True)
         with col3:
             st.header("Hits")
-            st.pyplot(IceMaker(Hits.loc[Hits['P1Name'] == PlayerSelect]))
+            st.pyplot(IceMaker(Hits.loc[Hits['P1Name'] == PlayerSelect]), use_column_width=True)
 
         col1, col2, col3 = st.beta_columns(3)
         with col1:
@@ -280,11 +310,11 @@ if(Page == 'Player Visualizations'):
             # st.image('./NHLArena.png', use_column_width=True)
             st.pyplot(IceMaker(Goals.loc[Goals['P2Name'] == PlayerSelect].
                          append(Goals.loc[Goals['P3Name'] == PlayerSelect]).
-                         append(Goals.loc[Goals['P4Name'] == PlayerSelect])))
+                         append(Goals.loc[Goals['P4Name'] == PlayerSelect])), use_column_width=True)
         with col2:
             st.header("Shots Against")
             # st.image('./NHLArena.png', use_column_width=True)
-            st.pyplot(IceMaker(Shots.loc[Shots['P2Name'] == PlayerSelect]))
+            st.pyplot(IceMaker(Shots.loc[Shots['P2Name'] == PlayerSelect]), use_column_width=True)
 
         col1, col2, col3 = st.beta_columns([5, 5, 5])
         with col1:
