@@ -43,8 +43,8 @@ season_type = '02' # Regular Season = 02 / Playoffs = 03 / Pre-Season = 01
 
 GoalieStats = pd.read_csv("GoalieStats.csv")
 GoalieStats = GoalieStats.drop(['Unnamed: 0'], axis = 1)
-SkaterStats = pd.read_csv("SkaterStats.csv")
-SkaterStats = SkaterStats.drop(['Unnamed: 0'], axis = 1)
+# SkaterStats = pd.read_csv("SkaterStats.csv")
+# SkaterStats = SkaterStats.drop(['Unnamed: 0'], axis = 1)
 Goals = pd.read_csv("Goals.csv")
 Goals = Goals.drop(['Unnamed: 0'], axis = 1)
 Shots = pd.read_csv("Shots.csv")
@@ -211,17 +211,26 @@ if(Page == 'Player Statistics'):
     Position = st.sidebar.radio("Skaters or Goalies:", ['Skaters','Goalies'])
     if Position == 'Skaters':
         SeasonPick = st.sidebar.select_slider("Season:",
-                                              ['20052006', '20062007', '20072008', '20082009',
-                                               '20092010', '20102011', '20112012', '20122013', '20132014',
-                                               '20142015', '20152016', '20162017', '20172018', '20182019', '20192020',
-                                               'Current'],
-                                              value='Current', )
+                                              [20052006, 20062007, 20072008, 20082009,
+                                               20092010, 20102011, 20112012, 20122013, 20132014,
+                                               20142015, 20152016, 20162017, 20172018, 20182019, 20192020,
+                                               20202021],
+                                              value=20192020, )
         SkaterStats = pd.read_csv("SkaterSeasonStats.csv")
         SkaterStats = SkaterStats.drop(['Unnamed: 0'], axis=1)
         SkaterStats = SkaterStats.loc[SkaterStats['Season'] == SeasonPick]
         st.subheader("Skater Statistics")
         st.dataframe(SkaterStats.sort_values(by = ['P'], ascending=False).style.background_gradient(cmap=sns.diverging_palette(220, 20, as_cmap=True)), height=600)
     else:
+        SeasonPick = st.sidebar.select_slider("Season:",
+                                              [20052006, 20062007, 20072008, 20082009,
+                                               20092010, 20102011, 20112012, 20122013, 20132014,
+                                               20142015, 20152016, 20162017, 20172018, 20182019, 20192020,
+                                               20202021],
+                                              value=20192020, )
+        GoalieStats = pd.read_csv("GoalieSeasonStats.csv")
+        GoalieStats = GoalieStats.drop(['Unnamed: 0'], axis=1)
+        GoalieStats = GoalieStats.loc[GoalieStats['Season'] == SeasonPick]
         st.subheader("Goalie Statistics")
         st.dataframe(GoalieStats.sort_values(by = ['W'], ascending=False).style.background_gradient(cmap=sns.diverging_palette(220, 20, as_cmap=True)), height=600)
 
