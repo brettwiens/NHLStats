@@ -210,6 +210,15 @@ if(Page == 'Standings'):
 if(Page == 'Player Statistics'):
     Position = st.sidebar.radio("Skaters or Goalies:", ['Skaters','Goalies'])
     if Position == 'Skaters':
+        SeasonPick = st.sidebar.select_slider("Season:",
+                                              ['20052006', '20062007', '20072008', '20082009',
+                                               '20092010', '20102011', '20112012', '20122013', '20132014',
+                                               '20142015', '20152016', '20162017', '20172018', '20182019', '20192020',
+                                               'Current'],
+                                              value='Current', )
+        SkaterStats = pd.read_csv("SkaterSeasonStats.csv")
+        SkaterStats = SkaterStats.drop(['Unnamed: 0'], axis=1)
+        SkaterStats = SkaterStats.loc[SkaterStats['Season'] == SeasonPick]
         st.subheader("Skater Statistics")
         st.dataframe(SkaterStats.sort_values(by = ['P'], ascending=False).style.background_gradient(cmap=sns.diverging_palette(220, 20, as_cmap=True)), height=600)
     else:
