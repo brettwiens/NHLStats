@@ -602,4 +602,6 @@ if(Page == 'Predictive Analytics'):
 
     Prediction = round(Prediction.ravel()[0])
 
-    st.write(Prediction)
+    st.subheader(Prediction)
+
+    st.write(SS)
