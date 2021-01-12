@@ -18,6 +18,8 @@ from PIL import Image
 import seaborn as sns
 #import matplotlib.image as mpimg
 #from matplotlib.pyplot import show
+from tqdm.notebook import tqdm, trange
+from keras.models import load_model
 
 # from tqdm.notebook import tqdm, trange
 #import time
@@ -407,3 +409,197 @@ if(Page == 'Player Visualizations'):
     with col31:
         st.image('./TeamLogos/WSH.png', use_column_width=True)
 
+if(Page == 'Predictive Analytics'):
+
+    Skaters = NHLRoster.loc[NHLRoster['PosName'] != 'Goalie'].reset_index()
+
+    PlayerSelect = st.sidebar.selectbox('Select a Player',
+                                        Skaters['FullName'])
+    PlayerID = NHLRoster.loc[NHLRoster['FullName'] == PlayerSelect]['ID'].values[0]
+
+    st.header("Predicted Points for " + PlayerSelect)
+
+    pd.options.display.max_columns = None
+    Seasons = ['20152016', '20162017', '20172018', '20182019', '20192020', ]
+
+    SkaterStatistics = pd.DataFrame()
+    for Season in tqdm(Seasons):
+        intCounter = 0
+
+        print("https://statsapi.web.nhl.com/api/v1/people/" + str(
+            PlayerID) + "/stats?stats=statsSingleSeason&season=" + Season)
+        SourceData = pd.DataFrame.from_dict(requests.get(url="https://statsapi.web.nhl.com/api/v1/people/" + str(
+            PlayerID) + "/stats?stats=statsSingleSeason&season=" + Season).json()).to_dict()['stats'][0]['splits']
+        try:
+            SD = pd.DataFrame.from_dict(SourceData)['stat']
+            SD = SD.to_dict()[0]
+
+            CurrentPlayer = StringIO("TOI" + str(Season) +
+                                     '; A' + str(Season) +
+                                     '; G' + str(Season) +
+                                     '; P' + str(Season) +
+                                     '; PIM' + str(Season) +
+                                     '; Shots' + str(Season) +
+                                     '; Games' + str(Season) +
+                                     '; Hits' + str(Season) +
+                                     '; PPG' + str(Season) +
+                                     '; PPP' + str(Season) +
+                                     '; PPTOI' + str(Season) +
+                                     '; EVTOI' + str(Season) +
+                                     '; PIM2' + str(Season) +
+                                     '; FaceOffPCT' + str(Season) +
+                                     '; ShtPercent' + str(Season) +
+                                     '; GWG' + str(Season) +
+                                     '; OTG' + str(Season) +
+                                     '; SHG' + str(Season) +
+                                     '; SHP' + str(Season) +
+                                     '; SHTOI' + str(Season) +
+                                     '; Blocks' + str(Season) +
+                                     '; PlusMinus' + str(Season) +
+                                     '; Shifts' + str(Season) +
+                                     '; TOIperGame' + str(Season) +
+                                     '; EVTOIperGame' + str(Season) +
+                                     '; SHTOIperGame' + str(Season) +
+                                     '; PPTOIperGame' + str(Season) + """
+                                     """ +
+                                     str(SD['timeOnIce']) + "; " +
+                                     str(SD['assists']) + "; " +
+                                     str(SD['goals']) + "; " +
+                                     str(SD['points']) + "; " +
+                                     str(SD['pim']) + "; " +
+                                     str(SD['shots']) + "; " +
+                                     str(SD['games']) + "; " +
+                                     str(SD['hits']) + "; " +
+                                     str(SD['powerPlayGoals']) + "; " +
+                                     str(SD['powerPlayPoints']) + "; " +
+                                     str(SD['powerPlayTimeOnIce']) + "; " +
+                                     str(SD['evenTimeOnIce']) + "; " +
+                                     str(SD['penaltyMinutes']) + "; " +
+                                     str(SD['faceOffPct']) + "; " +
+                                     str(SD['shotPct']) + "; " +
+                                     str(SD['gameWinningGoals']) + "; " +
+                                     str(SD['overTimeGoals']) + "; " +
+                                     str(SD['shortHandedGoals']) + "; " +
+                                     str(SD['shortHandedPoints']) + "; " +
+                                     str(SD['shortHandedTimeOnIce']) + "; " +
+                                     str(SD['blocked']) + "; " +
+                                     str(SD['plusMinus']) + "; " +
+                                     str(SD['shifts']) + "; " +
+                                     str(SD['timeOnIcePerGame']) + "; " +
+                                     str(SD['evenTimeOnIcePerGame']) + "; " +
+                                     str(SD['shortHandedTimeOnIcePerGame']) + "; " +
+                                     str(SD['powerPlayTimeOnIcePerGame']))
+            CurrentPlayer = pd.read_csv(CurrentPlayer, sep=";")
+
+            SkaterStatistics = pd.concat([SkaterStatistics, CurrentPlayer], axis=1)
+            #         SkaterStatistics = SkaterStatistics.append(CurrentPlayer, ignore_index=True)
+            #         SkaterStatistics = SkaterStatistics.merge(CurrentPlayer, on='ID', how='outer')
+            intCounter += 1
+        except:
+            # print("Missing Stats for Player " + PlayerLink + " " + SkaterRoster['FullName'][intCounter])
+            intCounter += 1
+
+    SS = SkaterStatistics
+
+    Stats = ['TOI', 'Assists', 'Goals', 'Points', 'PIMS', 'Shots', 'Games', 'Hits', 'PPG', 'PPP', 'PPTOI', 'ESTOI',
+             'PIM2', 'FOPct', 'ShtPct',
+             'GWG', 'OTG', 'SHG', 'SHP', 'SHTOI', 'Blocks', 'PlusMinus', 'Shifts', 'TOIperGame', 'EVTOIperGame',
+             'SHTOIperGame', 'PPTOIperGame']
+
+    NewColumnNames = (
+            (pd.Series(Stats) + "LastYear").tolist() +
+            (pd.Series(Stats) + "2Years").tolist() +
+            (pd.Series(Stats) + "3Years").tolist() +
+            (pd.Series(Stats) + "4Years").tolist() +
+            (pd.Series(Stats) + "5Years").tolist()
+    )
+
+    SS.columns = NewColumnNames
+    SS = SS.drop(['TOILastYear', 'TOI2Years', 'TOI3Years', 'TOI4Years', 'TOI5Years'], axis=1)
+
+    SS = SS.drop([
+        'PIMSLastYear', 'HitsLastYear', 'PIM2LastYear',
+        'FOPctLastYear', 'ShtPctLastYear', 'OTGLastYear', 'SHGLastYear', 'SHPLastYear',
+        'SHTOILastYear', 'BlocksLastYear', 'PlusMinusLastYear',
+        'EVTOIperGameLastYear', 'SHTOIperGameLastYear', 'GamesLastYear', 'ESTOILastYear',
+        'ShiftsLastYear', 'TOIperGameLastYear', 'PPGLastYear', 'GWGLastYear',
+
+        'PIMS2Years', 'Hits2Years', 'PIM22Years',
+        'FOPct2Years', 'ShtPct2Years', 'OTG2Years', 'SHG2Years', 'SHP2Years',
+        'SHTOI2Years', 'Blocks2Years', 'PlusMinus2Years',
+        'EVTOIperGame2Years', 'SHTOIperGame2Years', 'Games2Years', 'ESTOI2Years',
+        'Shifts2Years', 'TOIperGame2Years', 'PPG2Years', 'GWG2Years',
+
+        'PIMS3Years', 'Hits3Years', 'PIM23Years',
+        'FOPct3Years', 'ShtPct3Years', 'OTG3Years', 'SHG3Years', 'SHP3Years',
+        'SHTOI3Years', 'Blocks3Years', 'PlusMinus3Years',
+        'EVTOIperGame3Years', 'SHTOIperGame3Years', 'Games3Years', 'ESTOI3Years',
+        'Shifts3Years', 'TOIperGame3Years', 'PPG3Years', 'GWG3Years',
+
+        'PIMS4Years', 'Hits4Years', 'PIM24Years',
+        'FOPct4Years', 'ShtPct4Years', 'OTG4Years', 'SHG4Years', 'SHP4Years',
+        'SHTOI4Years', 'Blocks4Years', 'PlusMinus4Years',
+        'EVTOIperGame4Years', 'SHTOIperGame4Years', 'Games4Years', 'ESTOI4Years',
+        'Shifts4Years', 'TOIperGame4Years', 'PPG4Years', 'GWG4Years',
+
+        'PIMS5Years', 'Hits5Years', 'PIM25Years',
+        'FOPct5Years', 'ShtPct5Years', 'OTG5Years', 'SHG5Years', 'SHP5Years',
+        'SHTOI5Years', 'Blocks5Years', 'PlusMinus5Years',
+        'EVTOIperGame5Years', 'SHTOIperGame5Years', 'Games5Years', 'ESTOI5Years',
+        'Shifts5Years', 'TOIperGame5Years', 'PPG5Years', 'GWG5Years', ], axis=1)
+
+    Player = 0
+    SS['Years'] = 0
+    if SS['PointsLastYear'][Player] > 0:
+        if SS['Points2Years'][Player] > 0:
+            if SS['Points3Years'][Player] > 0:
+                if SS['Points4Years'][Player] > 0:
+                    if SS['Points5Years'][Player] > 0:
+                        SS['Years'][Player] = 5
+                    else:
+                        SS['Years'][Player] = 4
+                else:
+                    SS['Years'][Player] = 3
+            else:
+                SS['Years'][Player] = 2
+        else:
+            SS['Years'][Player] = 1
+    else:
+        SS['Years'][Player] = 0
+
+    # print(SS)
+
+    SS = SS.replace({":": "."}, regex=True)
+    SS['PPTOILastYear'] = SS['PPTOILastYear'].astype(float)
+
+    SS['PPTOIperGameLastYear'] = SS['PPTOIperGameLastYear'].astype(float)
+    SS['PPTOI2Years'] = SS['PPTOI2Years'].astype(float)
+    SS['PPTOIperGame2Years'] = SS['PPTOIperGame2Years'].astype(float)
+    SS['PPTOI3Years'] = SS['PPTOI3Years'].astype(float)
+    SS['PPTOIperGame3Years'] = SS['PPTOIperGame3Years'].astype(float)
+    SS['PPTOI4Years'] = SS['PPTOI4Years'].astype(float)
+    SS['PPTOIperGame4Years'] = SS['PPTOIperGame4Years'].astype(float)
+    SS['PPTOI5Years'] = SS['PPTOI5Years'].astype(float)
+    SS['PPTOIperGame5Years'] = SS['PPTOIperGame5Years'].astype(float)
+
+    Maxs = [83.00, 60.00, 112.00, 398.00, 44.00, 426.48, 5.25, 83.00, 60.00, 113.00, 528.00, 46.00, 455.32, 6.14, 83.00,
+            65.00, 113.00, 528.00,
+            46.00, 470.45, 6.14, 92.00, 65.00, 120.00, 528.00, 61.00, 602.57, 7.21, 96.00, 65.00, 125.00, 528.00, 61.00,
+            602.57, 7.21, 5.00]
+
+    normalizedSS = SS / Maxs
+
+
+    def coeff_determination(y_true, y_pred):
+        SS_res = K.sum(K.square(y_true - y_pred))
+        SS_tot = K.sum(K.square(y_true - K.mean(y_true)))
+        return (1 - SS_res / (SS_tot + K.epsilon()))
+
+
+    model = load_model('best_model.h5', custom_objects={'coeff_determination': coeff_determination})
+
+    Prediction = model.predict(normalizedSS)
+
+    Prediction = round(Prediction.ravel()[0])
+
+    st.write(Prediction)
