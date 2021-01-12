@@ -6,3 +6,5 @@ matplotlib
 pillow
 seaborn
 tables
+tqdm
+keras
