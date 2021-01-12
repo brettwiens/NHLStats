@@ -7,4 +7,5 @@ pillow
 seaborn
 tables
 tqdm
+tensorflow
 keras
